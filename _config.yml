@@ -138,7 +138,8 @@ title-separator: "-"
 
 # Build a list of collections for to display several posts on a page
 collections: 
-  researcher-spotlights
+  researcher-spotlights:
+    permalink: /researcher-spotlights/
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
