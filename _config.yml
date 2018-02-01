@@ -136,6 +136,11 @@ excerpt_length: 50
 # and RSS feed title
 title-separator: "-"
 
+# Build a list of collections for to display several posts on a page
+collections: 
+  researcher-spotlights:
+    permalink: /researcher-spotlights/:path/
+
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
