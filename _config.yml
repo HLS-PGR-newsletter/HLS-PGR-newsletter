@@ -28,7 +28,7 @@ navbar-links:
     - Good News: "blank"
     - Social Events: "blank"
   Research:
-    - Researcher Spotlight: "blank"
+    - Researcher Spotlight: "spotlight-index"
     - Research Participation: "blank"
     - Opportunities: "blank"
   Health and Wellbeing: "blank"
