@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Postgraduate Research Student Newsletter
-subtitle: Coventry University's Health and Life Sciences PGR Newsletter
+title: Researcher Spotlights
+subtitle: Our PhD Students Answer Four Questions.
 use-site-title: true
 ---
 
 <div class="researcher-spotlights-list">
-  {% for post in paginator.posts %}
+  {% for post in paginator.researcher-spotlights %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
 	  <h2 class="post-title">{{ post.title }}</h2>
