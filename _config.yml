@@ -139,7 +139,7 @@ title-separator: "-"
 # Build a list of collections for to display several posts on a page
 collections: 
   researcher-spotlights:
-    permalink: /researcher-spotlights/:short_year/:month/:day/:title
+    permalink: /researcher-spotlights/:short_year/:month/:day/:title/
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
