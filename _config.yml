@@ -27,6 +27,7 @@ navbar-links:
   News:
     - Good News: "blank"
     - Social Events: "blank"
+  Articles: "article-index"
   Research:
     - Researcher Spotlight: "spotlight-index"
     - Research Participation: "blank"
@@ -139,8 +140,11 @@ title-separator: "-"
 # Build a list of collections for to display several posts on a page
 collections: 
   researcher-spotlights:
-    output: true 
+    output: true
     permalink: /_researcher-spotlights/:short_year-:month-:day-:title:output_ext
+  articles:
+    output: true
+    permalink: /_articles/:short_year-:month-:day-:title:output_ext
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
