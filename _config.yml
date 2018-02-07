@@ -25,7 +25,7 @@ description: Home of the newsletter of Coventry University's HLS postgraduate st
 navbar-links:
   About: "aboutus"
   News:
-    - Good News: "blank"
+    - Good News: "goodnews"
     - Social Events: "blank"
   Articles: "article-index"
   Research:
