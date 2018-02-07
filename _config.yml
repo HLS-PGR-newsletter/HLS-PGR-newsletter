@@ -23,7 +23,7 @@ description: Home of the newsletter of Coventry University's HLS postgraduate st
 
 # List of links in the navigation bar
 navbar-links:
-  About: "blank"
+  About: "aboutus.md"
   News:
     - Good News: "blank"
     - Social Events: "blank"
