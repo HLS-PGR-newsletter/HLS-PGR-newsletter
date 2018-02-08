@@ -26,7 +26,7 @@ Study topic: Thinking styles
 
 Researcher: Tommy Coleman (colema56@uni.coventry.ac.uk)
 
-Inclusion criteria:
+Inclusion criteria: Open to anyone. 
 
 Study type: Online survey
 
@@ -46,7 +46,7 @@ Study Topic: Behaviour and Values/Metal music
 
 Researcher: Kyle Messick (messickk@uni.coventry.ac.uk)
 
-Inclusion criteria: 
+Inclusion criteria: Over the age of 18 and a fan of metal music. 
 
 Study Type: Online survey
 
@@ -54,7 +54,7 @@ Estimated study Length: 30 minutes
 
 [Survey link](https://coventryhls.eu.qualtrics.com/jfe/form/SV_5zoNTJ0fIgheL7n)
 
-Ethical approval reference: 
+Ethical approval reference: P63157
 
 Date added: 08-02-2018
 
