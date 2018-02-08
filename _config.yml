@@ -30,7 +30,7 @@ navbar-links:
   Articles: "article-index"
   Research:
     - Researcher Spotlight: "spotlight-index"
-    - Research Participation: "blank"
+    - Research Participation: "research-participation"
     - Opportunities: "blank"
   Health and Wellbeing: "blank"
 
