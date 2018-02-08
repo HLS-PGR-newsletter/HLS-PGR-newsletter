@@ -19,6 +19,7 @@ If you want your study advertising, you need to provide the following informatio
 ## Current Studies
 
 ___
+
 Study title: Survey on thinking styles
 
 Study topic: Thinking styles
@@ -36,6 +37,7 @@ Estimated study length: 15-20 minutes
 Ethical approval reference: 
 
 Date added: 08-02-2018
+
 ___
 
 Study title: Behaviours and values of metal music fans.
@@ -55,5 +57,6 @@ Estimated study Length:
 Ethical approval reference: 
 
 Date added: 08-02-2018
+
 –––
 
