@@ -20,7 +20,7 @@ If you want your study advertising, you need to provide the following informatio
 
 ___
 
-Study title: Survey on thinking styles
+Study title: Survey on Thinking Styles
 
 Study topic: Thinking styles
 
@@ -40,17 +40,17 @@ Date added: 08-02-2018
 
 ___
 
-Study title: Behaviours and values of metal music fans.
+Study title: Behaviours, Emotions, and Values of Metal Fans
 
 Study Topic: Behaviour and Values/Metal music
 
-Researcher: Kyle Messick (Email: messickk@uni.coventry.ac.uk)
+Researcher: Kyle Messick (messickk@uni.coventry.ac.uk)
 
 Inclusion criteria: 
 
 Study Type: Online survey
 
-Estimated study Length: 
+Estimated study Length: 30 minutes
 
 [Survey link](https://coventryhls.eu.qualtrics.com/jfe/form/SV_5zoNTJ0fIgheL7n)
 
@@ -58,5 +58,5 @@ Ethical approval reference:
 
 Date added: 08-02-2018
 
-–––
+___
 
