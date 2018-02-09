@@ -28,7 +28,7 @@ navbar-links:
     - Good News: "goodnews"
     - Social Events: "blank"
   Articles: "article-index"
-  Columns: "columns-index"
+  Columns: "column-index"
   Research:
     - Researcher Spotlight: "spotlight-index"
     - Research Participation: "research-participation"
