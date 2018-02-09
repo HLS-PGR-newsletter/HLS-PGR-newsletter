@@ -8,7 +8,7 @@ Here is a list of opportunities available for post-graduates at Coventry Univers
 
 If you come across any opportunities that others might be interested in, please contact [Jenny MacKay](mackayj3@uni.coventry.ac.uk) so that we can update the list.  
 
-## Competetitions 
+## Competitions 
 
 ## Conferences
 
