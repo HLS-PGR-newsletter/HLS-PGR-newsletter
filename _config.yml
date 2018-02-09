@@ -28,6 +28,7 @@ navbar-links:
     - Good News: "goodnews"
     - Social Events: "blank"
   Articles: "article-index"
+  Columns: "columns-index"
   Research:
     - Researcher Spotlight: "spotlight-index"
     - Research Participation: "research-participation"
@@ -145,6 +146,9 @@ collections:
   articles:
     output: true
     permalink: /_articles/:short_year-:month-:day-:title:output_ext
+  columns: 
+    output: true
+    permalink: /_columns/:short_year-:month-:day-:title:output_ext
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
