@@ -28,6 +28,7 @@ navbar-links:
   News:
     - Good News: "goodnews"
     - Social Events: "socials"
+    - Rep updates: "rep-updates"
   Thinkpieces: "article-index"
   Columns: 
     - Professional advice: "column-index"
@@ -156,6 +157,9 @@ collections:
   health-wellbeing: 
     output: true
     permalink: /_health-wellbeing/:short_year-:month-:day-:title:output_ext
+  rep-updates: 
+    output: true
+    permalink: /_rep-updates/:short_year-:month-:day-:title:output_ext
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
