@@ -20,11 +20,11 @@ As this is a new publication, we are still looking for suggestions, advice, and 
 
 - Laura Wilde - Senior REP, PhD Office Mum 
 
-- Jenny Mackay - Good News and Opportunities
+- Jenny Mackay - Good News and Opportunities, 
 
 - Brad Salisbury-Finch - Socials, Insufferable Smartarse 
 
-- Rachael Barker - Health & Wellbeing, Nemesis of Technology 
+- Rachael Barker - Health & Wellbeing, Resident Wine Enthusiast 
 
-- Becky Seymour - Columnist, Resident Wine Enthusiast 
+- Becky Seymour - Columnist, Nemesis of Technology
 
