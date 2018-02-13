@@ -6,7 +6,7 @@ subtitle: Exciting opportunities from jobs to conferences.
 
 Here is a list of opportunities available for post-graduates at Coventry University. This could include conferences, job posts, competitions, grants, and possible PhD places (for our MRes readers).
 
-If you come across any opportunities that others might be interested in, please contact [Jenny MacKay](mailto:mackayj3@uni.coventry.ac.uk) so that we can update the list.  
+If you come across any opportunities that others might be interested in, please address your email to [Jenny MacKay](mailto:cov.pgrnewsletter@gmail.com) so that we can update the list.  
 
 ## Competitions 
 
