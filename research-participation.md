@@ -4,7 +4,7 @@ title: Research Participation
 subtitle: We are always on the look out for participants, why not take part in one of your fellow post-grad's studies? 
 ---
 
-On this page, we will be hosting information and links for people to advertise their studies, in case they are in need of extra participants. This can be in the form of a survey link, a participant sign-up form, or just some information about the study with researcher contact information. Let us know if you have any studies you want added to this list by contacting [James Bartlett](http://www.coventry.ac.uk/research/research-directories/researchers/james-bartlett/). 
+On this page, we will be hosting information and links for people to advertise their studies, in case they are in need of extra participants. This can be in the form of a survey link, a participant sign-up form, or just some information about the study with researcher contact information. Let us know if you have any studies you want added to this by addressing an email to [James Bartlett](mailto:cov.pgrnewsletter@gmail.com). 
 
 If you want your study advertising, you need to provide the following information:
 - Study title
@@ -15,6 +15,7 @@ If you want your study advertising, you need to provide the following informatio
 - Estimated study length 
 - Survey link or contact information 
 - Ethical approval reference
+- Closing date of study 
 
 ## Current Studies
 
@@ -38,6 +39,8 @@ Ethical approval reference:
 
 Date added: 08-02-2018
 
+Closing date: Ongoing 
+
 ___
 
 Study title: Behaviours, Emotions, and Values of Metal Fans
@@ -57,6 +60,8 @@ Estimated study Length: 30 minutes
 Ethical approval reference: P63157
 
 Date added: 08-02-2018
+
+Closing date: Ongoing 
 
 ___
 
