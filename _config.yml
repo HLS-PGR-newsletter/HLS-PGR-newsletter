@@ -26,7 +26,7 @@ navbar-links:
   About: "aboutus"
   News:
     - Good News: "goodnews"
-    - Social Events: "blank"
+    - Social Events: "socials"
   Articles: "article-index"
   Columns: "column-index"
   Research:
