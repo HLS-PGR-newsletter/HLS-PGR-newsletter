@@ -5,7 +5,7 @@ subtitle: James Bartlett introduces CUDOS, an Open Science support group.
 ---
 
 <center>
-  <img src="{{ site.baseurl }}/img/CUDOS-logo.png" alt="Good news!" width = "400" />
+  <img src="{{ site.baseurl }}/img/CUDOS-logo.png" alt="CUDOS" width = "400" />
 </center>
 
 ___
