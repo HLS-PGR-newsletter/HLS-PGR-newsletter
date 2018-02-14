@@ -14,7 +14,7 @@ As this is a new publication, we are still looking for suggestions, advice, and 
 
 ## Meet the current team
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = 200 style = "float: right;"/>
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Sarah Charles - Editor, Know-it-all 
 
 - James Bartlett - Website design, Cynic
