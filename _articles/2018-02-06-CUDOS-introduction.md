@@ -4,7 +4,9 @@ title: Open Science for Early Career Researchers
 subtitle: James Bartlett introduces CUDOS, an Open Science support group. 
 ---
 
-![CUDOS](https://github.com/HLS-PGR-newsletter/HLS-PGR-newsletter.github.io/blob/master/img/CUDOS-logo.png?raw=true "CUDOS")
+<center>
+  <img src="{{ site.baseurl }}/img/CUDOS-logo.png" alt="Good news!" width = "400" />
+</center>
 
 ___
 
