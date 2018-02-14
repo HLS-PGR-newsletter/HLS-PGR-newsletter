@@ -14,20 +14,23 @@ As this is a new publication, we are still looking for suggestions, advice, and 
 
 ## Meet the current team
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" width = "150" />
+<img src="{{ site.baseurl }}/img/team/Sarah-profile.png" alt="Sarah Charles" width = "150" />
 - Sarah Charles - Editor, Know-it-all 
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" width = "150" />
+<img src="{{ site.baseurl }}/img/team/James-profile.png" alt="James Bartlett" width = "150" />
 - James Bartlett - Website design, Cynic
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" width = "150" />
+<img src="{{ site.baseurl }}/img/team/Laura-profile.png" alt="Laura Wilde" width = "150" />
 - Laura Wilde - Senior REP, PhD Office Mum 
 
 - Jenny Mackay - Good News and Opportunities, 
 
+<img src="{{ site.baseurl }}/img/team/Brad-profile.png" alt="Brad Salisbury-Finch" width = "150" />
 - Brad Salisbury-Finch - Socials, Insufferable Smartarse 
 
+<img src="{{ site.baseurl }}/img/team/Rachael-profile.png" alt="Rachael Barker" width = "150" />
 - Rachael Barker - Health & Wellbeing, Resident Wine Enthusiast 
 
+<img src="{{ site.baseurl }}/img/team/Becki-profile.png" alt="Becky Seymour" width = "150" />
 - Becky Seymour - Columnist, Nemesis of Technology
 
