@@ -14,7 +14,7 @@ As this is a new publication, we are still looking for suggestions, advice, and 
 
 ## Meet the current team
 
-<img src = "https://github.com/HLS-PGR-newsletter/HLS-PGR-newsletter.github.io/blob/master/img/Charles-S.png" width = "100" style="float: right;">
+<img src = "img/Charles-S.png" width = "100" style="float: right;">
 - Sarah Charles - Editor, Know-it-all
 
 - James Bartlett - Website design, Cynic
