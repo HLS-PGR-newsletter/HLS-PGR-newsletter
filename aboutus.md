@@ -14,8 +14,12 @@ As this is a new publication, we are still looking for suggestions, advice, and 
 
 ## Meet the current team
 
+<p align = "right"> 
 <img src = "img/Charles-S.png" width = "100" style="float: right;">
-- Sarah Charles - Editor, Know-it-all
+  <ul> 
+    <li> Sarah Charles - Editor, Know-it-all </li>
+  </ul>
+</p>
 
 - James Bartlett - Website design, Cynic
 
