@@ -17,15 +17,21 @@ As this is a new publication, we are still looking for suggestions, advice, and 
 <img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Sarah Charles - Editor, Know-it-all 
 
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - James Bartlett - Website design, Cynic
 
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Laura Wilde - Senior REP, PhD Office Mum 
 
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Jenny Mackay - Good News and Opportunities, 
 
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Brad Salisbury-Finch - Socials, Insufferable Smartarse 
 
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Rachael Barker - Health & Wellbeing, Resident Wine Enthusiast 
 
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Becky Seymour - Columnist, Nemesis of Technology
 
