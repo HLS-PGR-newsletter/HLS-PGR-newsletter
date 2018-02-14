@@ -14,30 +14,20 @@ As this is a new publication, we are still looking for suggestions, advice, and 
 
 ## Meet the current team
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" width = "150" />
 - Sarah Charles - Editor, Know-it-all 
-<p class="clear: both"></p>
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" width = "150" />
 - James Bartlett - Website design, Cynic
-<p class="clear: both"></p>
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
+<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" width = "150" />
 - Laura Wilde - Senior REP, PhD Office Mum 
-<p class="clear: both"></p>
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Jenny Mackay - Good News and Opportunities, 
-<p class="clear: both"></p>
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Brad Salisbury-Finch - Socials, Insufferable Smartarse 
-<p class="clear: both"></p>
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Rachael Barker - Health & Wellbeing, Resident Wine Enthusiast 
-<p class="clear: both"></p>
 
-<img src="{{ site.baseurl }}/img/Charles-S.png" alt="Sarah Charles" class="inline" width = "200" style = "float: right;"/>
 - Becky Seymour - Columnist, Nemesis of Technology
-<p class="clear: both"></p>
+
