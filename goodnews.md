@@ -4,7 +4,9 @@ title: Good News
 subtitle: Hear about all the nice things that have happened to our post-graduates!
 ---
 
-<img src="{{ site.baseurl }}/img/Goodnews.png" alt="Good news!" align = "top" width = "300" />
+<center>
+  <img src="{{ site.baseurl }}/img/Goodnews.png" alt="Good news!" width = "300" />
+</center>
 
 On this page we will try and keep an up-to-date list of all the achievements made by HLS post-graduates. From PRP passes and competition wins, to publications and press releases, we will collate a list here for you all. 
 
