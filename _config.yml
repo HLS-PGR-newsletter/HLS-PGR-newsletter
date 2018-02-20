@@ -4,194 +4,196 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://HLS-PGR-newsletter.github.io"
-baseurl: "/HLS-PGR-newsletter.github.io"
+url:                     "http://HLS-PGR-newsletter.github.io"
+baseurl:                 "/HLS-PGR-newsletter.github.io"
 
 # If you are building a GitHub project page then use these settings:
-#url: "http://username.github.io/projectname"
-#baseurl: "/projectname"
+#url:                    "http://username.github.io/projectname"
+#baseurl:                "/projectname"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: HLS PGR Newsletter
-homename: Home
+title:                   HLS PGR Newsletter
+homename:                Home
 
 # Short description of your site
-description: Home of the newsletter of Coventry University's HLS postgraduate students
+description:             Home of the newsletter of Coventry University's HLS postgraduate students
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About: "aboutus"
+  About:                 "aboutus"
   News:
-    - Good News: "goodnews"
-    - Social Events: "socials"
-    - Rep updates: "rep-updates"
-    - Opportunities: "opportunities"
-  Thinkpieces: "article-index"
-  Columns: 
+    - Good News:         "goodnews"
+    - Social Events:     "socials"
+    - Rep updates:       "rep-updates"
+    - Opportunities:     "opportunities"
+  Thinkpieces:           "article-index"
+  Columns:
     - Professional advice: "column-index"
     - Health and wellbeing: "health-wellbeing"
-    - Reflections: "blank" 
+    - Reflections:       "blank"
   Research:
     - Researcher Spotlight: "spotlight-index"
     - Research Participation: "research-participation"
-  Contact us: "contactus"
+  Contact us:            "contactus"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-# avatar: "/img/avatar-icon.png"
+# avatar:                "/img/avatar-icon.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+# title-img:             /path/to/image
 
 # --- Background colour/image options --- #
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#1C79E2"
-navbar-text-col: "#FFFFFF"
-navbar-children-col: "#1C79E2"
-page-col: "#FFFFFF"
-link-col: "#1C79E2"
-hover-col: "#E4E4E5"
-footer-col: "#1C79E2"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#404040"
+navbar-col:              "#1C79E2"
+navbar-text-col:         "#FFFFFF"
+navbar-children-col:     "#1C79E2"
+page-col:                "#FFFFFF"
+link-col:                "#1C79E2"
+hover-col:               "#E4E4E5"
+footer-col:              "#1C79E2"
+footer-text-col:         "#FFFFFF"
+footer-link-col:         "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
 
-# navbar-img: "/img/bgimage.png"
-# footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+# navbar-img:            "/img/bgimage.png"
+# footer-img:            "/img/bgimage.png"
+# page-img:              "/img/bgimage.png"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
-# Important: you must keep the "name" parameter, everything else you can remove
+# Important:             you must keep the "name" parameter, everything else you can remove
 author:
-  name: Coventry University HLS postgraduates
+  name:                  Coventry University HLS postgraduates
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
-  email: "cov.pgrnewsletter@gmail.com"
-  # facebook: daattali
-  github: HLS-PGR-newsletter
-  # twitter: daattali
-#  reddit: yourname
-#  google-plus: +DeanAttali
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  rss:                   true
+  email:                 "cov.pgrnewsletter@gmail.com"
+  # facebook:            daattali
+  github:                HLS-PGR-newsletter
+  # twitter:             daattali
+#  reddit:               yourname
+#  google-plus:          +DeanAttali
+#  linkedin:             daattali
+#  xing:                 yourname
+#  stackoverflow:        "3943160/daattali"
+#  snapchat:             deanat78
+#  instagram:            deanat78
+#  youtube:              user/deanat78
+#  spotify:              yourname
+#  telephone:            +14159998888
+#  steam:                deanat78
+#  twitch:               yourname
+#  yelp:                 yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+  twitter:               true
+  facebook:              true
+  google:                false
+  linkedin:              true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty:            "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics:        "114437405"
 
 # Google Tag Manager ID
-#gtm: ""
+#gtm:                    "GTM-NP2RBPT"
+# note:                  GTM ID added, but not activated yet, as no goals/active tags
+# are currently in the website code
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 
 #matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
-#  opt-out: true
+#  site_id:              "9"
+#  uri:                  "demo.wiki.pro"
+#  opt-out:              true
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+#disqus:                 ""
 
 # Facebook App ID
-# fb_app_id: ""
+# fb_app_id:             ""
 
 # Excerpt Word Length
 # Truncates the excerpt to the specified number of words on the index page
-excerpt_length: 50
+excerpt_length:          50
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+title-separator:         "-"
 
 # Build a list of collections for to display several posts on a page
-collections: 
+collections:
   researcher-spotlights:
-    output: true
-    permalink: /_researcher-spotlights/:short_year-:month-:day-:title:output_ext
+    output:              true
+    permalink:           /_researcher-spotlights/:short_year-:month-:day-:title:output_ext
   articles:
-    output: true
-    permalink: /_articles/:short_year-:month-:day-:title:output_ext
-  columns: 
-    output: true
-    permalink: /_columns/:short_year-:month-:day-:title:output_ext
-  health-wellbeing: 
-    output: true
-    permalink: /_health-wellbeing/:short_year-:month-:day-:title:output_ext
-  rep-updates: 
-    output: true
-    permalink: /_rep-updates/:short_year-:month-:day-:title:output_ext
+    output:              true
+    permalink:           /_articles/:short_year-:month-:day-:title:output_ext
+  columns:
+    output:              true
+    permalink:           /_columns/:short_year-:month-:day-:title:output_ext
+  health-wellbeing:
+    output:              true
+    permalink:           /_health-wellbeing/:short_year-:month-:day-:title:output_ext
+  rep-updates:
+    output:              true
+    permalink:           /_rep-updates/:short_year-:month-:day-:title:output_ext
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/London"
-markdown: kramdown
-highlighter: rouge
-permalink: /:year-:month-:day-:title/
-paginate: 5
+timezone:                "Europe/London"
+markdown:                kramdown
+highlighter:             rouge
+permalink:               /:year-:month-:day-:title/
+paginate:                5
 
 kramdown:
-  input: GFM
+  input:                 GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -
     scope:
-      path: ""
-      type: "posts"
+      path:              ""
+      type:              "posts"
     values:
-      layout: "post"
-      comments: true  # add comments to all blog posts
-      social-share: true # add social media sharing buttons to all blog posts
+      layout:            "post"
+      comments:          true  # add comments to all blog posts
+      social-share:      true # add social media sharing buttons to all blog posts
   -
     scope:
-      path: "" # all files
+      path:              "" # all files
     values:
-      layout: "page"
-      show-avatar: true
+      layout:            "page"
+      show-avatar:       true
 
 # Use tags index page and make tags on each post clickable
-link-tags: true
+link-tags:               true
 
 # Exclude these files from production site
 exclude:
@@ -206,8 +208,8 @@ exclude:
 
 # prose.io config
 prose:
-  rooturl: '_posts'
-  media: 'img'
+  rooturl:               '_posts'
+  media:                 'img'
   ignore:
     - 404.html
     - LICENSE
@@ -220,41 +222,41 @@ prose:
     - /js
   metadata:
     _posts:
-      - name: "layout"
+      - name:            "layout"
         field:
-          element: "hidden"
-          value: "post"
-      - name: "title"
+          element:       "hidden"
+          value:         "post"
+      - name:            "title"
         field:
-          element: "text"
-          label: "Post title"
-          placeholder: "Title"
-          alterable: true
-      - name: "subtitle"
+          element:       "text"
+          label:         "Post title"
+          placeholder:   "Title"
+          alterable:     true
+      - name:            "subtitle"
         field:
-          element: "textarea"
-          label: "Subtitle"
-          placeholder: "A description of your post."
-          alterable: true
-      - name: "date"
+          element:       "textarea"
+          label:         "Subtitle"
+          placeholder:   "A description of your post."
+          alterable:     true
+      - name:            "date"
         field:
-          element: "text"
-          label: "Date"
-          help: "Enter date of post."
-          placeholder: "yyyy-mm-dd"
-          alterable: true
-      - name: "image"
+          element:       "text"
+          label:         "Date"
+          help:          "Enter date of post."
+          placeholder:   "yyyy-mm-dd"
+          alterable:     true
+      - name:            "image"
         field:
-          element: "text"
-          label: "Image"
-          help: "Add a thumbnail image to your post."
-          placeholder: "Thumbnail"
-          alterable: true
-      - name: "published"
+          element:       "text"
+          label:         "Image"
+          help:          "Add a thumbnail image to your post."
+          placeholder:   "Thumbnail"
+          alterable:     true
+      - name:            "published"
         field:
-          element: "checkbox"
-          label: "Publish"
-          help: "Check to publish post, uncheck to hide."
+          element:       "checkbox"
+          label:         "Publish"
+          help:          "Check to publish post, uncheck to hide."
 
 plugins:
   - jekyll-paginate
