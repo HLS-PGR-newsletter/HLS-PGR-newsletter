@@ -114,7 +114,7 @@ share-links-active:
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics:        "114437405"
+google_analytics:        "UA-114437405-1"
 
 # Google Tag Manager ID
 #gtm:                    "GTM-NP2RBPT"
