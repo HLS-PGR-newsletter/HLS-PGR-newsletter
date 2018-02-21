@@ -34,7 +34,7 @@ navbar-links:
   Columns:
     - Professional advice: "column-index"
     - Health and wellbeing: "health-wellbeing"
-    - Reflections:       "blank"
+    - Reflections:       "reflections-index"
   Research:
     - Researcher Spotlight: "spotlight-index"
     - Research Participation: "research-participation"
@@ -162,6 +162,9 @@ collections:
   rep-updates:
     output:              true
     permalink:           /_rep-updates/:short_year-:month-:day-:title:output_ext
+  reflections:
+    output:              true
+    permalink:           /_reflections/:short_year-:month-:day-:title:output_ext
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
