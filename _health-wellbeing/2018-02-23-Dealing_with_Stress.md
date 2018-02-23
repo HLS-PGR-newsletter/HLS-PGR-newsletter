@@ -1,11 +1,9 @@
 ---
 layout: post
-title: Dealing With Stress during a Research Degree. #1
+title: Dealing With Stress During a Research Degree. #1
 subtitle: Some advice from Rachael Baker.
 ---
 
-
-Dealing with stress during a Research Degree.
 
 During a research degree, at some point one will go through a stressful point in their research, whether it be before the PRP, an ethics application that doesn’t go to plan, or of course the VIVA that we’ve all grown to fear!
 
