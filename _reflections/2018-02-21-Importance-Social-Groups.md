@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The importance of having a social group during your Research Degree.
-subtitle: Test Post
+subtitle: Tips and reflections from Becky Seymour
 ---
 
 # Research Tips: Your first Month
