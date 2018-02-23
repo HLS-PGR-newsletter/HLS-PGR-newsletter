@@ -23,7 +23,8 @@ We are always looking for suggestions, advice, or even an extra pairs of hands (
 <img src="{{ site.baseurl }}/img/team/Laura-profile.png" alt="Laura Wilde" width = "150" />
 - Laura Wilde - Senior REP, PhD Office Mum
 
-- Jenny Mackay - Good News and Opportunities,
+<img src="{{ site.baseurl }}/img/team/Jenny-profile.png" alt="Jenny Mackay" width = "150" />
+- Jenny Mackay - Good News and Opportunities, Pack Leader
 
 
 <img src="{{ site.baseurl }}/img/team/Rachael-profile.png" alt="Rachael Barker" width = "150" />
