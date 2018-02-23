@@ -26,9 +26,11 @@ We are always looking for suggestions, advice, or even an extra pairs of hands (
 <img src="{{ site.baseurl }}/img/team/Jenny-profile.png" alt="Jenny Mackay" width = "150" />
 - Jenny Mackay - Good News and Opportunities, Pack Leader
 
-
 <img src="{{ site.baseurl }}/img/team/Rachael-profile.png" alt="Rachael Barker" width = "150" />
 - Rachael Barker - Health & Wellbeing, Resident Wine Enthusiast
 
 <img src="{{ site.baseurl }}/img/team/Becki-profile.png" alt="Becky Seymour" width = "150" />
 - Becky Seymour - Columnist, Nemesis of Technology
+
+<img src="{{ site.baseurl }}/img/team/Danii-profile.png" alt="Danii Chippet" width = "150" />
+- Danii Chippet - Articles editor, Here to Gin and Bear it 
