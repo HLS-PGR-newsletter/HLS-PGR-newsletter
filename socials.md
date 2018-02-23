@@ -14,4 +14,4 @@ PhD students can fall into the trap of thinking you have work 24/7. However, for
 
 # Questions
 
-If you have any questions regarding our social events, please email [Brad Salisbury-Finch](mailto:cov.pgrnewsletter+events@gmail.com).
+If you have any questions regarding our social events, please email [Laura Wilde](mailto:cov.pgrnewsletter+events@gmail.com).

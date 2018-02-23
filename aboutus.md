@@ -25,8 +25,6 @@ We are always looking for suggestions, advice, or even an extra pairs of hands (
 
 - Jenny Mackay - Good News and Opportunities,
 
-<img src="{{ site.baseurl }}/img/team/Brad-profile.png" alt="Brad Salisbury-Finch" width = "150" />
-- Brad Salisbury-Finch - Socials, Insufferable Smartarse
 
 <img src="{{ site.baseurl }}/img/team/Rachael-profile.png" alt="Rachael Barker" width = "150" />
 - Rachael Barker - Health & Wellbeing, Resident Wine Enthusiast
