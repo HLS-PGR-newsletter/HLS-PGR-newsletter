@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dealing With Stress During a Research Degree. #1
-subtitle: Some advice from Rachael Baker.
+subtitle: Some advice from Rachael Barker.
 ---
 
 
