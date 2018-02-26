@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Open Science for Early Career Researchers
-subtitle: James Bartlett introduces CUDOS, an Open Science support group. 
+subtitle: James Bartlett introduces CUDOS, an Open Science support group.
 ---
 
 <center>
@@ -10,17 +10,17 @@ subtitle: James Bartlett introduces CUDOS, an Open Science support group.
 
 ___
 
-### What are Open Science practices? 
+### What are Open Science practices?
 
 Open Science practices are a series of actions that you can perform across the whole research workflow to make the publication process more transparent. These include:
 
-- Pre-registering the methodology of your study before you collect data. You could even submit your study as a [Registered Report](https://cos.io/rr/) which is even possible as a [graduate student](http://blog.efpsa.org/2016/09/09/publishing-a-registered-report-as-a-postgraduate-researcher/). 
+- Pre-registering the methodology of your study before you collect data. You could even submit your study as a [Registered Report](https://cos.io/rr/) which is even possible as a [graduate student](http://blog.efpsa.org/2016/09/09/publishing-a-registered-report-as-a-postgraduate-researcher/).
 
-- Sharing your materials to make it easier for others to replicate your study. 
+- Sharing your materials to make it easier for others to replicate your study.
 
-- Sharing your data and analysis scripts to make it easier for others to reproduce the findings of your study. 
+- Sharing your data and analysis scripts to make it easier for others to reproduce the findings of your study.
 
-- Sharing your manuscripts as a [pre-print](http://blog.psyarxiv.com/about-psyarxiv/) or publish your article [open access](http://libguides.coventry.ac.uk/rsp/openaccess) to enable unrestricted access to your research. 
+- Sharing your manuscripts as a [pre-print](http://blog.psyarxiv.com/about-psyarxiv/) or publish your article [open access](http://libguides.coventry.ac.uk/rsp/openaccess) to enable unrestricted access to your research.
 
 ___
 
@@ -30,6 +30,6 @@ As postgraduates, we have a relatively short period of time where we are expecte
 
 The aim of our group is to share our knowledge of Open Science practices in an informal setting over a coffee or beer. In the near future we are also going to deliver some practical workshops. In the meantime, try and focus on how you could make one or two changes rather than trying to revolutionalise your whole workflow. For example, you could pre-register your hypotheses and methodology before you collect any data on the [Open Science Framework](https://osf.io/). I wrote about how you can do this in [my article](https://bartlettje.github.io/BartlettJE.github.io/2017-03-29-effective-preregistration/), but another excellent source can be found on [Cogtales](https://cogtales.wordpress.com/2016/04/01/preregistration-its-actually-a-really-good-idea/). Early career researchers are at the forefront of [promoting Open Science practices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5688730/) and we will be the ones who establish new research method norms as the older practices die out.
 
-For more information, you can join our [Facebook group](https://www.facebook.com/groups/165435830724121/) where we frequently share articles and blog posts. Alternatively, you can email CUDOS (cuopenscience@gmail.com) or me (bartle16@uni.coventry.ac.uk) directly and we will happily answer any questions. 
+For more information, you can join our [Facebook group](https://www.facebook.com/groups/165435830724121/) where we frequently share articles and blog posts. Alternatively, you can email CUDOS ([cuopenscience@gmail.com](mailto:cuopenscience@gmail.com)) or me (bartle16@uni.coventry.ac.uk) directly and we will happily answer any questions. 
 
-*[James Bartlett](http://www.coventry.ac.uk/research/research-directories/researchers/james-bartlett/) is a third year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). His research focuses on the neurocognitive mechanisms associated with nicotine dependence and shouts a lot about research methods and statistics in psychology.* 
+*[James Bartlett](http://www.coventry.ac.uk/research/research-directories/researchers/james-bartlett/) is a third year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). His research focuses on the neurocognitive mechanisms associated with nicotine dependence and shouts a lot about research methods and statistics in psychology.*
