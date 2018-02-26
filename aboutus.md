@@ -33,4 +33,4 @@ We are always looking for suggestions, advice, or even an extra pairs of hands (
 - Becky Seymour - Columnist, Nemesis of Technology
 
 <img src="{{ site.baseurl }}/img/team/Danii-profile.png" alt="Danii Chippet" width = "150" />
-- Danii Chippet - Articles editor, Here to Gin and Bear it 
+- Danii Chippett - Articles editor, Here to Gin and Bear it
