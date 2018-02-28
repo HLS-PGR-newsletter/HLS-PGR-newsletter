@@ -25,7 +25,7 @@ Study title: Survey on Thinking Styles
 
 Study topic: Thinking styles
 
-Researcher: Tommy Coleman (colema56@uni.coventry.ac.uk)
+Researcher: [Tommy Coleman](mailto:colema56@uni.coventry.ac.uk)
 
 Inclusion criteria: Open to anyone. 
 
@@ -47,7 +47,7 @@ Study title: Behaviours, Emotions, and Values of Metal Fans
 
 Study Topic: Behaviour and Values/Metal music
 
-Researcher: Kyle Messick (messickk@uni.coventry.ac.uk)
+Researcher: [Kyle Messick](mailto:messickk@uni.coventry.ac.uk)
 
 Inclusion criteria: Over the age of 18 and a fan of metal music. 
 
@@ -65,3 +65,21 @@ Closing date: Ongoing
 
 ___
 
+
+Study title: The Role of Mindfulness Teaching Style on Gender-Specific Emotion and Personality.
+
+Study Topic: The purpose of the study is to explore whether gender difference affects the effectiveness of Mindfulness Interventions (MBIs).
+
+Researcher: [Stephan Calteau](mailto:calteauj@uni.coventry.ac.uk)
+
+Inclusion criteria: Postgraduate students who have an interest in mindfulness and who have never attended a mindfulness course. 
+
+Study Type: Face-to-Face. 
+
+Estimated study Length: The mindfulness course will last 8 weeks for 90 minutes per session.
+
+Ethical approval reference: P39452
+
+Date added: 28-02-2018
+
+Closing date: August 2018.
