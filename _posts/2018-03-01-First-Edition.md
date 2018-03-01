@@ -6,4 +6,4 @@ subtitle: Welcome to the PGR Newsletter
 ---
 
 
-<embed src="https://github.com/HLS-PGR-newsletter/HLS-PGR-newsletter.github.io/blob/master/March%201st%20Issue.pdf" />
+<embed src="https://github.com/HLS-PGR-newsletter/HLS-PGR-newsletter.github.io/blob/master/March%201st%20Issue.pdf" width="600px" height="500px"  />
