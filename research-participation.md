@@ -39,7 +39,7 @@ Ethical approval reference:
 
 Date added: 08-02-2018
 
-Closing date: Ongoing
+Closing date: 21-03-2018
 
 ___
 
