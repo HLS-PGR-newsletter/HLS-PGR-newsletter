@@ -8,8 +8,7 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 
 # Upcoming Events:
 
-## Laura's Jewellery Making Masterclass Friday 9 March at 17:30–23:55
-
+## Laura's Jewellery Making Masterclass - REARRANGED to Wednesday 14th March 
 [Click here for a direct link to the Facebook Event](https://www.facebook.com/events/327407644435072/)
 
 # Questions
