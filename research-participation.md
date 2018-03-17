@@ -61,3 +61,23 @@ ___
 *Date added*: 28-02-2018
 
 *Closing date*: August 2018.
+
+___ 
+
+*Study title*: The effects of other-referenced achievement goals and the motivational context on the psychological functioning of sports participants: An experimental investigation.
+
+*Study topic*: Achievement motivation and well-being.
+
+*Researcher*: Mairi Mulvenna
+
+*Inclusion criteria*: Males and females (18+) with limited table football experience, i.e., not playing regularly (everyday) or professionally. 
+
+*Study type*: Face to face.
+
+*Estimated study length*: 30 minutes.
+
+*How to participate*: Email [Mairi Mulvenna](mailto:mulvennm@uni.coventry.ac.uk) or sign up directly via our [online calendar system](http://www.supersaas.com/schedule/cupsy/tablefootballstudy).
+
+*Ethical approval reference*: P45798
+
+*Closing date of study*: 30-04-2018.
