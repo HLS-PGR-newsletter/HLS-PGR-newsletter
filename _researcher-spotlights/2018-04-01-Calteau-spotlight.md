@@ -1,0 +1,35 @@
+---
+layout: post
+title: Stephan Calteau
+subtitle: The second researcher under our spotlight is third year Psychology PhD student Stephan Calteau.
+---
+
+It is the nature of post-graduate work that people are dotted around in different locations. They may be in different offices, different buildings, or even off-site. We at the Newsletter feel it is important for post-grads to get to know each other, especially as we all have vastly different topics. As a result, we have designed this section as a short introduction to read a little about researchers who have chosen to answer a few questions about themselves.
+
+We will be placing the spotlight on a new researcher every month, so you can get to know their topic a little better and hear some of their advice and recommendations. If you want to be under the spotlight, address your [email](mailto:cov.pgrnewsletter+spotlight@gmail.com) to either James Bartlett or Sarah Charles. The second post-grad under our spotlight is Stephan Calteau, a third year PhD student in Psychology. 
+
+## Stephan Calteau 
+
+<center>
+  <img src="{{ site.baseurl }}/img/Stephan-spotlight.png" alt="Stephan Calteau" width = "500" />
+</center>
+
+**What is your thesis title (or working title)?**
+
+The role of gender in the effectiveness of Mindfulness-Based Interventions (MBIs).
+
+**In 50 words, how would you explain your thesis for dummies?**
+
+The need for research in this area is owing to the lack of rigour in measuring the relationship between MBIs and gender. Examining the degree of gender similarity between the student and the mindfulness teacher will help determine the specific mindfulness changes during an 8-week mindfulness course, and how these differ between men and women.
+
+**Why did you choose your thesis topic?**
+
+I chose the topic to identify and support subgroups of men and women with mental and emotional health struggles, and tailor a mindfulness workshop to their needs.
+
+**Looking back, what advice would you give to yourself in the first three months of your PhD?**
+
+Making sure that the ethics are approved as early as possible. 
+
+**What book or article do you think every post-graduate should read?**
+
+The Scientist in the Crib: What Early Learning Tells Us About the Mind by Gopnik, Meltzoff, and Kuhl. This book discusses important discoveries about how much babies and young children know and learn, and how much parents naturally teach them. It argues that evolution designed us both to teach and learn, and that the drive to learn is our most important instinct. It also gives fascinating insights about our adult capacities and how even young children use some of the same methods that allow scientists to learn so much about the world.
