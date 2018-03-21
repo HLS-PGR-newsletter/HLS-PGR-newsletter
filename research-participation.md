@@ -60,7 +60,7 @@ ___
 
 *Date added*: 28-02-2018
 
-*Closing date*: August 2018.
+*Closing date*: August 2018
 
 ___ 
 
@@ -80,4 +80,52 @@ ___
 
 *Ethical approval reference*: P45798
 
-*Closing date of study*: 30-04-2018.
+*Closing date of study*: 30-04-2018
+
+___
+
+
+*Study title*: Impact of dyslexia.
+
+*Study topic*: The impact of dyslexia assessment/diagnosis.
+
+*Researcher*: Kate Blundell (PhD Student and Dyslexia Specialist Teacher/Assessor).
+
+*Inclusion criteria*: Participants with dyslexia (over 18 years of age), who have been formally identified by assessment during school, college, university, work, or privately at any age.
+
+*Study type*: Face-to-face chat/interview on campus.
+
+*Estimated study length*: Interviews should last no more than one hour. 
+
+*How to participate*:  Please e-mail your interest to [Kate Blundell](mailto:blundelk@uni.coventry.ac.uk) to receive further information. 
+
+*Ethical approval reference*: P62790
+
+*Date added*: 21-03-2018
+
+*Closing date of study*: 30-06-2018
+
+___
+
+*Study title*: Error Processing and Inhibitory Control in Light and Heavy Smokers.
+
+*Study topic*: Investigating aspects of cognitive control using EEG in different types of smokers and a non-smoking control group. 
+
+*Researcher*: James Bartlett.
+
+*Inclusion criteria*: All participants should be over the age of 18. Smokers should smoke on at least four days per month and have smoked for six months or more. Non-smokers should have never smoked regularly and have smoked less than ten lifetime cigarettes. 
+
+*Study type*: Face-to-face.
+
+*Estimated study length*: Data collection will take two hours. 
+
+*How to participate*:  Please e-mail your interest to [James Bartlett](mailto:bartle16@uni.coventry.ac.uk) to receive further information. 
+
+*Ethical approval reference*: P61175
+
+*Date added*: 21-03-2018
+
+*Closing date of study*: 01-09-2018
+
+___ 
+
