@@ -21,28 +21,6 @@ If you want your study advertising, you need to provide the following informatio
 
 ___
 
-*Study title*: Survey on Thinking Styles
-
-*Study topic*: Thinking styles
-
-*Researcher*: [Tommy Coleman](mailto:colema56@uni.coventry.ac.uk)
-
-*Inclusion criteria*: Open to anyone.
-
-*Study type*: Online survey
-
-*Estimated study length*: 15-20 minutes
-
-*[Survey link](https://coventryhls.eu.qualtrics.com/jfe/form/SV_2l6a0823kUt1l4h)*
-
-*Ethical approval reference:*
-
-*Date added*: 08-02-2018
-
-*Closing date*: 21-03-2018
-
-___
-
 
 *Study title*: The Role of Mindfulness Teaching Style on Gender-Specific Emotion and Personality.
 
@@ -62,7 +40,7 @@ ___
 
 *Closing date*: August 2018
 
-___ 
+___
 
 *Study title*: The effects of other-referenced achievement goals and the motivational context on the psychological functioning of sports participants: An experimental investigation.
 
@@ -70,7 +48,7 @@ ___
 
 *Researcher*: Mairi Mulvenna
 
-*Inclusion criteria*: Males and females (18+) with limited table football experience, i.e., not playing regularly (everyday) or professionally. 
+*Inclusion criteria*: Males and females (18+) with limited table football experience, i.e., not playing regularly (everyday) or professionally.
 
 *Study type*: Face to face.
 
@@ -95,9 +73,9 @@ ___
 
 *Study type*: Face-to-face chat/interview on campus.
 
-*Estimated study length*: Interviews should last no more than one hour. 
+*Estimated study length*: Interviews should last no more than one hour.
 
-*How to participate*:  Please e-mail your interest to [Kate Blundell](mailto:blundelk@uni.coventry.ac.uk) to receive further information. 
+*How to participate*:  Please e-mail your interest to [Kate Blundell](mailto:blundelk@uni.coventry.ac.uk) to receive further information.
 
 *Ethical approval reference*: P62790
 
@@ -109,17 +87,17 @@ ___
 
 *Study title*: Error Processing and Inhibitory Control in Light and Heavy Smokers.
 
-*Study topic*: Investigating aspects of cognitive control using EEG in different types of smokers and a non-smoking control group. 
+*Study topic*: Investigating aspects of cognitive control using EEG in different types of smokers and a non-smoking control group.
 
 *Researcher*: James Bartlett.
 
-*Inclusion criteria*: All participants should be over the age of 18. Smokers should smoke on at least four days per month and have smoked for six months or more. Non-smokers should have never smoked regularly and have smoked less than ten lifetime cigarettes. 
+*Inclusion criteria*: All participants should be over the age of 18. Smokers should smoke on at least four days per month and have smoked for six months or more. Non-smokers should have never smoked regularly and have smoked less than ten lifetime cigarettes.
 
 *Study type*: Face-to-face.
 
-*Estimated study length*: Data collection will take two hours. 
+*Estimated study length*: Data collection will take two hours.
 
-*How to participate*:  Please e-mail your interest to [James Bartlett](mailto:bartle16@uni.coventry.ac.uk) to receive further information. 
+*How to participate*:  Please e-mail your interest to [James Bartlett](mailto:bartle16@uni.coventry.ac.uk) to receive further information.
 
 *Ethical approval reference*: P61175
 
@@ -127,5 +105,4 @@ ___
 
 *Closing date of study*: 01-09-2018
 
-___ 
-
+___
