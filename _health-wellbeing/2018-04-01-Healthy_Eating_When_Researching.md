@@ -24,23 +24,29 @@ Chop up carrots, celery, cucumber, peppers, or any other raw vegetable you fancy
 These sorts of snacks are easy to carry around (you can even just stick them in a Tupperware) and the process of biting them works as stress relief in itself.
 
 * Handful of nuts
+
 Nuts are full of good fats and magnesium, which helps keep cortisol (stress) levels low. Like the veggie sticks above, the physical distraction of munching on nuts one by one can work as an edible stress ball whilst giving you loads of useful energy. Opt for the low-sodium or unsalted kinds, as one ounce of salted roasted almonds contains 100 times more sodium than the unsalted varieties. An added bonus is that walnuts are particularly good for improving your memory, in the long term, as they're full of omega 3 and polyphenols (also good for stress).
 
-**NB:** do not eat too many nuts as they are yummy and very moreish, but still high in calories.
+- **NB:** do not eat too many nuts as they are yummy and very moreish, but still high in calories.
 
 * Cooked Chickpeas
+
 If you are a hummus or falafel lover, these make a great lunch and high in protein. However, for snacking purposes, cooked and cooled chickpeas are a tasty snack and high in protein, keeping you fuller for longer! A sprinkle of seasoning or cracked sea salt if you feel they taste bit plain, but these are some of our favourites!
 
 * Popcorn
+
 People love a good movie or TV show to relax to after a long day in the office or lab. This usually brings with it the desire to snack whilst watching. A great alternative to crisps is the cinema staple, popcorn. Also, research has shown if you eat with your non-dominant hand you’re likely to eat less and less likely to start ‘mindless eating’ - or keep the bowl out of hand reach so you have to reach for them. Try and go for the air-dry home-popped popcorn if you fancy splashing out on a popcorn maker as you can control the butter / sugar going in to them.
 
 * Fruit Salad
+
 Mix together your favourite seasonal fruits. Put them in a large bowl and refrigerate for a couple hours in order for the natural, sugary juices to mingle and marinate. This way, you can satisfy your sweet tooth without inhaling sweets.
 
 * Frozen Grapes
+
 If the fruit salad is not working for you, try buying grapes and freezing them overnight. You’ll wake up with one of the most refreshing alternatives to sugary boiled sweets.
 
 * Cereal
+
 High fibre cereal, like shredded wheats, wheat biscuits (or minis), fruit and fibre etc. are all great choices to snack on – I advise to have them dry, as this means the 30g recommended daily allowance can go a long way when snacking!
 
-*Rachael Barker is a 2nd year psychology Ph.D. student with a focus on health psychology* 
+*Rachael Barker is a 2nd year psychology Ph.D. student with a focus on health psychology*
