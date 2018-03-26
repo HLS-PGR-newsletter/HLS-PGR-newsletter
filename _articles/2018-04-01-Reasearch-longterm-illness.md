@@ -21,23 +21,23 @@ Here are five ways that I use mindfulness to manage my symptoms whilst doing my 
 
 ### 5 tips
 
-* Find ways of bringing mindful moments in to your day.  
+1. Find ways of bringing mindful moments in to your day.  
 
 I enjoy meditating in silence at home, but I always make sure I have a variety of meditations saved on my iPhone, this helps me to keep a regular practice. When I feel like I have been working too much I often plug in my headphones and listen to a guided meditation. Mark Williams and John Teasdale are two of my favourite mindfulness teachers. I also use the Pomodoro technique when I’m writing or screening articles for my systematic review.  I find this very similar to pacing. Vidymala Burch, a founder of Breathworks, who also lives with chronic pain wrote both of her books using a similar technique. If meditation isn’t your thing, don’t fret. I often use the longer breaks to go for a walk. Find an activity that helps you bring mindful moments to your day.
 
-* Take time to notice the pleasant.
+2. Take time to notice the pleasant.
 
 Our brains automatically watch for threats and danger; this is known as the negativity bias (Rozin and Royzman, 2001). Although humans were able to survive by staying alert in case of threat, this tendency also means that negative experiences have more of an impact on us than positive experiences. Since we automatically notice the negative, it can be a challenge to pay attention to and absorb the positive. One technique is to keep a gratitude diary. To do this, each evening write down ten positive things you observed or experienced during the day. Some examples include: nature, a nice cup of coffee, a good conversation, even a funny YouTube video. I also take photos of things I find pleasant. Looking through these when I’m struggling with pain, fatigue or tight deadlines helps me to stay balanced.
 
-* Make daily activities mindful.
+3. Make daily activities mindful.
 
 Instead of introducing new activities into your life, it can be easier to make regular daily activities more mindful. Simply absorbing one thing at a time is a great way to be actively, and easily, mindful. Focus on sensations when you have a shower or brush your teeth – really engage your senses. I used to find driving really stressful, but now I use it as a way to incorporate mindfulness into my day. I make an effort to be present whilst driving and avoid being in autopilot mode. It doesn’t matter which activity you choose, as long as you allow yourself to remain present and aware of your sensations as you take part in it.
 
-* Slow down, pay attention, and be present.
+4. Slow down, pay attention, and be present.
 
 When I notice the signs of tension or frustration I try to slow down and pay attention to what I’m doing. This helps stop me from ‘time travelling’ - when my thoughts spiral into ‘what if’ territory - this stops the self-critical thoughts of: ‘what if my pain comes back?’, ‘what if I’m not good enough to complete a Ph.D.?’ Notice and acknowledge achievements – no matter how small. Doing so helps build your resilience to negative thought processes. Some students use their ‘log of thoughts’ that they need to keep for their PRP as a way to log these small victories, too. This makes the mandatory paperwork less of a chore and more of a therapeutic endeavour.
 
-* And again: be kind to yourself.
+5. And again: be kind to yourself.
 
 When I’m really busy or I’m struggling with pain or fatigue, I try to treat myself in the same way I would if my best friend was having these experiences.  This helps me to keep my thoughts in a positive place. I recognise the things I have achieved, I reassure myself that how I’m feeling will pass. I remind myself that resting and reflecting are just as important as data collection, writing chapters and working towards publication. If there are days where leaving the house won’t be possible, I make myself comfortable and alternate tasks so that I do something I enjoy as well as complete the tougher pieces of work. For example, I read fiction before I fall asleep and I schedule time for friends.
 
