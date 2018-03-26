@@ -47,9 +47,9 @@ Being organised, planning ahead and clear communication with supervisors are key
 
 ## References
 
-Costa, J. & Pinto-Gouveia, J. (2013) [Experiential avoidance and self-compassion in chronic pain](http://self-compassion.org/wp-content/uploads/2016/06/Costa_et_al-2013.pdf). Journal of Applied Social Psychology, 43, p1578-1591
-Neff, K.D. (2009) Self-compassion. In Leary, M.R. and Hoyle, R.H. Eeds), Handbook of individual differences in social behaviour. New York: Guilford Press.
-Rozin, P. & Royzman, E.B. (2001) [Negativity bias, negativity dominance and contagion](http://journals.sagepub.com/doi/pdf/10.1207/S15327957PSPR0504_2). Personality and Social Psychology Review, Vol 5, No. 4, 296-320
+- Costa, J. & Pinto-Gouveia, J. (2013) [Experiential avoidance and self-compassion in chronic pain](http://self-compassion.org/wp-content/uploads/2016/06/Costa_et_al-2013.pdf). Journal of Applied Social Psychology, 43, p1578-1591
+- Neff, K.D. (2009) Self-compassion. In Leary, M.R. and Hoyle, R.H. Eeds), Handbook of individual differences in social behaviour. New York: Guilford Press.
+- Rozin, P. & Royzman, E.B. (2001) [Negativity bias, negativity dominance and contagion](http://journals.sagepub.com/doi/pdf/10.1207/S15327957PSPR0504_2). Personality and Social Psychology Review, Vol 5, No. 4, 296-320
 
 
 
