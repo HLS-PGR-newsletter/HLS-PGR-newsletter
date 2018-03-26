@@ -42,3 +42,5 @@ If the fruit salad is not working for you, try buying grapes and freezing them o
 
 * Cereal
 High fibre cereal, like shredded wheats, wheat biscuits (or minis), fruit and fibre etc. are all great choices to snack on – I advise to have them dry, as this means the 30g recommended daily allowance can go a long way when snacking!
+
+*Rachael Barker is a 2nd year psychology Ph.D. student with a focus on health psychology* 
