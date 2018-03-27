@@ -8,6 +8,12 @@ subtitle: Another reflection from Becky Seymour
 
 Starting your MRes or Ph.D. can be overwhelming. Whether you've moved to a new city and set up a new life, or are staying at the same university you did your undergrad in; there are many differences between undergraduate and graduate level education. In this reflection I wanted to highlight 3 things you should expect to feel in the first few weeks (or longer) when starting your new degree.
 
+___
+<center>
+  <img src = "https://hls-pgr-newsletter.github.io/HLS-PGR-newsletter.github.io/img/team/Becki-profile.png" />
+</center>
+___
+
 **1)** *Expect to feel out of place*
 
 If you've moved to a new university try to remember how you felt in the first few weeks of your first year. You may have moved into residence or a house, have no clue where the nearest shops are and feel not at home. Now also remember how you felt at the end of your undergrad when you knew where everything was and felt comfortable; this feeling will come again. Moving to a new city and university is challenging. Each university has its own way of doing things - you will learn them and get used to it. Ask questions if you want answers and embrace the nervous excitement of starting a new chapter of your education 😊
