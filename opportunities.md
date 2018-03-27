@@ -6,7 +6,7 @@ subtitle: Exciting opportunities from jobs to conferences.
 
 ___
 <center>
-  <img src = "http://www.cfrinc.net/hs-fs/hubfs/Blog_Images/market-research-opportunity.jpg?t=1520480222622&width=450&name=market-research-opportunity.jpg" />
+  <img src = "http://www.cfrinc.net/hs-fs/hubfs/Blog_Images/market-research-opportunity.jpg?t=1520480222622&width=450&name=market-research-opportunity.jpg" alt="opportunities" />
 </center>
 ___
 

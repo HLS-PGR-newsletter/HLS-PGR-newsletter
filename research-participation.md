@@ -8,7 +8,7 @@ On this page, we will be hosting information and links for people to advertise t
 
 ___
 <center>
-  <img src = "https://i.imgur.com/lESjpa3.png" />
+  <img src = "https://i.imgur.com/lESjpa3.png" alt="participate"/>
 </center>
 
 ___

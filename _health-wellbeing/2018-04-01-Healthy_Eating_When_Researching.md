@@ -5,7 +5,7 @@ subtitle: Some advice from health psychology researcher Rachael Barker.
 ---
 
 <center>
-  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Foods_%28cropped%29.jpg/800px-Foods_%28cropped%29.jpg" />
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Foods_%28cropped%29.jpg/800px-Foods_%28cropped%29.jpg" alt="healthy_food"/>
 </center>
 
 ___
