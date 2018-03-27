@@ -4,6 +4,11 @@ title: Healthy eating whilst doing a research degree. #2
 subtitle: Some advice from health psychology researcher Rachael Barker.
 ---
 
+<center>
+  <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Foods_%28cropped%29.jpg/800px-Foods_%28cropped%29.jpg" />
+</center>
+
+___
 
 When working hard on a PhD, balanced meals can completely go out the window. With time an essence it is so important to make sure you are eating the right balance of foods to keep your brain active and concentration levels high. Even though this is known, with deadlines looming, snacking is a common occurrence, just to keep hunger at bay while that literature review is being done - probably at 2am!
 Choosing the right food during deadlines or exam periods will help you, not only keep any excess weight at bay, but help to sleep better and stop reaching for the high-sugar high-fat and normally over-priced foods from the convenience store next door! The key ingredient for all of this is preparation is key, pre-cut carrot sticks snack-pot may cost you £1 a pot from a local store but may cost you about 10p if you were to make them yourselves. After all, we are still students, so saving money in these places can also help reduce stress!
