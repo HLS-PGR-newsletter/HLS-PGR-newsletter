@@ -10,7 +10,7 @@ Starting your MRes or Ph.D. can be overwhelming. Whether you've moved to a new c
 
 ___
 <center>
-  <img src = "https://hls-pgr-newsletter.github.io/HLS-PGR-newsletter.github.io/img/team/Becki-profile.png" />
+  <img src="{{ site.baseurl }}/img/Expect_img.jpg" alt="What_to_expect" width = "400" />
 </center>
 ___
 
