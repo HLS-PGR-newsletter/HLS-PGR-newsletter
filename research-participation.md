@@ -6,6 +6,13 @@ subtitle: We are always on the look out for participants, why not take part in o
 
 On this page, we will be hosting information and links for people to advertise their studies, in case they are in need of extra participants. This can be in the form of a survey link, a participant sign-up form, or just some information about the study with researcher contact information. Let us know if you have any studies you want added to this by addressing an email to [James Bartlett](mailto:cov.pgrnewsletter@gmail.com).
 
+___
+<center>
+  <img src = "https://i.imgur.com/lESjpa3.png" />
+</center>
+
+___
+
 If you want your study advertising, you need to provide the following information:
 - Study title
 - Study topic
