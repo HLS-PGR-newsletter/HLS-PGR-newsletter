@@ -12,6 +12,22 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
+# April 2018
+
+## Publications 
+
+Scott McGuire has published a review article titled: "[Hemodynamic Instability during Dialysis: The potential role of intradialytic exercise](https://www.hindawi.com/journals/bmri/2018/8276912/)". 
+
+## Conferences 
+
+Laura Wilde has had a poster accepted for the International Society of Behavioral Nutrition and Physical Activity conference in Hong Kong (June 2018).
+
+## Sports 
+
+Congratulations to Mairi Mulvenna and Maria Charalampous who are All-British Champions in their Gaelic football team. 
+
+# March 2018
+
 ## Competitions
 
 Congratulations to our HLS representatives in the Coventry University Three Minute Thesis competition:
