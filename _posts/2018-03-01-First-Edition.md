@@ -1,7 +1,7 @@
 ---
 layout: post
-title: March 1st Issue
-date: 2018-03-01
+title: 2nd March 2018 - Issue 1
+date: 2018-03-02
 subtitle: Welcome to the PGR Newsletter
 ---
 

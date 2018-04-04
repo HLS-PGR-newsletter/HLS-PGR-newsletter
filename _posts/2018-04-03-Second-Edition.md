@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3rd April 2018 - The 2nd Issue
+title: 3rd April 2018 - Issue 2
 date: 2018-04-03
 subtitle: The PGR Newsletter returns
 ---
