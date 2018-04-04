@@ -18,7 +18,7 @@ We are always looking for suggestions, advice, or even an extra pairs of hands (
 - Sarah Charles - Editor, Know-it-all
 
 <img src="{{ site.baseurl }}/img/team/James-profile.png" alt="James Bartlett" width = "150" />
-- James Bartlett - Website design, Cynic
+- James Bartlett - Website design, Cynic, Genius
 
 <img src="{{ site.baseurl }}/img/team/Laura-profile.png" alt="Laura Wilde" width = "150" />
 - Laura Wilde - Senior REP, PhD Office Mum
