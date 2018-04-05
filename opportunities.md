@@ -23,13 +23,15 @@ If you come across any opportunities that others might be interested in, please 
 
 * [British Society of Criminology](https://www.bcu.ac.uk/social-sciences/criminology/british-society-of-criminology-conference-2018 ) conference 3rd-6th July,  Birmingham City University.
 
-* [PsyPag](https://www.psypag2018.com/) (Psychology for Postgraduates), 24th-27th July 2018, University of Hudderfield.
+* [PsyPag](https://www.psypag2018.com/) (Psychology for Postgraduates), 24th-27th July 2018, University of Huddersfield.
 
-* [Doctoral Capability and Development Conference](http://recap.coventry.domains/DCAD2018/programme/)  for 24-26 April 2018 at Elm Bank - Registration for attendance is open until Friday 13th April. 
+* [Doctoral Capability and Development Conference](http://recap.coventry.domains/DCAD2018/programme/)  for 24-26 April 2018 at Elm Bank - Registration for attendance is open until Friday 13th April.
 
 ## Funding / Grants
 
-* [PsyPAG](http://www.psypag.co.uk/bursaries-2/) offers bursaries to attend conferences (domestic and international), workshops and training events, study visits, travel allowances, and research grants. There are three rounds of funding throughout the year with the 10th of June being the next deadline.  
+* *[PsyPAG](http://www.psypag.co.uk/bursaries-2/)* offers bursaries to attend conferences (domestic and international), workshops and training events, study visits, travel allowances, and research grants. There are three rounds of funding throughout the year with the 10th of June being the next deadline.  
+
+* The *[Postgraduate Researcher Mobility Fund 2018](http://recap.coventry.domains/pgr-mobility-programme/)* offers students at Coventry University the opportunity to gain funding towards a wide range of international mobility activities, provided they are an academic party. - Applications close at **11:30pm on 18th April 2018**
 
 ## Jobs
 
