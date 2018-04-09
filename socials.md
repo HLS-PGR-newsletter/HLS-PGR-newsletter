@@ -28,7 +28,7 @@ This series of talks from guest speakers takes place across venues in Coventry c
 
 The talks going on in Drapers and The Phoenix are likely to be of interest to those in HLS
 
-[Click here](https://pintofscience.co.uk/events/coventry) for the main for more information about the events and specific subjects.
+[Click here](https://pintofscience.co.uk/events/coventry) for the official website for more information about the events and specific subjects.
 
 # Questions
 
