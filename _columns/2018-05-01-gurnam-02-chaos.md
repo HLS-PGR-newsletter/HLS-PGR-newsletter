@@ -4,6 +4,13 @@ title: Gurnam's Grapevine - Embracing Chaos and Complexity in Your Research.
 subtitle: What is complexity theory and how does it relate to research degrees?
 ---
 
+
+___
+<center>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Complex_systems_thoery.jpg/1148px-Complex_systems_thoery.jpg" alt="Complexity Theory" width = "400" />
+</center>
+___
+
 ## Have you ever…
 
 Have you ever been to a reception where there is a large and very sluggish queue at the buffet table.table? Your frustration turns into anger in the realisation that if the queue were to split into two operating on each side of the table, things would speed up considerably? Alternatively, I am sure you will have experienced being stuck at traffic lights on red when there was no traffic flowing the other way? Your urge to jump the lights is tempered by the fear that some camera might just record your transgression. Five years ago, the traffic lights were removed at the junction of Cox Street and Jordan Well at the top end of James Starley building. Initially people thought it was a crazy idea, ! but However, not only did it reduce - drastically - the number of accidents at the junction, but traffic jams appeared to magically disappear!
@@ -37,3 +44,9 @@ References:
 http://dx.doi.org/10.1787/5k3txnpt1lnr-en
 
 *[Dr. Gurnam Singh](http://www.coventry.ac.uk/research/research-directories/researchers/gurnam-singh/) is a Principal Lecturer in Social Work and Post-Graduate Research Lead for the Health and Life Sciences.*
+
+___
+<center>
+  <img src="{{ site.baseurl }}/img/Gurnam.jpg" alt="Gurnam" width = "400" />
+</center>
+___
