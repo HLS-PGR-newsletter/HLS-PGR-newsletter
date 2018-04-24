@@ -10,7 +10,7 @@ Doing a research degree of any kind is a serious undertaking. However, when doin
 
 ___
 <center>
-  <img src="{{ site.baseurl }}/img/pregnant.jpg" alt="pregnant" width = "400" />
+  <img src="{{ site.baseurl }}/img/Pregnant.jpg" alt="pregnant" width = "400" />
 </center>
 ___
 
