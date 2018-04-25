@@ -18,7 +18,7 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 
 ## Publications
 
-Congratulations to **Laura Wilde** for getting her systematic review protocol accepted for publication (currently in Press)
+Congratulations to **Laura Wilde** for getting her systematic review protocol accepted for publication (currently In Press)
 
 ## Conferences
 
