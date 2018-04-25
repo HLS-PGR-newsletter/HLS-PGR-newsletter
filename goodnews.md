@@ -23,7 +23,9 @@ Congratulations to **Laura Wilde** for getting her systematic review protocol ac
 ## Conferences
 
 **James Bartlett**, is running a workshop at [PysPag 2018](https://www.psypag2018.com/programme-and-abstract) called “An introduction and practical guide to Open Science practices in psychology”
+
 **Mairi Mulvenna** has had an abstract accepted to present at the [23rd Annual Congress of the European College of Sport Science](http://ecss-congress.eu/2018/18/index.php)
+
 **Katie Baker** for presenting at the [British Congress of Mathematics Education](http://www.bcme.org.uk/) In April
 
 Also, Well done to all those who presented at the Doctoral Capability and Development Conference .
