@@ -22,7 +22,7 @@ Congratulations to **Laura Wilde** for getting her systematic review protocol ac
 
 ## Conferences
 
-**James Bartlett**, is running a workshop at [PysPag 2018](https://www.psypag2018.com/programme-and-abstract) called “An introduction and practical guide to Open Science practices in psychology”
+**James Bartlett**, is running a workshop at [PsyPAG 2018](https://www.psypag2018.com/programme-and-abstract) called “An introduction and practical guide to Open Science practices in psychology”
 
 **Mairi Mulvenna** has had an abstract accepted to present at the [23rd Annual Congress of the European College of Sport Science](http://ecss-congress.eu/2018/18/index.php)
 
