@@ -19,7 +19,7 @@ The talks going on in Drapers and The Phoenix are likely to be of interest to th
 
 ## 23rd May at 1.30 pm, Afternoon tea @ Rising Cafe
 
-Senior REP, Laura Wilde is organising some afternoon tea, to have a short break from studies. Please find the Facebook event [here]
+Senior REP, Laura Wilde is organising some afternoon tea, to have a short break from studies.
 
 # Questions
 
