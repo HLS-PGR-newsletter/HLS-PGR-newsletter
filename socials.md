@@ -22,7 +22,13 @@ The main focus of the event is to look at the question 'how can we engage childr
 
 [Click here](https://www.bps.org.uk/events/does-dog-read-child-how-can-we-engage-children-reading-enjoyment) for the BPS page about the event.
 
+## 14th - 16th May, Pint of Science comes to Coventry
 
+This series of talks from guest speakers takes place across venues in Coventry city centre: Drapers, The Phoenix, Twisted Barrel and the Shop Front Theatre
+
+The talks going on in Drapers and The Phoenix are likely to be of interest to those in HLS
+
+[Click here](https://pintofscience.co.uk/events/coventry) for the official website for more information about the events and specific subjects.
 
 # Questions
 
