@@ -13,7 +13,7 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
 <center>
-<h1> 1st May 2018 </h1>
+<h1> Updates from 1st May 2018 </h1>
 </center>
 
 ## Publications
@@ -36,7 +36,7 @@ Also, Well done to all those who presented at the Doctoral Capability and Develo
 **Diane Ménage** has now successfully submitted her thesis.  *BEST OF LUCK!*
 
 <center>
-<h1>  3rd April 2018 </h1>
+<h1> Updates from 3rd April 2018 </h1>
 </center>
 
 ## Publications
@@ -52,7 +52,7 @@ Also, Well done to all those who presented at the Doctoral Capability and Develo
 Congratulations to **Mairi Mulvenna** and **Maria Charalampous** who are All-British Champions in their Gaelic football team.
 
 <center>
-<h1> 1st March 2018 </h1>
+<h1> Updates from 1st March 2018 </h1>
 </center>
 
 ## Competitions
