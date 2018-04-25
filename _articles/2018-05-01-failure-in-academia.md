@@ -24,4 +24,10 @@ Hopefully this thinkpiece will allow you to see that, despite not wanting to ope
 
 One way we could do this is by including a commiserations section along with our good news. You could let us know if you applied for a job or tried submitting a paper, but did not quite make it this time. This could be one way in which we see a more realistic outlook on the life of a research student. Do you think this would be a good idea? Please respond to our poll below if you would be interested in seeing this section as a part of the PGR newsletter.
 
+Do you think that we should add a 'commiserations' page to future articles? 
+
+<button label="FailYes"> <a href="https://hls-pgr-newsletter.github.io/HLS-PGR-newsletter.github.io/CommiserationsYes/"> Yes </a> </button>
+<button label="FailNo"> <a href="https://hls-pgr-newsletter.github.io/HLS-PGR-newsletter.github.io/CommiserationsNo/"> No </a> </button>
+
+
 *[James Bartlett](http://www.coventry.ac.uk/research/research-directories/researchers/james-bartlett/) is a third year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). His research focuses on the neurocognitive mechanisms associated with nicotine dependence and shouts a lot about research methods and statistics in psychology.*
