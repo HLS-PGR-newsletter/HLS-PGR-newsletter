@@ -28,7 +28,7 @@ Congratulations to **Laura Wilde** for getting her systematic review protocol ac
 
 Also, Well done to all those who presented at the Doctoral Capability and Development Conference .
 
-# Funding
+## Funding
 
 **Jenny MacKay** was awarded funding from PsyPag to run a workshop on how to conduct a systematic review in psychology.
 
