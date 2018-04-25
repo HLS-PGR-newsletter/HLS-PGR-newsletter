@@ -4,7 +4,8 @@ title: Stepping out of the Shadow of Failure
 subtitle: James Bartlett talks about imposter syndrome, and how opening up about failure can create more realistic expectations of academia.
 ---
 
-Browse any guide on postgraduate research and you will come across how emotionally challenging a Master’s and PhD can be. For example, [Kate Williams](http://www.psypag.co.uk/wp-content/uploads/2015/09/30th-Anniversary-Book.pdf) outlined the challenges and isolation that you can face in the PsyPAG survival guide (page 31). She also touches on what is known as “imposter syndrome”. This is the feeling that you are a failure or a fraud in comparison to your peers. As always, there is an excellent PhD comic to illustrate this!
+Browse any guide on postgraduate research and you will come across how emotionally challenging a Master’s and PhD can be. For example, [Kate Williams](http://www.psypag.co.uk/wp-content/uploads/2015/09/30th-Anniversary-Book.pdf) outlined the challenges and isolation that you can face in the PsyPAG survival guide (page 31). She also touches on what is known as “imposter syndrome”. This is the feeling that you are a failure or a fraud in comparison to your peers. As always, there is an excellent PhD comic ("Piled Higher and Deeper" by Jorge Cham
+www.phdcomics.com) to illustrate this!
 
 <center>
   <img src="{{ site.baseurl }}/img/PhD-comic-imposter.png" alt="Piled Higher and Deeper by Jorge Cham
@@ -22,3 +23,5 @@ Extending this across the whole newsletter team for a larger sample, we have had
 Hopefully this thinkpiece will allow you to see that, despite not wanting to openly talk about it, most of us have experienced our fair share of failure. Usually more often than we’ve succeeded! Therefore, the next time you do not get a job, or a paper accepted, try not to think that you are an imposter. Do not get me wrong, failure hurts and it will not stop hurting, but think about how you can bounce back from it and succeed next time. We have all failed at some point, we just don’t want to talk about it. Maybe if we could all talk about it more openly, we would have more accurate expectations.
 
 One way we could do this is by including a commiserations section along with our good news. You could let us know if you applied for a job or tried submitting a paper, but did not quite make it this time. This could be one way in which we see a more realistic outlook on the life of a research student. Do you think this would be a good idea? Please respond to our poll below if you would be interested in seeing this section as a part of the PGR newsletter.
+
+*[James Bartlett](http://www.coventry.ac.uk/research/research-directories/researchers/james-bartlett/) is a third year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). His research focuses on the neurocognitive mechanisms associated with nicotine dependence and shouts a lot about research methods and statistics in psychology.*
