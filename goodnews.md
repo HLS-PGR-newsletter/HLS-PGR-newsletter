@@ -12,7 +12,9 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
+<center>
 # 1st May 2018
+</center>
 
 ## Publications
 
@@ -33,8 +35,9 @@ Also, Well done to all those who presented at the Doctoral Capability and Develo
 ## Thesis submission
 **Diane Ménage** has now successfully submitted her thesis.  *BEST OF LUCK!*
 
+<center>
 # 3rd April 2018
-
+</center>
 
 ## Publications
 **Scott McGuire** has published a review article titled: “[Hemodynamic Instability during Dialysis: The potential role of intradialytic exercise](https://www.hindawi.com/journals/bmri/2018/8276912/)”.
@@ -48,7 +51,9 @@ Also, Well done to all those who presented at the Doctoral Capability and Develo
 
 Congratulations to **Mairi Mulvenna** and **Maria Charalampous** who are All-British Champions in their Gaelic football team.
 
+<center>
 # 1st March 2018
+</center>
 
 ## Competitions
 
