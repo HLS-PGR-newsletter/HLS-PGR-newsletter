@@ -12,21 +12,43 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
-# April 2018
+# 1st May 2018
 
-## Publications 
+## Publications
 
-Scott McGuire has published a review article titled: "[Hemodynamic Instability during Dialysis: The potential role of intradialytic exercise](https://www.hindawi.com/journals/bmri/2018/8276912/)". 
+Congratulations to **Laura Wilde** for getting her systematic review protocol accepted for publication (currently in Press)
 
-## Conferences 
+## Conferences
 
-Laura Wilde has had a poster accepted for the International Society of Behavioral Nutrition and Physical Activity conference in Hong Kong (June 2018).
+**James Bartlett**, is running a workshop at [PysPag 2018](https://www.psypag2018.com/programme-and-abstract) called “An introduction and practical guide to Open Science practices in psychology”
+**Mairi Mulvenna** has had an abstract accepted to present at the [23rd Annual Congress of the European College of Sport Science](http://ecss-congress.eu/2018/18/index.php)
+**Katie Baker** for presenting at the [British Congress of Mathematics Education](http://www.bcme.org.uk/) In April
 
-## Sports 
+Also, Well done to all those who presented at the Doctoral Capability and Development Conference .
 
-Congratulations to Mairi Mulvenna and Maria Charalampous who are All-British Champions in their Gaelic football team. 
+# Funding
 
-# March 2018
+**Jenny MacKay** was awarded funding from PsyPag to run a workshop on how to conduct a systematic review in psychology.
+
+## Thesis submission
+**Diane Ménage** has now successfully submitted her thesis.  *BEST OF LUCK!*
+
+# 3rd April 2018
+
+
+## Publications
+**Scott McGuire** has published a review article titled: “[Hemodynamic Instability during Dialysis: The potential role of intradialytic exercise](https://www.hindawi.com/journals/bmri/2018/8276912/)”.
+
+## Conferences
+
+**Laura Wilde** has had a poster accepted for the [International Society of Behavioral Nutrition and Physical Activity](https://www.venuewest.com/isbnpa2018/) conference in Hong Kong (June 2018).
+
+
+## Sports
+
+Congratulations to **Mairi Mulvenna** and **Maria Charalampous** who are All-British Champions in their Gaelic football team.
+
+# 1st March 2018
 
 ## Competitions
 
