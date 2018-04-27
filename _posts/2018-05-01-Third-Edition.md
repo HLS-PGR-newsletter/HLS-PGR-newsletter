@@ -6,4 +6,4 @@ subtitle: The PGR Newsletter returns
 ---
 
 
-<embed src="https://HLS-PGR-newsletter.github.io/issues/May_1st_Issue.pdf" type = "application/pdf" width="600px" height="500px"  />
+<embed src="https://HLS-PGR-newsletter.github.io/issues/May_1st_Issue.pdf" type = "application/pdf" width="800px" height="1000px"  />
