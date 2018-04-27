@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The importance of having a social group during your Research Degree.
+title: The importance of having a social group during your Research Degree
 subtitle: Tips and reflections from Becky Seymour
 ---
 
