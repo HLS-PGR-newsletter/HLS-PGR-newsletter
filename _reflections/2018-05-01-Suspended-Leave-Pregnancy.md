@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Suspended Leave due to Pregnancy.
+title: Suspended Leave due to Pregnancy
 subtitle: How pregnancy can cause changes to study plans, and what you can do. A reflection from Emma Hadfield
 ---
 
