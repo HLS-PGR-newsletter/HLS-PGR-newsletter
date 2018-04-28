@@ -32,7 +32,7 @@ Also, Well done to all those who presented at the Doctoral Capability and Develo
 
 ## Funding
 
-**Jenny MacKay** was awarded funding from PsyPag to run a workshop on how to conduct a systematic review in psychology.
+**Jenny Mackay** was awarded funding from PsyPag to run a workshop on how to conduct a systematic review in psychology.
 
 ## Thesis submission
 **Diane Ménage** has now successfully submitted her thesis.  *BEST OF LUCK!*
