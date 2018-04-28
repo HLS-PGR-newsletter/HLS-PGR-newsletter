@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gurnam's Grapevine - Embracing Chaos and Complexity in Your Research.
+title: Gurnam's Grapevine - Embracing Chaos and Complexity in Your Research
 subtitle: What is complexity theory and how does it relate to research degrees?
 ---
 

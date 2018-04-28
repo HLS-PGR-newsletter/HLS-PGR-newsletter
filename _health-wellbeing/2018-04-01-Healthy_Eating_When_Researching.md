@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Healthy eating whilst doing a research degree. #2
+title: Healthy eating whilst doing a research degree
 subtitle: Some advice from health psychology researcher Rachael Barker.
 ---
 

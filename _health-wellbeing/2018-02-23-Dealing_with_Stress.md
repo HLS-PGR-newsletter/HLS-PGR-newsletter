@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dealing With Stress During a Research Degree. #1
+title: Dealing With Stress During a Research Degree
 subtitle: Some advice from Rachael Barker.
 ---
 
