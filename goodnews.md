@@ -28,6 +28,8 @@ Congratulations to **Laura Wilde** for getting her systematic review protocol ac
 
 **Katie Baker** for presenting at the [British Congress of Mathematics Education](http://www.bcme.org.uk/) In April
 
+**Sahar Shahid** has had a poster accepted to present the preliminary findings of her systematic review at the [International Society for Research on Aggression conference](http://www.israsociety.com/world-meetings/upcoming/) in July in Paris.
+
 Also, Well done to all those who presented at the Doctoral Capability and Development Conference .
 
 ## Funding
