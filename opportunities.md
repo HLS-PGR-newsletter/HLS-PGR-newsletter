@@ -54,15 +54,8 @@ If you come across any opportunities that others might be interested in, please 
 
 <center> <h1> Workshops </h1> </center>
 
-* *"Mobile Health Technologies to promote smoking behaviour change"*, 6th March 1-2pm, Coventry University, Richard Crossman building (RC125). [Email](mailto:hls.rso@coventry.ac.uk) the HLS research support office to book a place.
 
-* *"Prescription Diets for Teenagers?"*, Midlands Health Psychology Local Interest Group, 21st March 1-2pm, Coventry University, Richard Crossman building (4th Floor).
-
-* *"Exploring culture and experience: Choosing methodologies in qualitative research"*, PsyPag workshop, 26th April 9.45-4.45, Aston University.
-
-* *Alignment: The backbone of your thesis”* 10th May 1-2pm, for all PGRs, CWG08
-
-* *No Epistemology is Bad Epistemology, How We Know What We Know*. In this philosophically oriented workshop students will explore and discuss the plurality of criteria for truth and justification in research”, 24th May 1-2pm, for all PGRs, CWG08
+* *No Epistemology is Bad Epistemology, How We Know What We Know*. In this philosophically oriented workshop students will explore and discuss the plurality of criteria for truth and justification in research”, **24th May 1-2pm**, for all PGRs, CWG08
 
 
 <center> <h1> Others</h1> </center>
