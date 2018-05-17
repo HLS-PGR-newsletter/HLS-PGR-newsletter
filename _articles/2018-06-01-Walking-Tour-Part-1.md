@@ -42,7 +42,7 @@ As well as these Cathedrals, those of you who like more religious architecture w
 
 *	The Herbert Art Gallery & Museum
 
-As mentioned above, the **Herbert Art Gallery and Museum** *(HAGM)* next to the CUSU Hub building is open from 10am to 4pm Monday-Saturday and from 12noon to 4pm in Sundays. They have a fantastic collection of art, historic pieces, archaeological finds and natural history exhibits.  As well as these collections, they run events for people to see a wider variety of art and also occasionally host a “Museum Late”, which includes Street Food and DJs among other “After Hours” events. They will be hosting a [One Night Stand]( http://www.theherbert.org/whats_on/1288/a_one_night_stand_with_tricity_vogue) as part of Gay Pride week on the 8th June.
+As mentioned above, the **Herbert Art Gallery and Museum** *(HAGM)* next to the CUSU Hub building is open from 10am to 4pm Monday-Saturday and from 12noon to 4pm on Sundays. They have a fantastic collection of art, historic pieces, archaeological finds and natural history exhibits.  As well as these collections, they run events for people to see a wider variety of art and also occasionally host a “Museum Late”, which includes Street Food and DJs among other “After Hours” events. They will be hosting a [One Night Stand]( http://www.theherbert.org/whats_on/1288/a_one_night_stand_with_tricity_vogue) as part of Gay Pride week on the 8th June.
 
 *	The Coventry Transport Museum
 
