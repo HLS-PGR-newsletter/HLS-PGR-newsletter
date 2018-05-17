@@ -5,7 +5,7 @@ subtitle: In Part 1 of this tour of Coventry, Sarah outlines some of the best pl
 ---
 
 
-Doing a PhD can feel rather isolating at times, and overwhelming at others. One of the best ways to help keep your spirits from being low is to get to know your surrounding area. In 2017, Coventry won the accolade of “*2021 City of Culture*”. As a result it is more than worth go for a wonder round this new city you have found yourself in.
+Doing a research degree can feel rather isolating at times, and overwhelming at others. One of the best ways to help keep your spirits from being low is to get to know your surrounding area. In 2017, Coventry won the accolade of “*2021 City of Culture*”. As a result it is more than worth it to go for a wonder round this new city you have found yourself in.
 
 ___
 
@@ -19,7 +19,9 @@ ___
 
 As a result, it is a city undergoing a lot of redevelopment, but the old historic parts are being preserved.
 The most famous of these historic buildings must be the Cathedrals. There have been 3 Cathedrals in Coventry over the last Millennium. The original Coventry Cathedral (Priory Church of St Mary) was built in the 12th Century under supervision of the Earl of Mercia. This Cathedral was around for close to 400 years before the dissolution of the monasteries saw to its decline in 1539. The remains of the original Cathedral can be seen at [The Priory Centre](https://www.coventrypriory.co.uk/). In fact. On **Saturday 2nd June 2018** they are running an educational workshop.
+
 Around the corner to these remains we can see the more recent Cathedrals. The 2nd Cathedral, built in the 15th Century, was destroyed during a bombing run by the German Luftwaffe in November 1940. Having only gained Cathedral status in 1918, this did not deter the people of Coventry, who set the ball in motion for rebuilding the Cathedral the very next day. These ruins can be seen from **The Student Union**, and the **Herbert Art Gallery & Museum**.
+
 Finally, we have the current Cathedral, opened in 1962, The Cathedral is open to visitors from 10am to 5pm Monday to Saturday and 12 noon to 4pm on a Sunday. It is a beautiful building designed by Sir Basil Spence. What’s even better, is that Students at Coventry University get to go for **free** (a word I’m sure most students love to hear). All you need to do is bring your Student Card. The Cathedral also offers the opportunity to go to the **Blitz Museum** for only £2. Though, do check if they are running other events, as this often means this Blitz experience is pre-booked.
 
 ### Churches
