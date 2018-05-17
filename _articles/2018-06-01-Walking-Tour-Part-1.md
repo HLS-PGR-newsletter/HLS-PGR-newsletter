@@ -22,7 +22,7 @@ The most famous of these historic buildings must be the Cathedrals. There have b
 
 Around the corner to these remains we can see the more recent Cathedrals. The 2nd Cathedral, built in the 15th Century, was destroyed during a bombing run by the German Luftwaffe in November 1940. Having only gained Cathedral status in 1918, this did not deter the people of Coventry, who set the ball in motion for rebuilding the Cathedral the very next day. These ruins can be seen from **The Student Union**, and the **Herbert Art Gallery & Museum**.
 
-Finally, we have the current Cathedral, opened in 1962, The Cathedral is open to visitors from 10am to 5pm Monday to Saturday and 12 noon to 4pm on a Sunday. It is a beautiful building designed by Sir Basil Spence. What’s even better, is that Students at Coventry University get to go for **free** (a word I’m sure most students love to hear). All you need to do is bring your Student Card. The Cathedral also offers the opportunity to go to the **Blitz Museum** for only £2. Though, do check if they are running other events, as this often means this Blitz experience is pre-booked.
+Finally, we have the current Cathedral, opened in 1962. The Cathedral is open to visitors from 10am to 5pm Monday to Saturday and 12 noon to 4pm on a Sunday. It is a beautiful building designed by Sir Basil Spence. What’s even better, is that Students at Coventry University get to go for **free** (a word I’m sure most students love to hear). All you need to do is bring your Student Card. The Cathedral also offers the opportunity to go to the **Blitz Museum** for only £2. Though, do check if they are running other events, as this often means this Blitz experience is pre-booked.
 
 ### Churches
 
