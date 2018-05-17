@@ -4,10 +4,10 @@ title: Tour of Coventry - Part 1
 subtitle: In Part 1 of this tour of Coventry, Sarah outlines some of the best places to go to understand the History of Coventry.
 ---
 
-<center> <h1> Coventry Tour </h1> </center>
 
 Doing a PhD can feel rather isolating at times, and overwhelming at others. One of the best ways to help keep your spirits from being low is to get to know your surrounding area. In 2017, Coventry won the accolade of “*2021 City of Culture*”. As a result it is more than worth go for a wonder round this new city you have found yourself in.
 
+___
 
 ## Historic Buildings and Coventry’s History
 
@@ -68,6 +68,10 @@ Admission to the museum is **FREE**
 A more recent treasure in Coventry is the completely volunteer-based music museum. This museum, which opened in just 2013, seeks to collect music made in Coventry, Nuneaton, Rugby, Leamington Spa and even nearer Birmingham. They specialise in hosting 2-tone music (the precursor of ska-punk), but also host a variety of other music.
 Among their attractions, they have a 2-tone village with a Caribbean restaurant, a music studio that is free to use and. Being an independent museum and ran by volunteers, there is a nominal charge of £3.00 for Adults and £1.00 for Children between the ages of 5 and 15. This is a very small price to pay to start indulging in one of Coventry’s recent arrivals that contributed to the winning of the 2021 City of Culture award.
 
+## More to come in Part 2
 
+In future parts of this 'Coventry Tour' series, Sarah will be looking at Places to go to Eat and Drink, Shopping, and Venues for events and clubs.
+
+___
 
 *[Sarah Charles](https://pureportal.coventry.ac.uk/en/persons/sarah-jane-charles) is a first year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). Her research focuses on the neurochemical and behavioural mechanisms associated with social bonding, and is Editor of the PGR Newsletter. She also is a cofounder of [Coventry University's Development of Open Science](https://www.facebook.com/groups/165435830724121/?ref=br_rs) group.*
