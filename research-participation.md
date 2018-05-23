@@ -17,7 +17,7 @@ ___
 
 ### Important information
 
-* If you would like your study to be hosted on this website, you **must**  mention this method of distribution of the study in your ethics application. Coventry Ethics have been made aware of our website and are happy for you to do so, provided you include it in the application.
+* If you would like your study to be hosted on this website, you **must**  mention this method of distribution of the study in your ethics application. Coventry Ethics have been made aware of our website and are happy for you to do so, provided you include it in the application. If you have already applied for ethics/got ethical approval then all you need to do is make an amendment with Coventry Ethics. This process is usually quick and painless. 
 
 
 * If you have done the above and want your study advertised, you need to provide the following information:
