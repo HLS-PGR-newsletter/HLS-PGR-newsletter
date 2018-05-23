@@ -38,6 +38,36 @@ As well as these Cathedrals, those of you who like more religious architecture w
 
 **The Church of St John the Baptist** in the city centre was built in 1343, and restored in the 1800s. Their stained-glass windows and awe-inspiringly beautiful building are something that any person with an interest in religious or cultural history should not miss out on.
 
+
+### Other Buildings
+
+<center>
+  <img src="{{ site.baseurl }}/img/Weavers.png" alt="Weavers House" width = "400" />
+</center>
+
+**The Weavers House** is a 15th Century medieval terrace house located from a 20-minute walk from the Hub in Spon End. The cottage has been restored to show how it would have looked in 1540 and shows how John Croke, a Coventry narrow-loom weaver and his family would have lived and worked. At the back of the Weaver’s House is a medieval garden showing the plants that would have been grown for food, flavouring, medicine and household use. Free open days are held throughout summer, with the next on the 16th of June, and a Tudor Games Day on the 22nd of July, or take a go at weaving yourself for a small fee in one of the workshops 10am - 12pm every Monday and Thursday.
+
+<center>
+  <img src="{{ site.baseurl }}/img/Fords.png" alt="Fords Hospital" width = "400" />
+</center>
+
+**Fords Hospital** located on a quiet street off New Union street is an Alms-house built in the early 1500’s. Though being hit during the Coventry Blitz, the original wood and stone was used to rebuild the building in the 1950’s. The building was studied by historians in the late 20th century when Shakespeare’s Globe Theatre in London was being reconstructed, and featured in a 2009 episode of Doctor Who, ‘The Shakespeare Code’. The exterior can be easily viewed from Greyfriars street, but the building is often open the annual Heritage days each September.
+
+### Memorials
+
+<center>
+  <img src="{{ site.baseurl }}/img/WarMem.png" alt="War Memorial Park" width = "400" />
+</center>
+
+**The War Memorial Park** is just over a half hour walk, or less than 10 minutes on the bus from near the hub. Roughly 48.5 hectares in size, the park is made up of two areas, the formal garden with the War Memorial and the sports areas, with playing fields, golf course, Splash 'n' Play Park and play areas. There is also a 1.6-mile circular footpath around the park, and hold special events all throughout the year.
+
+<center>
+  <img src="{{ site.baseurl }}/img/Martyrs.png" alt="Coventry Martyrs Memorial" width = "400" />
+</center>
+
+**The Coventry Martyrs Memorial** found on Ringway, St Patrick's. The 6-metre high monument revealed in 1910 commemorates the Coventry Martyrs, a group of Lollard Christians burnt at the stake for teaching English versions of the Lord's Prayer, the Ten Commandments and the Apostles' Creed. A number of streets in the area are named after the martyrs.
+
+
 ### Museums
 
 *	The Herbert Art Gallery & Museum
