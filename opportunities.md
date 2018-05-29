@@ -23,9 +23,9 @@ None posted at this time.
 
 * **Sports and Exercise Science Journal Club**:
 
-Student-led journal club for postgraduates looking at all research health and physical activity related. Held on the **first Tuesday of every month 10-11am**. Hosted by the Doctoral College and Centre for Research Capability and Development sessions will take place in the Blackbird Room, Elm Bank. Come along to discuss, or for those more shy ones simply listen to the views and opinions from people with similar research interests.
+Student-led journal club for postgraduates looking at all research health and physical activity related. Held on the **first Tuesday of every month 10-11am**. Hosted by the Doctoral College and Centre for Research Capability and Development, sessions will take place in the **Blackbird Room at Elm Bank**. Come along to discuss, or for those of you who are more shy, simply listen to the views and opinions from people with similar research interests.
 
-This months (**5th June**) meeting will look at research on walking football for the over 50’s: "The impact of 12 weeks walking football on health and fitness in males over 50 years of age" - Arnold, Bruce-Low & Sammut (2015)
+This month's (**5th June**) meeting will look at research on walking football for the over 50’s: ["The impact of 12 weeks walking football on health and fitness in males over 50 years of age" - Arnold, Bruce-Low & Sammut (2015)](http://bmjopensem.bmj.com/content/1/1/bmjsem-2015-000048). 
 
 
 <center> <h1> Conferences </h1> </center>
