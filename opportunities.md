@@ -25,7 +25,7 @@ None posted at this time.
 
 Student-led journal club for postgraduates looking at all research health and physical activity related. Held on the **first Tuesday of every month 10-11am**. Hosted by the Doctoral College and Centre for Research Capability and Development, sessions will take place in the **Blackbird Room at Elm Bank**. Come along to discuss, or for those of you who are more shy, simply listen to the views and opinions from people with similar research interests.
 
-This month's (**5th June**) meeting will look at research on walking football for the over 50’s: ["The impact of 12 weeks walking football on health and fitness in males over 50 years of age" - Arnold, Bruce-Low & Sammut (2015)](http://bmjopensem.bmj.com/content/1/1/bmjsem-2015-000048). 
+This month's (**5th June**) meeting will look at research on walking football for the over 50’s: ["The impact of 12 weeks walking football on health and fitness in males over 50 years of age" - Arnold, Bruce-Low & Sammut (2015)](http://bmjopensem.bmj.com/content/1/1/bmjsem-2015-000048).
 
 
 <center> <h1> Conferences </h1> </center>
@@ -37,6 +37,8 @@ This month's (**5th June**) meeting will look at research on walking football fo
 * [PsyPag](https://www.psypag2018.com/) (Psychology for Postgraduates), 24th-27th July 2018, University of Huddersfield.
 
 * Qualitative Methods Summer School, 9th – 13th July, [University of Derby](https://www.derby.ac.uk/enterprisecentre/events/qmss/)
+
+* The first *[joint Midlands BPS conference](https://www.bps.org.uk/events/1st-british-psychological-society-midlands-conference-2018)* will be held this year at **Birmingham City University** on Monday the **3rd of September**  This one day event has something for everyone, bringing together students, researchers, and practicing psychologists from across the midlands. This conference is suitable for: academics, practitioners, trainee psychologists and scientists, undergraduate and postgraduate students, and individuals interested in psychology. We also hope it is a great opportunity for UG, PG, and early career researchers to disseminate their research projects amongst peers, across a variety of psychological disciplines. The available formats for presentations includes, oral presentations, five-minute challenge, and poster presentations. The event is **FREE**, but registration is still required. Abstract submission date deadline is **30th June 2018**. They will also be running a careers exhibition at this event. 
 
 <center> <h1> Funding/Grants </h1> </center>
 
