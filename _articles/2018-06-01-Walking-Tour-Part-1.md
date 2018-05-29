@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tour of Coventry - Part 1
-subtitle: In Part 1 of this tour of Coventry, Sarah outlines some of the best places to go to understand the History of Coventry.
+subtitle: In Part 1 of this tour of Coventry, Sarah & Danii outline some of the best places to go to understand the History of Coventry.
 ---
 
 
@@ -108,4 +108,4 @@ ___
 
 *[Sarah Charles](https://pureportal.coventry.ac.uk/en/persons/sarah-jane-charles) is a first year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). Her research focuses on the neurochemical and behavioural mechanisms associated with social bonding, and is a REPO and editor of the PGR Newsletter. She also is a cofounder of [Coventry University's Development of Open Science](https://www.facebook.com/groups/165435830724121/?ref=br_rs) group.*
 
-*[Danii Chippett](https://pureportal.coventry.ac.uk/en/persons/danielle-nicole-chippett) is a first year sports and exercise science PhD student. Her research focuses on improving sleep and QoL for individuals living with dementia in residential care. She is a REP and is also on the PGR Newsletter team. 
+*[Danii Chippett](https://pureportal.coventry.ac.uk/en/persons/danielle-nicole-chippett) is a first year sports and exercise science PhD student. Her research focuses on improving sleep and QoL for individuals living with dementia in residential care. She is a REP and is also on the PGR Newsletter team.
