@@ -106,4 +106,6 @@ In future parts of this 'Coventry Tour' series, Sarah will be looking at Places 
 
 ___
 
-*[Sarah Charles](https://pureportal.coventry.ac.uk/en/persons/sarah-jane-charles) is a first year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). Her research focuses on the neurochemical and behavioural mechanisms associated with social bonding, and is Editor of the PGR Newsletter. She also is a cofounder of [Coventry University's Development of Open Science](https://www.facebook.com/groups/165435830724121/?ref=br_rs) group.*
+*[Sarah Charles](https://pureportal.coventry.ac.uk/en/persons/sarah-jane-charles) is a first year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). Her research focuses on the neurochemical and behavioural mechanisms associated with social bonding, and is a REPO and editor of the PGR Newsletter. She also is a cofounder of [Coventry University's Development of Open Science](https://www.facebook.com/groups/165435830724121/?ref=br_rs) group.*
+
+*[Danii Chippett](https://pureportal.coventry.ac.uk/en/persons/danielle-nicole-chippett) is a first year sports and exercise science PhD student. Her research focuses on improving sleep and QoL for individuals living with dementia in residential care. She is a REP and is also on the PGR Newsletter team. 
