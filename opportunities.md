@@ -30,15 +30,16 @@ This month's (**5th June**) meeting will look at research on walking football fo
 
 <center> <h1> Conferences </h1> </center>
 
-* [British Psychological Society](https://www1.bps.org.uk/events/conferences/annual-conference-2018) annual conference, 2nd-4th May, East Midlands conference centre, Nottingham.
 
 * [British Society of Criminology](https://www.bcu.ac.uk/social-sciences/criminology/british-society-of-criminology-conference-2018 ) conference 3rd-6th July,  Birmingham City University.
 
-* [PsyPag](https://www.psypag2018.com/) (Psychology for Postgraduates), 24th-27th July 2018, University of Huddersfield.
+* [PsyPag](https://www.psypag2018.com/) (Psychology for Postgraduates), **24th-27th July 2018**, University of Huddersfield.
 
 * Qualitative Methods Summer School, 9th – 13th July, [University of Derby](https://www.derby.ac.uk/enterprisecentre/events/qmss/)
 
-* The first *[joint Midlands BPS conference](https://www.bps.org.uk/events/1st-british-psychological-society-midlands-conference-2018)* will be held this year at **Birmingham City University** on Monday the **3rd of September**  This one day event has something for everyone, bringing together students, researchers, and practicing psychologists from across the midlands. This conference is suitable for: academics, practitioners, trainee psychologists and scientists, undergraduate and postgraduate students, and individuals interested in psychology. We also hope it is a great opportunity for UG, PG, and early career researchers to disseminate their research projects amongst peers, across a variety of psychological disciplines. The available formats for presentations includes, oral presentations, five-minute challenge, and poster presentations. The event is **FREE**, but registration is still required. Abstract submission date deadline is **30th June 2018**. They will also be running a careers exhibition at this event. 
+* [British Society of Criminology conference](https://www.bcu.ac.uk/social-sciences/criminology/british-society-of-criminology-conference-2018) **3-6 July** *Birmingham City University*
+
+* The first *[joint Midlands BPS conference](https://www.bps.org.uk/events/1st-british-psychological-society-midlands-conference-2018)* will be held this year at **Birmingham City University** on Monday the **3rd of September**  This one day event has something for everyone, bringing together students, researchers, and practicing psychologists from across the midlands. This conference is suitable for: academics, practitioners, trainee psychologists and scientists, undergraduate and postgraduate students, and individuals interested in psychology. We also hope it is a great opportunity for UG, PG, and early career researchers to disseminate their research projects amongst peers, across a variety of psychological disciplines. The available formats for presentations includes, oral presentations, five-minute challenge, and poster presentations. The event is **FREE**, but registration is still required. Abstract submission date deadline is **30th June 2018**. They will also be running a careers exhibition at this event.
 
 <center> <h1> Funding/Grants </h1> </center>
 
@@ -59,6 +60,8 @@ None posted at this time.
 
 <center> <h1> PhD </h1> </center>
 
+* •	**University of Bath**, PhD studentship titled: “[Motivational Mechanisms Underpinning Physical Activity Behaviour to Support Treatment Benefits for a Clinical Population]( https://www.jobs.ac.uk/job/BKB178/phd-studentship-motivational-mechanisms-underpinning-physical-activity-behaviour-to-support-treatment-benefits-for-a-clinical-population/)”
+
 * PhD studentships can be found on [Jobs.ac.uk](http://www.jobs.ac.uk/).
 
 * PhD studentships as well as self-funded positions can be found on [findaphd.com](https://www.findaphd.com/).
@@ -66,7 +69,7 @@ None posted at this time.
 <center> <h1> Workshops </h1> </center>
 
 
-* *No Epistemology is Bad Epistemology, How We Know What We Know*. In this philosophically oriented workshop students will explore and discuss the plurality of criteria for truth and justification in research”, **17th May 1-2pm**, for all PGRs, CWG08
+* *“Books, Burnout & Balance”* – a workshop for psychology postgrads funded by PsyPAG. On **July 18th, 2018 at the University of Bath**. Sign up [here](https://www.booksbalanceburnout.eventbrite.co.uk)
 
 
 <center> <h1> Others</h1> </center>

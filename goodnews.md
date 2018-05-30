@@ -12,6 +12,27 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
+
+<center>
+<h1> Updates from 1st June 2018 </h1>
+</center>
+
+
+## Publications
+
+*	**Laura Wilde** has had the protocol to her systematic review published -  “[Apps and wearables for monitoring physical activity and sedentary behaviour: A qualitative systematic review protocol on barriers and facilitators](http://journals.sagepub.com/doi/full/10.1177/2055207618776454)”
+*	**Tommy Coleman** and **James Bartlett** have had a paper accepted for publication. 
+
+## Conferences
+
+*	**Jenny MacKay** will be presenting at the [Centre for Violence Prevention annual conference]( https://www.worcester.ac.uk/discover/cvp-annual-conference.html) at the University of Worcester, as part of a symposium in June.
+*	**Laura Wilde** has had a poster abstract accepted for [ISPAH congress in October]( http://www.ispah.org/london-2018/)
+*	**Laura Wilde** and **Angela Hans** have got posters being presented by their supervisors at [ISBNPA in Hong Kong](http://annualmeeting.isbnpa.org/) next week.
+*	**Claire Dempsey** and **Brad Salisbury-Finch** have had abstracts accepted for the [DHP conference](https://www1.bps.org.uk/networks-and-communities/member-microsite/division-health-psychology/2018-dhp-annual-conference) in Newcastle this September.
+*	**Danii Chippett** had a poster up for dementia week in Coventry.
+
+
+
 <center>
 <h1> Updates from 1st May 2018 </h1>
 </center>
