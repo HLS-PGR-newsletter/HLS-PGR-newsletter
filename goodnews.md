@@ -21,7 +21,7 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 ## Publications
 
 *	**Laura Wilde** has had the protocol to her systematic review published -  “[Apps and wearables for monitoring physical activity and sedentary behaviour: A qualitative systematic review protocol on barriers and facilitators](http://journals.sagepub.com/doi/full/10.1177/2055207618776454)”
-*	**Tommy Coleman** and **James Bartlett** have had a paper accepted for publication. 
+*	**Tommy Coleman** and **James Bartlett** have had a paper accepted for publication. "[Atheists on the Santiago Way: Examining Motivations to go on Pilgrimage](https://psyarxiv.com/a7gxn/)"
 
 ## Conferences
 
