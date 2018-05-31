@@ -20,16 +20,17 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 
 ## Publications
 
-*	**Laura Wilde** has had her systematic review protocol published -  “[Apps and wearables for monitoring physical activity and sedentary behaviour: A qualitative systematic review protocol on barriers and facilitators](http://journals.sagepub.com/doi/full/10.1177/2055207618776454)”
-*	**Tommy Coleman** and **James Bartlett** have had a paper accepted for publication. "[Atheists on the Santiago Way: Examining Motivations to go on Pilgrimage](https://psyarxiv.com/a7gxn/)"
+*	**Laura Wilde** has had her systematic review protocol published -  “[Apps and wearables for monitoring physical activity and sedentary behaviour: A qualitative systematic review protocol on barriers and facilitators](http://journals.sagepub.com/doi/full/10.1177/2055207618776454)”.
+*	**Tommy Coleman** and **James Bartlett** have had a paper accepted for publication. Open access here -  "[Atheists on the Santiago Way: Examining Motivations to go on Pilgrimage](https://psyarxiv.com/a7gxn/)".
 
 ## Conferences
 
 *	**Jenny MacKay** will be presenting at the [Centre for Violence Prevention annual conference]( https://www.worcester.ac.uk/discover/cvp-annual-conference.html) at the University of Worcester, as part of a symposium in June.
-*	**Laura Wilde** has had a poster abstract accepted for [ISPAH congress in October]( http://www.ispah.org/london-2018/)
+*	**Laura Wilde** has had a poster abstract accepted for [ISPAH congress in October]( http://www.ispah.org/london-2018/).
 *	**Laura Wilde** and **Angela Hands** have got posters being presented by their supervisors at [ISBNPA in Hong Kong](http://annualmeeting.isbnpa.org/) next week.
-*	**Clair Dempsey** and **Brad Salisbury-Finch** have had abstracts accepted for the [DHP conference](https://www1.bps.org.uk/networks-and-communities/member-microsite/division-health-psychology/2018-dhp-annual-conference) in Newcastle this September. 
+*	**Clair Dempsey** and **Brad Salisbury-Finch** have had abstracts accepted for the [DHP conference](https://www1.bps.org.uk/networks-and-communities/member-microsite/division-health-psychology/2018-dhp-annual-conference) in Newcastle this September.
 *	**Danii Chippett** had a poster up for dementia week in Coventry.
+* **Becky Seymour** presented at the [2nd International Expert Meeting on Female Genital Mutilation/Cutting](https://www.fourwav.es/view/644/customtab135/) in Canada.
 
 
 
@@ -39,7 +40,10 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 
 ## Publications
 
-Congratulations to **Laura Wilde** for getting her systematic review protocol accepted for publication (currently In Press)
+Congratulations to:
+
+ **Laura Wilde** for getting her systematic review protocol accepted for publication (currently In Press).
+
 
 ## Conferences
 
