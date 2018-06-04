@@ -9,17 +9,9 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 # Upcoming Events:
 
 
-## 14th - 16th May, Pint of Science comes to Coventry
+## 5th June 2018 - Postgraduates Networking Events 17:45 - 19:45
 
-This series of talks from guest speakers takes place across venues in Coventry city centre: Drapers, The Phoenix, Twisted Barrel and the Shop Front Theatre
-
-The talks going on in Drapers and The Phoenix are likely to be of interest to those in HLS
-
-[Click here](https://pintofscience.co.uk/events/coventry) for the official website for more information about the events and specific subjects.
-
-## 23rd May at 1.30 pm, Afternoon tea @ Rising Cafe
-
-Senior REP, Laura Wilde is organising some afternoon tea, to have a short break from studies. [Click here](https://www.facebook.com/events/2059555524322761/) for the Facebook event
+At this event, organised by the Doctoral College, there will be a welcome talk and representatives from various departments (e.g. SIGMA Maths Support, Centre for Global Engagement, and the International Office). It will be taking place in the **Reception Area on the Ground Floor of the Science and Health Building**  - Sign up for a spot [here](https://crm.dataharvesting.com/e/covut/rao/staff-booked/2018)
 
 # Questions
 
