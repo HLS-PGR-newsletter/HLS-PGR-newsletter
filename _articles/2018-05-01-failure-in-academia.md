@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stepping out of the Shadow of Failure
+title: Stepping Out Of The Shadow Of Failure
 subtitle: James Bartlett talks about imposter syndrome, and how opening up about failure can create more realistic expectations of academia.
 ---
 

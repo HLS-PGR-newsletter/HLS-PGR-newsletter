@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Healthy Eating Whilst on a Budget
+title: Healthy Eating Whilst On A Budget
 subtitle: Some advice from Danii Chippett.
 ---
 

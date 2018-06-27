@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tour of Coventry - Part 1
+title: Tour Of Coventry - Part 1
 subtitle: In Part 1 of this tour of Coventry, Sarah & Danii outline some of the best places to go to understand the History of Coventry.
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What to expect during your Research Degree
+title: What To Expect During Your Research Degree
 subtitle: Another reflection from Becky Seymour
 ---
 

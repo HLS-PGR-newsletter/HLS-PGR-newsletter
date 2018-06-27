@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Wimpenny's Words of Wisdom - Developing your academic voice
+title: Wimpenny's Words Of Wisdom - Developing Your Academic Voice
 subtitle: Advice from experienced researchers
 ---
 

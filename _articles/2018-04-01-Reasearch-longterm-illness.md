@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Doing a research degree with a long-term illness
+title: Doing A Research Degree With A Long-Term Illness
 subtitle: Some advice from Clair Dempsey.
 ---
 

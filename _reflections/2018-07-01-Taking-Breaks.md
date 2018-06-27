@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Importance of Taking Breaks and Using Your Annual Leave
+title: The Importance Of Taking Breaks And Using Your Annual Leave
 subtitle: A reflection from Becky Seymour
 ---
 

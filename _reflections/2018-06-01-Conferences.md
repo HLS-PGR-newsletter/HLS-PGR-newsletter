@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Advice for what to expect from Conferences
+title: Advice For What To Expect From Conferences
 subtitle: A reflection from Phillipa Carr
 ---
 
