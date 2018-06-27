@@ -52,10 +52,11 @@ Take-home points:
 
 
 Happy Summer!
-___
+
 <center>
   <img src="{{ site.baseurl }}/img/HolidayRef.png" alt="Summer Holiday" width = "400" />
 </center>
+
 ___
 
 *Becky Seymour is a 3rd year PhD student studying the FGM in the postpartum period. During her breaks she enjoys waking, reading and developing her theory of how ants will one day rule the world.*
