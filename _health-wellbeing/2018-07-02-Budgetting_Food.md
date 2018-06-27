@@ -16,7 +16,7 @@ However, between the piling work load, staying physically active, maintaining so
 
 But there is good news. Students can eat healthy food for less! Read on for some tips on how to eat healthy without breaking the bank on your weekly food shop.
 
-###Know your area.
+## Know your area.
 
 *	Skip the trip to the convenience store where you might pay more for less healthy options, and opt for your local market or supermarket.
 
@@ -36,13 +36,13 @@ ___
 
 ___
 
-###Write a shopping list and stick to it!
+## Write a shopping list and stick to it!
 
 *	When you’re in a shop you might find something that catches your fancy and think “oh…maybe I should add this as well”. Whilst doing so one-off isn’t too much of a problem, doing so multiple times can add up, especially across repeated grocery shopping trips over the year(s).
 
 *	Also, try shopping after eating instead of before. You’ll be surprised to see how much less you spend on [high-fat and sugary snacks simply because you’re hungry](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/1685889?referringRepId=208230).
 
-###Alternatives can work, too
+## Alternatives can work, too
 
 *	If you find that fresh produce is costing you more or turns (aka goes off) too quickly, try looking for frozen alternatives. Frozen food is just as good for you if you avoid those with added sugar, fat or salt, and can often cost less while lasting substantially longer. For example, [Lidl’s 1kg bag of frozen veg]( https://www.lidl.co.uk/en/Products.htm?articleId=1254) is only 79p! and a [similar bag from Tesco is £1.10]( https://www.tesco.com/groceries/en-GB/products/264226012?sc_cmp=ppc*GHS+-+Grocery+-+New*PX+%7C+Shopping+GSC+%7C+All+Products+%2B+Tesco+Brand*PRODUCT+GROUP264226012*&gclid=Cj0KCQjwpcLZBRCnARIsAMPBgF2K17SftvTONwin0qPbjaM1zbF8HgZhsZmubP2WiCcyh1RCgD0IuWwaAm0TEALw_wcB&gclsrc=aw.ds&dclid=CMXFxP2O79sCFTIy0wodYxIKcA) (prices given are those found at the time of writing).
 
@@ -60,13 +60,13 @@ ___
 
 *	For those days when the cravings for take away just won’t subside, try making your own “fake-away”. With a quick google you can access recipes for home-made Chinese, Indian and pizza recipes. Look for recipes that swap out heavy oils and fats for healthier ingredients, or try experimenting yourself. Not only can this reduce the calorie intake by hundreds, it can also save you £££’s. (Note: for cost-effectiveness of the fake-away, unlike most dishes pre-made curry paste is usually cheaper than buying the individual ingredients to make the paste from scratch unless you’re making VERY large quantities… and they are often still heathy)
 
-###Cooking habits
+## Cooking habits
 
 *	Cooking can also be a great opportunity for socialising and bonding with your flat/house-mates. Schedule some time each week to get together and swap recipes from home. Splitting the cost for the ingredients between you will help keep the meals cheap.
 
 *	Don’t always have time or the energy for a home-made meal from scratch? Try making a little extra when you cook and freeze it for a quick re-heatable meal. Just be sure you follow the [food hygiene and safety guidelines](https://www.food.gov.uk/safety-hygiene/chilling) when you save and re-heat the leftovers.
 
-###Some extra tips
+## Some extra tips
 
 *	Shop during ‘Happy Hour’. Most supermarkets offer discounts to their fresh produce at the end of the day. Change up your weekly shop hour to find when your local offers the best deals.
 
