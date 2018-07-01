@@ -13,6 +13,21 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
 
+
+<center>
+<h1> Updates from 2nd July 2018 </h1>
+</center>
+
+
+## Publications
+
+*	**James Bartlett** .
+
+## Conferences
+
+*	**Jenny MacKay** and **Danielle Labhardt** presented at the [Centre for Violence Prevention annual conference]( https://www.worcester.ac.uk/discover/cvp-annual-conference.html) at the University of Worcester
+*	**Sahar Shahid** will be presenting at the [ISRA World Conference](http://www.israsociety.com/plenary-speakers/) in Paris this month.
+
 <center>
 <h1> Updates from 1st June 2018 </h1>
 </center>
