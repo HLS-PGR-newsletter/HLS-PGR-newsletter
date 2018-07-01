@@ -18,15 +18,20 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 <h1> Updates from 2nd July 2018 </h1>
 </center>
 
+This month's news is a bit shorter, as we haven't heard from many people.
+
+Also, a quick note that there will be **no issue** of the PGR Newsletter in August or September, but we will prepare for an extended issue for the new academic year on **Monday 1st October**
 
 ## Publications
 
-*	**James Bartlett** .
+*	**James Bartlett** was quoted in the book ['Building Experiments in PsychoPy'](https://uk.sagepub.com/en-gb/eur/building-experiments-in-psychopy/book253480), published in June
 
 ## Conferences
 
-*	**Jenny MacKay** and **Danielle Labhardt** presented at the [Centre for Violence Prevention annual conference]( https://www.worcester.ac.uk/discover/cvp-annual-conference.html) at the University of Worcester
+*	**Jenny Mackay** and **Danielle Labhardt** presented at the [Centre for Violence Prevention annual conference]( https://www.worcester.ac.uk/discover/cvp-annual-conference.html) at the University of Worcester
 *	**Sahar Shahid** will be presenting at the [ISRA World Conference](http://www.israsociety.com/plenary-speakers/) in Paris this month.
+* **Jenny Mackay** is presenting at the [PsyPag conference](https://www.psypag2018.com/programme-and-abstract) at the University of Huddersfield later this month
+* **James Bartlett** is also going to be giving a workshop at the PsyPag conference.
 
 <center>
 <h1> Updates from 1st June 2018 </h1>
