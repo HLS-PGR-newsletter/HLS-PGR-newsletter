@@ -6,4 +6,4 @@ subtitle: The PGR Newsletter - This month, posts about the city, conferences and
 ---
 
 
-<embed src="https://HLS-PGR-newsletter.github.io/issues/June_1st_Issue.pdf" type = "application/pdf" width="800px" height="850px"  />
+<embed src="https://HLS-PGR-newsletter.github.io/issues/July_2nd_Issue.pdf" type = "application/pdf" width="800px" height="850px"  />
