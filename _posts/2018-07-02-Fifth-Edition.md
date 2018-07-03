@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 1st June 2018 - Issue 4
+title: 2ND July 2018 - Issue 5
 date: 2018-06-01
-subtitle: The PGR Newsletter - This month, posts about the city, conferences and finding your voice
+subtitle: The PGR Newsletter - This month, spotlight on Corbin Griffen, taking breaks, and eating on a budget.
 ---
 
 
