@@ -17,57 +17,54 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 </center>
 
 
- <p> Whilst we did say there would be no issue of the PGR Newsletter in August or September, we decided that releasing a news-only issue in September would be a good idea to keep people up to date.
-                    <br> Plus, who doesn't enjoy some good news?
-                    <br><br> The next full issue will be released <b>Monday 1st October</b> as planned.
+Whilst we did say there would be no issue of the PGR Newsletter in August or September, we decided that releasing a news-only issue in September would be a good idea to keep people up to date.
 
-                    <br><br><b><u>Academic Success</u></b>
-                    <br>
-                    <ul>
-                      <li><b>Sarah Durnam</b> Passed her Viva with minor corrections in July. </li>
-                      <li><b>Sulman Siddique</b>, a Ph.D. student, has just graduated with his MSc from UCL. </li>
-                    </ul>
+ Plus, who doesn't enjoy some good news?
 
-                    <br><b><u>Publications</u></b>
-                    <br>
-                    <ul>
-                      <li><b>James Bartlett</b> has had a chapter accepted for the Psychology Postgraduate Survival Guide (2nd ed). </li>
-                      <li><b>Laura Wilde</b> will be appearing in the Autumn issue of "<a href = "https://www.bases.org.uk/spage-resources-the_sport_and_exercise_scientist.html">The Sport and Exercise Scientist.</a>"
-                    </ul>
+The next full issue will be released <b>Monday 1st October</b> as planned.
 
-                    <br> <b><u>Conferences</u></b>
-                    <ul>
-                      <li> Congratualtions to those who have been accepted for presenting at the <a href = "https://www.bps.org.uk/events/1st-british-psychological-society-midlands-conference-2018"> BPS Midlands conference</a> on 3rd September in Birmingham. We have been told about:
-                          <br><b>Jenny Mackay</b>
-                          <br><b>Laura Wilde</b>
-                          <br><b>Rachael Molitor</b>
-                          <br> However, if you are presenting, we want to congratulate you, too!
-                        </li>
-                      <li> Well done to <b>Sahar Shahid</b>, who presented at the <a href="http://www.israsociety.com/plenary-speakers/"> ISRA World Conference</a> in Paris in July. </li>
-                      <li> Also to <b>Jenny Mackay</b> and <b>Mirabel Pelton</b>, who both presented at the <a href= "https://www.psypag2018.com/programme-and-abstract">PsyPAG conference</a> at the University of Huddersfield in July</li>
-                      <li> Felicitations to <b>James Bartlett</b>, who gave a successful and well-recieved workshop on 'Open Science' at the PsyPAG conference.</li>
-                      </ul>
+## Academic Success
 
-                    <br> <b><u>Research</u></b>
-                    <br><br> Congratulations to those who took part in, and had research conducted at <a href = "https://www.coventry.ac.uk/research/research-directories/research-events/2018/coventry-young-researchers-2018/"><b><i>Coventry Young Researchers</i></b></a> in August – HLS PGRs include <b>Parminder Khela</b>, <b>Jodie Enderby</b> and <b>Sarah Charles</b>
+* **Sarah Durnam** Passed her Viva with minor corrections in July. </li>
+* **Sulman Siddique**, a Ph.D. student, has just graduated with his MSc from UCL. </li>
 
-                    <br><br> <b><u>REPS</u></b>
-                    <ul>
-                      <li>Well done to all postgraduate <i>research</i> reps at Coventry, for winning the Postgraduate Research Student Forum 2018 award </li>
-                      <li>Thanks to <b>Laura Wilde</b> for her role as Senior Rep for HLS for the last year</li>
-                      <li><b>Sarah Charles</b> and <b>Danii Chippett</b> will be the new co-Senior Reps for HLS in 2018-2019.</li>
-                      <ul>
-                        <li><b>Sarah</b> (<a href = "mailto:charle42@uni.coventry.ac.uk">charle42@uni.coventry.ac.uk</a>) will be based in Richard Crossman for <u><i>CABS</i></u> and <u><i>CIRAL</i></u> </li>
-                        <li><b>Danii</b> (<a href = "mailto:chippetd@uni.coventry.ac.uk">chippetd@uni.coventry.ac.uk</a>) will be based in the Science and Health Building for <u><i>SELS</i></u> </li>
-                        <li><b>Laura</b> (<a href = "mailto:wildel5@uni.coventry.ac.uk">wildel5@uni.coventry.ac.uk</a>) will still be a REP, but is stepping down from the senior position as she enters her 3rd phase of her Ph.D. </li>
-                      </ul>
-                    </ul>
-                    </p>
+## Publications
+* **James Bartlett** has had a chapter accepted for the Psychology Postgraduate Survival Guide (2nd ed)
+* **Laura Wilde** will be appearing in the Autumn issue of [The Sport and Exercise Scientist](https://www.bases.org.uk/spage-resources-the_sport_and_exercise_scientist.html)
 
+## Conferences
+* Congratualtions to those who have been accepted for presenting at the [BPS Midlands conference](https://www.bps.org.uk/events/1st-british-psychological-society-midlands-conference-2018) on 3rd September in Birmingham. We have been told about:
+      - **Jenny Mackay**
+      - **Laura Wilde**
+      - **Rachael Molitor**
+      - However, if you are presenting, we want to congratulate you, too!
+
+* Well done to <b>Sahar Shahid</b>, who presented at the <a href="http://www.israsociety.com/plenary-speakers/"> ISRA World Conference</a> in Paris in July.
+
+* Also to **Jenny Mackay** and **Mirabel Pelton**, who both presented at the [PsyPAG conference](https://www.psypag2018.com/programme-and-abstract) at the University of Huddersfield in July
+
+* Felicitations to **James Bartlett**, who gave a successful and well-received workshop on 'Open Science' at the PsyPAG conference.
+
+
+## Research
+
+* Congratulations to those who took part in, and had research conducted at *[Coventry Young Researchers](https://www.coventry.ac.uk/research/research-directories/research-events/2018/coventry-young-researchers-2018/)* in August – HLS PGRs include **Parminder Khela**, **Jodie Enderby** and **Sarah Charles**
+
+## REPS
+
+* Well done to all postgraduate *research* reps at Coventry, for winning the Postgraduate Research Student Forum 2018 award
+
+* Thanks to **Laura Wilde** for her role as Senior Rep for HLS for the last year
+* **Sarah Charles** and **Danii Chippett** will be the new co-Senior Reps for HLS in 2018-2019.
+  - **Sarah** ()[charle42@uni.coventry.ac.uk](mailto:charle42@uni.coventry.ac.uk)) will be based in Richard Crossman for *CABS* and *CIRAL*
+  - **Danii** ([chippetd@uni.coventry.ac.uk](mailto:chippetd@uni.coventry.ac.uk)) will be based in the Science and Health Building for *SELS*
+  - **Laura** ([wildel5@uni.coventry.ac.uk](mailto:wildel5@uni.coventry.ac.uk)) will still be a REP, but is stepping down from the senior position as she enters her 3rd phase of her Ph.D.
+                    
 
 <center>
 <h1> Updates from 2nd July 2018 </h1>
 </center>
+
 
 This month's news is a bit shorter, as we haven't heard from many people.
 
