@@ -34,12 +34,11 @@ The next full issue will be released <b>Monday 1st October</b> as planned.
 
 ## Conferences
 * Congratualtions to those who have been accepted for presenting at the [BPS Midlands conference](https://www.bps.org.uk/events/1st-british-psychological-society-midlands-conference-2018) on 3rd September in Birmingham. We have been told about:
-      - **Jenny Mackay**
-      - **Laura Wilde**
-      - **Rachael Molitor**
-      - However, if you are presenting, we want to congratulate you, too!
-
-* Well done to <b>Sahar Shahid</b>, who presented at the <a href="http://www.israsociety.com/plenary-speakers/"> ISRA World Conference</a> in Paris in July.
+  - **Jenny Mackay**
+  - **Laura Wilde**
+  - **Rachael Molitor**
+  - However, if you are presenting, we want to congratulate you, too!
+* Well done to **Sahar Shahid**, who presented at the [ISRA World Conference](http://www.israsociety.com/plenary-speakers/) in Paris in July.
 * Also to **Jenny Mackay** and **Mirabel Pelton**, who both presented at the [PsyPAG conference](https://www.psypag2018.com/programme-and-abstract) at the University of Huddersfield in July
 * Felicitations to **James Bartlett**, who gave a successful and well-received workshop on 'Open Science' at the PsyPAG conference.
 
@@ -69,7 +68,7 @@ Also, a quick note that there will be **no issue** of the PGR Newsletter in Augu
 
 ## General News
 
-* Congratulations to **Tommy Coleman** on getting married. We wish you all the best with your new partner in life. 
+* Congratulations to **Tommy Coleman** on getting married. We wish you all the best with your new partner in life.
 
 ## Publications
 
