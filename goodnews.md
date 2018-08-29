@@ -25,8 +25,8 @@ The next full issue will be released <b>Monday 1st October</b> as planned.
 
 ## Academic Success
 
-* **Sarah Durnam** Passed her Viva with minor corrections in July. </li>
-* **Sulman Siddique**, a Ph.D. student, has just graduated with his MSc from UCL. </li>
+* **Sarah Durnam** passed her Viva with minor corrections in July.
+* **Sulman Siddique**, a Ph.D. student, has just graduated with his MSc from UCL.
 
 ## Publications
 * **James Bartlett** has had a chapter accepted for the Psychology Postgraduate Survival Guide (2nd ed)
@@ -40,9 +40,7 @@ The next full issue will be released <b>Monday 1st October</b> as planned.
       - However, if you are presenting, we want to congratulate you, too!
 
 * Well done to <b>Sahar Shahid</b>, who presented at the <a href="http://www.israsociety.com/plenary-speakers/"> ISRA World Conference</a> in Paris in July.
-
 * Also to **Jenny Mackay** and **Mirabel Pelton**, who both presented at the [PsyPAG conference](https://www.psypag2018.com/programme-and-abstract) at the University of Huddersfield in July
-
 * Felicitations to **James Bartlett**, who gave a successful and well-received workshop on 'Open Science' at the PsyPAG conference.
 
 
@@ -53,13 +51,12 @@ The next full issue will be released <b>Monday 1st October</b> as planned.
 ## REPS
 
 * Well done to all postgraduate *research* reps at Coventry, for winning the Postgraduate Research Student Forum 2018 award
-
 * Thanks to **Laura Wilde** for her role as Senior Rep for HLS for the last year
 * **Sarah Charles** and **Danii Chippett** will be the new co-Senior Reps for HLS in 2018-2019.
   - **Sarah** ()[charle42@uni.coventry.ac.uk](mailto:charle42@uni.coventry.ac.uk)) will be based in Richard Crossman for *CABS* and *CIRAL*
   - **Danii** ([chippetd@uni.coventry.ac.uk](mailto:chippetd@uni.coventry.ac.uk)) will be based in the Science and Health Building for *SELS*
   - **Laura** ([wildel5@uni.coventry.ac.uk](mailto:wildel5@uni.coventry.ac.uk)) will still be a REP, but is stepping down from the senior position as she enters her 3rd phase of her Ph.D.
-                    
+
 
 <center>
 <h1> Updates from 2nd July 2018 </h1>
