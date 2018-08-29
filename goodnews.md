@@ -17,7 +17,7 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 </center>
 
 
- <p> Whilst we did say there would be no issue of the PGR Newsletter in August or September, we decided on releasing a news-only issue in September would be a good idea to keep people up to date.
+ <p> Whilst we did say there would be no issue of the PGR Newsletter in August or September, we decided that releasing a news-only issue in September would be a good idea to keep people up to date.
                     <br> Plus, who doesn't enjoy some good news?
                     <br><br> The next full issue will be released <b>Monday 1st October</b> as planned.
 
