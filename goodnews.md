@@ -25,7 +25,7 @@ Even if you have some non-research based good news (Passed a test? Competed in a
                     <br>
                     <ul>
                       <li><b>Sarah Durnam</b> Passed her Viva with minor corrections in July. </li>
-                      <li><b>Sulman Siddique</b>, a Ph.D. student, has just graduated with his MSc from UCL.
+                      <li><b>Sulman Siddique</b>, a Ph.D. student, has just graduated with his MSc from UCL. </li>
                     </ul>
 
                     <br><b><u>Publications</u></b>
@@ -62,7 +62,7 @@ Even if you have some non-research based good news (Passed a test? Competed in a
                         <li><b>Laura</b> (<a href = "mailto:wildel5@uni.coventry.ac.uk">wildel5@uni.coventry.ac.uk</a>) will still be a REP, but is stepping down from the senior position as she enters her 3rd phase of her Ph.D. </li>
                       </ul>
                     </ul>
-</p>
+                    </p>
 
 
 <center>
