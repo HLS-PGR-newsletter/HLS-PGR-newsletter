@@ -25,22 +25,15 @@ None posted at this time.
 
 Student-led journal club for postgraduates looking at all research health and physical activity related. Held on the **first Tuesday of every month 10-11am**. Hosted by the Doctoral College and Centre for Research Capability and Development, sessions will take place in the **Blackbird Room at Elm Bank**. Come along to discuss, or for those of you who are more shy, simply listen to the views and opinions from people with similar research interests.
 
-This month's (**3rd July**)
 
 <center> <h1> Events </h1> </center>
 
-*	CABS research theme Violence Prevention, Resilience and Justice (VPRJ) are hosting a seminar titled "Bullying and Cyberbullying: evidence based intervention in Italy", **3rd July 1-2pm**, *Richard Crossman (4th Floor)*
+None posted at this time
 
-* Qualitative Methods Summer School, 9th – 13th July, [University of Derby](https://www.derby.ac.uk/enterprisecentre/events/qmss/)
 
 <center> <h1> Conferences </h1> </center>
 
-
-* [British Society of Criminology](https://www.bcu.ac.uk/social-sciences/criminology/british-society-of-criminology-conference-2018 ) conference 3rd-6th July,  Birmingham City University.
-
-* [PsyPag](https://www.psypag2018.com/) (Psychology for Postgraduates), **24th-27th July 2018**, University of Huddersfield.
-
-* [British Society of Criminology conference](https://www.bcu.ac.uk/social-sciences/criminology/british-society-of-criminology-conference-2018) **3-6 July** *Birmingham City University*
+*	[International Society for Physical Activity and Health (ISPAH)](http://www.ispah.org/london-2018/) conference on 15th-17th October in London
 
 * The first *[joint Midlands BPS conference](https://www.bps.org.uk/events/1st-british-psychological-society-midlands-conference-2018)* will be held this year at **Birmingham City University** on Monday the **3rd of September**  This one day event has something for everyone, bringing together students, researchers, and practicing psychologists from across the midlands. This conference is suitable for: academics, practitioners, trainee psychologists and scientists, undergraduate and postgraduate students, and individuals interested in psychology. We also hope it is a great opportunity for UG, PG, and early career researchers to disseminate their research projects amongst peers, across a variety of psychological disciplines. The available formats for presentations includes, oral presentations, five-minute challenge, and poster presentations. The event is **FREE**, but registration is still required.
 
@@ -51,33 +44,24 @@ This month's (**3rd July**)
 * The British Psychological Society West Midlands Branch have bursaries available for conferences, workshops or training events (see the West Midlands branch newsletter for details)
 
 
-
-
-
 <center> <h1> Jobs </h1> </center>
 
-None posted at this time.
+*	*[Postdoc position](http://www.jobs.cam.ac.uk/job/18458/)* available at **Cambridge University** in the Cognition and Brain Sciences Unit. 
+*	*[Postdoc position](https://www.neuroscience.cam.ac.uk/vacancies/)* available through Medical Research Council at **Cambridge University** in Neurobiology.
+*	*[Senior Lecturing](https://www.jobs.ac.uk/job/BLY705/senior-lecturer-lecturer-in-mental-health-nursing)* position available for Mental Health Nursing at **Northumbria University**.
+*	*[University Instructor](https://www.jobs.ac.uk/job/BLX119/university-instructor-in-the-sport-and-exercise-sciences)* in Sports and Exercise Science at **Canterbury Christ Church**.
+
 
 
 <center> <h1> PhD </h1> </center>
 
-* •	**University of Bath**, PhD studentship titled: “[Motivational Mechanisms Underpinning Physical Activity Behaviour to Support Treatment Benefits for a Clinical Population]( https://www.jobs.ac.uk/job/BKB178/phd-studentship-motivational-mechanisms-underpinning-physical-activity-behaviour-to-support-treatment-benefits-for-a-clinical-population/)”
+*	[Funded Ph.D. scholarship](https://www.findaphd.com/search/ProjectDetails.aspx?PJID=92868) on gender equality and sports at **Aberdeen University**
+*	[Funded Ph.D. scholarship](https://www.jobs.ac.uk/job/BLM490/phd-studentship-school-based-physical-activity-engagement) on school based physical activity engagement at **Hartpury College**
 
-* PhD studentships can be found on [Jobs.ac.uk](http://www.jobs.ac.uk/).
+* Other Ph.D. studentships can be found on [Jobs.ac.uk](http://www.jobs.ac.uk/).
 
-* PhD studentships as well as self-funded positions can be found on [findaphd.com](https://www.findaphd.com/).
+* There are many Ph.D. studentships as well as self-funded positions can be found on [findaphd.com](https://www.findaphd.com/).
 
 <center> <h1> Workshops </h1> </center>
 
-
-* *“Books, Burnout & Balance”* – a workshop for psychology postgrads funded by PsyPAG. On **July 18th, 2018 at the University of Bath**. Sign up [here](https://www.booksbalanceburnout.eventbrite.co.uk)
-
-
-<center> <h1> Others</h1> </center>
-
-* PsyPag currently have committee vacancies for:
-1. North East of England Branch
-2. Psychology of Sexualities
-3. Quarterly Editor (x3)
-
-**Great for your CV!**
+* Free workshop on **[‘Conducting systematic reviews in psychology’](https://cumbria.onlinesurveys.ac.uk/systematic-literature-review-workshop-booking-form)**, at Coventry, 24th October, aimed at postgraduate psychology students  
