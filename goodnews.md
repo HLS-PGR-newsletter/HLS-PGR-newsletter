@@ -67,6 +67,10 @@ This month's news is a bit shorter, as we haven't heard from many people.
 
 Also, a quick note that there will be **no issue** of the PGR Newsletter in August or September, but we will prepare for an extended issue for the new academic year on **Monday 1st October**
 
+## General News
+
+* Congratulations to **Tommy Coleman** on getting married. We wish you all the best with your new partner in life. 
+
 ## Publications
 
 *	**James Bartlett** was quoted in the book ['Building Experiments in PsychoPy'](https://uk.sagepub.com/en-gb/eur/building-experiments-in-psychopy/book253480), published in June
