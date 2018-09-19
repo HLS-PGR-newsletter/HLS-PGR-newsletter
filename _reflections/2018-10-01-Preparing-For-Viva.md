@@ -26,7 +26,7 @@ For those who are not moving to the new Framework (starting in September 2018), 
 Once you’ve submitted and have the (minimum 6) weeks of waiting for the actual viva, the last thing you want to have is nothing but stressful prep to do. Instead, go away on holiday, or make sure you have time off from other activities if you are at home. Do not look at your thesis! Do what you find relaxing. Don’t read anything remotely connected to your thesis/research area. I highly recommend reading something funny. It all gets a bit serious and stressful in the run up to submission. Laughter is a great way to lift you out of it. Plus, this gives you something to work towards – a holiday can be a lovely reward for all the hard work leading up to submission.
 
 <center>
-  <img src="{{ site.baseurl }}/img/Menage-Reflection.jpg" alt="Summer Holiday" width = "400" />
+  <img src="{{ site.baseurl }}/img/Menage-Reflection.jpg" alt="Diane Ménage" width = "400" />
 </center>
 
 ## Between submission and the viva
@@ -52,7 +52,7 @@ At your viva you will be examined on what you have said not what you are thinkin
 [Viva Cards](http://vivacards.co.uk/about-vivacards/) are a set of cards that have been designed to ask simple, broad questions that will let you focus your ideas about your thesis in preparation for your viva. They are great at preparing you for what examiners may ask. The PGR Office have some for loan. I stuck the questions on every door in the house. Every time I went to the kitchen cupboard, opened the fridge or sat on the loo, I had a question to practise.
 
 <center>
-  <img src="{{ site.baseurl }}/img/PhDcomics-Defending.jpg" alt="Summer Holiday" width = "400" />
+  <img src="{{ site.baseurl }}/img/PhDcomics-Defending.jpg" alt="PhDcomics Defending Thesis" width = "400" />
 </center>
 
 ## At the viva
