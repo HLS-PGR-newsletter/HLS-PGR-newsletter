@@ -31,7 +31,7 @@ Once you’ve submitted and have the (minimum 6) weeks of waiting for the actual
 
 ## Between submission and the viva
 
-*	**About a month before the viva create a viva preparation timetable**.
+*	**About a month before the viva, create a viva preparation timetable**.
 
 Doing this made me feel more in control and stopped me panicking. I had a plan and it would be fine! I did something (no matter how small) every day so that I didn’t ‘break the chain’. Work out a plan that suits you and then commit to it. This will also keep you sane at a time when stress can very easily start to take over.
 
@@ -52,7 +52,7 @@ At your viva you will be examined on what you have said not what you are thinkin
 [Viva Cards](http://vivacards.co.uk/about-vivacards/) are a set of cards that have been designed to ask simple, broad questions that will let you focus your ideas about your thesis in preparation for your viva. They are great at preparing you for what examiners may ask. The PGR Office have some for loan. I stuck the questions on every door in the house. Every time I went to the kitchen cupboard, opened the fridge or sat on the loo, I had a question to practise.
 
 <center>
-  <img src="{{ site.baseurl }}/img/PhDcomics-Defending.jpg" alt="PhDcomics Defending Thesis" width = "400" />
+  <img src="{{ site.baseurl }}/img/PhDcomics-Defending.jpg" alt="PhDcomics Defending Thesis" width = "600" />
 </center>
 
 ## At the viva
