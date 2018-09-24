@@ -1,8 +1,9 @@
 ---
 layout: post
-title: Conducting A Systematic Review: Bake-Off style
+title: Conducting A Systematic Review, Bake-Off style
 subtitle: Laura Wilde and Jenny Mackay talk about conducting systematic reviews.
 ---
+
 
 <center>
   <img src="{{ site.baseurl }}/img/BakeOff.jpg" alt="Bake-Off" width = "400" />
