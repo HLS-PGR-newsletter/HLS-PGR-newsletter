@@ -20,7 +20,7 @@ Also, Great British Bake Off has been great so far this year. So, here are some 
 
 ## 1. The Flavours
 
-As the bakers embark on their signature bake they have thought carefully about their flavours and how the tastes combine to melt in the mouth. Before conducting a systematic review, you need to have done your research, know what flavours go together and what has already been done well (and no so well). What research there is in your field and would a systematic review be useful. Has a systematic review already been conducted? If there has, does it warrant an update? Are you reviewing the effectiveness of interventions and therefore do you need to follow the [PICO](https://www.ncbi.nlm.nih.gov/pubmedhealth/PMHT0029906/) structure for extracting data from the papers you include? You also need to decide on your research question, depending on what literature is out there, your question may be very specific, or it could be very broad. Having a good research question and objective will help with the development of your protocol, search strategy and inclusion/exclusion criteria. It’s just about getting all the ingredients together and following a *recipe*.
+As the bakers embark on their signature bake they have thought carefully about their flavours and how the tastes combine to melt in the mouth. Before conducting a systematic review, you need to have done your research, know what flavours go together and what has already been done well (and not so well). "What research is there in your field?" and "would a systematic review be useful?" are two important questions to ask yourself to begin with. Then look to see: has a systematic review already been conducted? If there has, does it warrant an update? Are you reviewing the effectiveness of interventions and therefore do you need to follow the [PICO](https://www.ncbi.nlm.nih.gov/pubmedhealth/PMHT0029906/) structure for extracting data from the papers you include? All of these questions need to be answered before you even get to part 2. You also need to decide on your research question, depending on what literature is out there, your question may be very specific, or it could be very broad. Having a good research question and objective will help with the development of your protocol, search strategy and inclusion/exclusion criteria. It’s just about getting all the ingredients together and following a *recipe*.
 
 ## 2. The Recipe
 
@@ -54,7 +54,7 @@ ___
 </center>
 
 
-*[Jenny MacKay](https://twitter.com/JennyMackay?lang=en) is a 4th year PhD student in CABS, looking at female perpetrators of domestic abuse.*
+*[Jenny Mackay](https://twitter.com/JennyMackay?lang=en) is a 4th year PhD student in CABS, looking at female perpetrators of domestic abuse.*
 
 <center>
   <img src="{{ site.baseurl }}/img/team/Jenny-profile.png" alt="Jenny Mackay" width = "400" />
