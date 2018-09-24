@@ -50,12 +50,12 @@ ___
 *[Laura Wilde](https://twitter.com/laurawilde24?lang=en) is a 2nd Year PhD student in CIRAL, looking at the use of wearables for monitoring physical activity and sedentary behaviour. She is also a REP for HLS and has her own [blog](http://www.laurawilde.co.uk/blog/) which has more helpful advice for PGRs. Such as posts related to systematic reviews: [How to start one](http://www.laurawilde.co.uk/tips-for-starting-a-systematic-review/) and [how to get a protocol published](http://www.laurawilde.co.uk/how-to-get-a-systematic-review-protocol-published/)*
 
 <center>
-  <img src="{{ site.baseurl }}/img/Team/Laura-profile.png" alt="Laura Wilde" width = "400" />
+  <img src="{{ site.baseurl }}/img/team/Laura-profile.png" alt="Laura Wilde" width = "400" />
 </center>
 
 
 *[Jenny MacKay](https://twitter.com/JennyMackay?lang=en) is a 4th year PhD student in CABS, looking at female perpetrators of domestic abuse.*
 
 <center>
-  <img src="{{ site.baseurl }}/img/Team/Jenny-profile.png" alt="Jenny Mackay" width = "400" />
+  <img src="{{ site.baseurl }}/img/team/Jenny-profile.png" alt="Jenny Mackay" width = "400" />
 </center>
