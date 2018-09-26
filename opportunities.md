@@ -37,6 +37,14 @@ B2 5NY
 
 * On Tuesday *9th October* at **7pm**, social/forensic psychology PhD student **[Danielle Labhardt](https://www.researchgate.net/profile/Danielle_Labhardt)** will be giving a talk at the Psychologist In The Pub event taking place at **[The Phoenix](https://www.social-squirrel.com/thephoenixcoventry)**
 
+122 Gosford St,
+Coventry
+CV1 5DL
+
+### Talk Summary:
+Investigating third-party helping behaviour (bystander intervention) as a method of reducing sexual assault prevalence rates on university campuses has increased in recent years. To understand what motivates helping behaviour, research has relied on self-report data where people can report what they intend to do if they were to witness a sexual assault. This talk will highlight the limitations associated with self-report data and will focus on how technology can be used to create an immersive environment to measure actual helping behaviour, through the use of actors depicting signs leading up to a sexual assault and deception.
+
+**Danielle Labhardt** is a Psychology PhD candidate at Coventry University, who has submitted her thesis for examination in *September 2018*. Her research focuses on what influences bystander intervention regarding sexual assault on university campuses. Her most recent research was focused on developing an experimental methodology to measure actual bystander behaviour, in an effort to move the bystander research away from self-report data focused on what people think they would do and moving it towards utilising technology based research.
 
 
 <center> <h1> Conferences </h1> </center>

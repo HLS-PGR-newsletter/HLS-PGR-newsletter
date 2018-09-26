@@ -9,23 +9,13 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 # Upcoming Events:
 
 
-## 5th June 2018 - Postgraduates Networking Events
+## 3rd October 2018 - LGBTea Social
 
-**Venue** - Reception Area on the Ground Floor of the Science and Health Building
+**Venue** - RCG03
 
-**Time**: 17:45 - 19:45
+**Time**: 13:30 - 15:00
 
-At this event, organised by the Doctoral College, there will be a welcome talk and representatives from various departments (e.g. SIGMA Maths Support, Centre for Global Engagement, and the International Office). It will be taking place in the   - *Sign up for a spot* [here](https://crm.dataharvesting.com/e/covut/rao/staff-booked/2018)
-
-
-## June 12th 2018 - POSTGRADUATE EMPLOYABILITY SEMINAR
-
-**Venue**: Plenary Session GEG31
-
-**Time**: 10:00am- 4:00pm (Various sessions in between)
-
-*To book a place* email: Federica Jorio, [federica.jorio@coventry.ac.uk](mailto:federica.jorio@coventry.ac.uk)  
-
+At this event you will find a place that is welcoming to LGBTQ+ students to help them meet others at the university. Sign up for the event [here](https://www.cusu.org/ents/event/1607/)
 
 
 # Questions
