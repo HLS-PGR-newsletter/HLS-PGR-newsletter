@@ -12,6 +12,28 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
+
+<center>
+<h1> Updates from 1st October 2018 </h1>
+</center>
+
+## Jobs
+
+* Well done to *James Bartlett* for securing a post as Psychology Experimental Officer at [Arden University](https://arden.ac.uk/)
+
+## Publications
+
+* Congratulations to *Jo Parsons* for her latest publication, ‘Do interventions containing risk messages increase risk appraisal and the subsequent vaccination intentions and uptake? A systematic review and meta-analysis](https://www.ncbi.nlm.nih.gov/pubmed/30225851)’
+
+* Tommy Coleman for co-authorship on new paper, [Predicting age of atheism: Credibility enhancing displays and religious important, choice and conflict in family of upbringing](https://www.tandfonline.com/doi/abs/10.1080/2153599X.2018.1502678)’
+
+## Conferences
+
+* Coventry University was well represented at the inaugural BPS Midlands conference on 3rd September. Well done to **everyone** who took part!
+
+
+
+
 <center>
 <h1> Updates from 3rd September 2018 </h1>
 </center>
