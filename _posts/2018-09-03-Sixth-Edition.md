@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 2nd July 2018 - Issue 5
+title: 3rd September 2018 - Issue 6
 date: 2018-09-03
-subtitle: The PGR Newsletter - This month just short version with news updates.
+subtitle: The PGR Newsletter - This month, just a short version with news updates.
 ---
 
 
