@@ -28,39 +28,42 @@ Student-led journal club for postgraduates looking at all research health and ph
 
 <center> <h1> Events </h1> </center>
 
-None posted at this time
+* On Tuesday *9th October at 7pm*, social/forensic psychology PhD student **[Danielle Labhardt](https://www.researchgate.net/profile/Danielle_Labhardt)** will be giving a talk at the Psychologist In The Pub event taking place at **[The Phoenix](https://www.social-squirrel.com/thephoenixcoventry)**
 
 
 <center> <h1> Conferences </h1> </center>
 
-*	[International Society for Physical Activity and Health (ISPAH)](http://www.ispah.org/london-2018/) conference on 15th-17th October in London
+*	[International Society for Physical Activity and Health (ISPAH)](http://www.ispah.org/london-2018/) conference on **15th-17th October** in *London*
 
-* The first *[joint Midlands BPS conference](https://www.bps.org.uk/events/1st-british-psychological-society-midlands-conference-2018)* will be held this year at **Birmingham City University** on Monday the **3rd of September**  This one day event has something for everyone, bringing together students, researchers, and practicing psychologists from across the midlands. This conference is suitable for: academics, practitioners, trainee psychologists and scientists, undergraduate and postgraduate students, and individuals interested in psychology. We also hope it is a great opportunity for UG, PG, and early career researchers to disseminate their research projects amongst peers, across a variety of psychological disciplines. The available formats for presentations includes, oral presentations, five-minute challenge, and poster presentations. The event is **FREE**, but registration is still required.
 
 <center> <h1> Funding/Grants </h1> </center>
 
 * *[PsyPAG](http://www.psypag.co.uk/bursaries-2/)* offers bursaries to attend conferences (domestic and international), workshops and training events, study visits, travel allowances, and research grants. There are three rounds of funding throughout the year. The next deadlines is **10th of October, 2018**.  
 
-* The British Psychological Society West Midlands Branch have bursaries available for conferences, workshops or training events (see the West Midlands branch newsletter for details)
+* The British Psychological Society West Midlands Branch have bursaries available for conferences, workshops or training events. See their [website](https://www1.bps.org.uk/networks-and-communities/member-microsite/west-midlands-branch/awards-and-funding) for more details.
 
 
 <center> <h1> Jobs </h1> </center>
 
-*	*[Postdoc position](http://www.jobs.cam.ac.uk/job/18458/)* available at **Cambridge University** in the Cognition and Brain Sciences Unit. 
+*	*[Postdoc position](http://www.jobs.cam.ac.uk/job/18458/)* available at **Cambridge University** in the Cognition and Brain Sciences Unit.
 *	*[Postdoc position](https://www.neuroscience.cam.ac.uk/vacancies/)* available through Medical Research Council at **Cambridge University** in Neurobiology.
 *	*[Senior Lecturing](https://www.jobs.ac.uk/job/BLY705/senior-lecturer-lecturer-in-mental-health-nursing)* position available for Mental Health Nursing at **Northumbria University**.
 *	*[University Instructor](https://www.jobs.ac.uk/job/BLX119/university-instructor-in-the-sport-and-exercise-sciences)* in Sports and Exercise Science at **Canterbury Christ Church**.
 
 
 
-<center> <h1> PhD </h1> </center>
+<center> <h1> PhD Opportunities </h1> </center>
 
-*	[Funded Ph.D. scholarship](https://www.findaphd.com/search/ProjectDetails.aspx?PJID=92868) on gender equality and sports at **Aberdeen University**
-*	[Funded Ph.D. scholarship](https://www.jobs.ac.uk/job/BLM490/phd-studentship-school-based-physical-activity-engagement) on school based physical activity engagement at **Hartpury College**
 
-* Other Ph.D. studentships can be found on [Jobs.ac.uk](http://www.jobs.ac.uk/).
+•	[Funded PhD opportunity](https://www.coventry.ac.uk/research/research-students/research-studentships/192244/) within Research Centre for Sport, Exercise and Life Sciences at **Coventry University**
 
-* There are many Ph.D. studentships as well as self-funded positions can be found on [findaphd.com](https://www.findaphd.com/).
+*	[Funded PhD scholarship](https://www.findaphd.com/search/ProjectDetails.aspx?PJID=92868) on gender equality and sports at **Aberdeen University**
+
+*	[Funded PhD scholarship](https://www.jobs.ac.uk/job/BLM490/phd-studentship-school-based-physical-activity-engagement) on school based physical activity engagement at **Hartpury College**
+
+* Other PhD studentships can be found on [Jobs.ac.uk](http://www.jobs.ac.uk/).
+
+* There are many PhD studentships as well as self-funded positions can be found on [findaphd.com](https://www.findaphd.com/).
 
 <center> <h1> Workshops </h1> </center>
 
