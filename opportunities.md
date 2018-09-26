@@ -28,7 +28,15 @@ Student-led journal club for postgraduates looking at all research health and ph
 
 <center> <h1> Events </h1> </center>
 
-* On Tuesday *9th October at 7pm*, social/forensic psychology PhD student **[Danielle Labhardt](https://www.researchgate.net/profile/Danielle_Labhardt)** will be giving a talk at the Psychologist In The Pub event taking place at **[The Phoenix](https://www.social-squirrel.com/thephoenixcoventry)**
+* On Tuesday *2nd October* at **6pm**, the BPS West-Midlands branch are hositing an event in **Birmingham** called "*[What Makes Your Brain Happy?](https://www.bps.org.uk/events/what-makes-your-brain-happy)*" This is a **FREE** event, and no registration is required. The exact location is:
+
+Old Joint Stock Theatre
+4 Temple Row W,
+Birmingham
+B2 5NY
+
+* On Tuesday *9th October* at **7pm**, social/forensic psychology PhD student **[Danielle Labhardt](https://www.researchgate.net/profile/Danielle_Labhardt)** will be giving a talk at the Psychologist In The Pub event taking place at **[The Phoenix](https://www.social-squirrel.com/thephoenixcoventry)**
+
 
 
 <center> <h1> Conferences </h1> </center>
