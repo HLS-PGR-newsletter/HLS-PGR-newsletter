@@ -67,6 +67,15 @@ Investigating third-party helping behaviour (bystander intervention) as a method
 *	*[University Instructor](https://www.jobs.ac.uk/job/BLX119/university-instructor-in-the-sport-and-exercise-sciences)* in Sports and Exercise Science at **Canterbury Christ Church**.
 
 
+<center> <h1> Modules </h1> </center>
+
+**The Centre for Academic Writing (CAW)** are offering modules that will be useful for MRes and PhD students that are open to all PGR students, even from other faculties.
+
+1. ‘**Reviewing Research Literature**’ (*M21CAW*) introduces high quality literature reviewing, argumentation and conference presentations. **Dates: 2 October 2018 – 11 December 2018** 
+
+2. ‘**Crafting a Research Article**’ (*M20CAW*) introduces the features, argumentation and expectations of the research article. **Dates (provisional): 22 January 2019 – 2 April 2019**
+
+3. ‘**Writing for Scholarly Publication**’ (*M01CAW*) helps participants to gain experience in writing for publication by overseeing participants’ production of a research output from writing following data analysis through to submission. **Dates: 14 May 2019 – 23 July 2019.**
 
 <center> <h1> PhD Opportunities </h1> </center>
 
