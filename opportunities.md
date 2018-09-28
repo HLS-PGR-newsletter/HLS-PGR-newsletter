@@ -71,11 +71,13 @@ Investigating third-party helping behaviour (bystander intervention) as a method
 
 **The Centre for Academic Writing (CAW)** are offering modules that will be useful for MRes and PhD students that are open to all PGR students, even from other faculties.
 
-1. ‘**Reviewing Research Literature**’ (*M21CAW*) introduces high quality literature reviewing, argumentation and conference presentations. **Dates: 2 October 2018 – 11 December 2018** 
+1. ‘**Reviewing Research Literature**’ (*M21CAW*) introduces high quality literature reviewing, argumentation and conference presentations. **Dates: 2 October 2018 – 11 December 2018**
 
 2. ‘**Crafting a Research Article**’ (*M20CAW*) introduces the features, argumentation and expectations of the research article. **Dates (provisional): 22 January 2019 – 2 April 2019**
 
 3. ‘**Writing for Scholarly Publication**’ (*M01CAW*) helps participants to gain experience in writing for publication by overseeing participants’ production of a research output from writing following data analysis through to submission. **Dates: 14 May 2019 – 23 July 2019.**
+
+For further information please contact Sheila Medlock via [Sheila.Medlock@coventry.ac.uk](mailto:Sheila.Medlock@coventry.ac.uk)
 
 <center> <h1> PhD Opportunities </h1> </center>
 
