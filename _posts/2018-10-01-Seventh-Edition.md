@@ -2,7 +2,7 @@
 layout: post
 title: 1st October 2018 - Issue 7
 date: 2018-10-01
-subtitle: The PGR Newsletter - This month, just a short version with news updates.
+subtitle: The PGR Newsletter - This month, a longer issue, with 2 spotlights. 
 ---
 
 
