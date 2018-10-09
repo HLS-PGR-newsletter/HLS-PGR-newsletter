@@ -58,6 +58,8 @@ Investigating third-party helping behaviour (bystander intervention) as a method
 
 * The British Psychological Society West Midlands Branch have bursaries available for conferences, workshops or training events. See their [website](https://www1.bps.org.uk/networks-and-communities/member-microsite/west-midlands-branch/awards-and-funding) for more details.
 
+* *[The John Campbell Trust](https://twitter.com/jcampbelltrust?lang=en-gb)* have 2 bursaries available to students, 1 of which is relevant to PGRs: A conference travel bursary of up to **£1,000**. Deadline for application is **2nd November, 2018**
+
 
 <center> <h1> Jobs </h1> </center>
 
