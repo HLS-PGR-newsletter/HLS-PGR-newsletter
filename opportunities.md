@@ -97,3 +97,36 @@ For further information please contact Sheila Medlock via [Sheila.Medlock@covent
 <center> <h1> Workshops </h1> </center>
 
 * Free workshop on **[‘Conducting systematic reviews in psychology’](https://cumbria.onlinesurveys.ac.uk/systematic-literature-review-workshop-booking-form)**, at Coventry, 24th October, aimed at postgraduate psychology students  
+
+
+<center> <h2> HLS Bitesize Workshops </h2> </center>
+
+The 2018 workshops will be held on Wednesdays 1pm-2pm
+
+The 2019 workshops will be held on Thursdays 1pm-2pm
+
+* *Avoiding Common Errors in Theses* - Workshop given by Dr Mike Price. **Date**: 8th November 2018, **Location**: RC213
+
+* *Negotiating cultural diversity in the research journey* - Workshop given by Dr Gurnam Singh and Dr Geraldine Brown. **Date**: 15th November 2018, **Location**: RC411
+
+* *Research Student Supervision - What Should a Student & Supervisor Expect* - Workshop given by Prof Rob James. **Date**: 29th November 2018, **Location**: RC411
+
+* *Presenting at an International Conference: Why and How?* - Workshop given by Prof Helen Maddox. **Date**: 6th December 2018, **Location**: RC411
+
+* *Locating Subjectivity in Qualitative Research* - Workshop given by Dr Gurnam Singh. **Date**: 17th December 2018, **Location**: RC411
+
+* *What is the Research Excellence Framework (REF)? Why does it matter?* - Workshop given by Dr Catherine Brown. **Date**: 10th January 2019, **Location**: RC411
+
+* *Writing for publication* - Workshop given by Dr Simon Goodman. **Date**: 17th January 2019, **Location**: RC411
+
+* *The PhD Journey: from developing your thesis to navigating your viva - A personal story* - Workshop given by Dr Kubra Choudhry. **Date**: 30th January 2019, **Location**: RC411
+
+* *Managing your supervisory team* - Workshop given by Prof Mike Duncan. **Date**: 20th February 2019, **Location**: RC411
+
+* *Should my PhD be just a thesis or a research apprenticeship?* - Workshop given by Dr Deborah Lycett. **Date**: 27th February 2019, **Location**: RC411
+
+* *Writing up, developing voice and managing time* - Workshop given by Dr Kathrine Wimpenny. **Date**: 6th March 2019, **Location**: RC411
+
+* *Critical thinking* - Workshop given by Dr Doug Thake. **Date**: 13th March 2019, **Location**: RC411
+
+* *Surviving and thriving in your viva* - Workshop given by Dr Gurnam Singh. **Date**: 27th March 2019, **Location**: RC411
