@@ -22,7 +22,7 @@ This post discusses the process of completing NHS ethics and my experience of th
 3.	IRAS (Integrated Research Application System) approval
 
 
-###0)	**Complete Coventry University Ethics**:
+### 0)	Complete Coventry University Ethics:
 
 Before anything happens at all on the NHS ethics application, you will need to get CU ethics approval. This is a process that can take time (depending on the time of year) and may get pushed back for corrections if the ethics team are not happy with everything. This part of the process is the same as for any other PhD student. Only, for those having to do an NHS ethics application, it is just the start.
 
