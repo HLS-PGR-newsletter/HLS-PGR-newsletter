@@ -35,7 +35,7 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 
 
 ## Jobs
-* __Philippa Carr__ got a job at Leeds Becket University!
+* __Philippa Carr__ got a job at Leeds Beckett University!
 
 
 <center>
