@@ -46,7 +46,7 @@ It is a good idea to have received Coventry Ethics approval before submitting yo
 
 ### 3b)	Attending the IRAS review panel:
 
-arrive early, dress to impress. Preferably go with a supervisor who has been through the process before. They can be large panels and might be intimidating alone. It is also good to have someone else’s perspective on how the panel review went. After the panel review you will have a response within 10 working days. Either a full approval (rare), amendments (most common), or rejection. Amendments can be made and resubmitted to the same panel. Rejections will need to be edited and go through the booking office and review panel again. Along with your IRAS attachments will be two documents about your research schedule and needs from the NHS site. Once the site receives your approval they will ensure they can and are willing to meet your requirements and give site approval. Once you have your research passport, your IRAS and site approval, you are ready to go be a researcher!
+Arrive early, dress to impress. Preferably go with a supervisor who has been through the process before. They can be large panels and might be intimidating alone. It is also good to have someone else’s perspective on how the panel review went. After the panel review you will have a response within 10 working days. Either a full approval (rare), amendments (most common), or rejection. Amendments can be made and resubmitted to the same panel. Rejections will need to be edited and go through the booking office and review panel again. Along with your IRAS attachments will be two documents about your research schedule and needs from the NHS site. Once the site receives your approval they will ensure they can and are willing to meet your requirements and give site approval. Once you have your research passport, your IRAS and site approval, you are ready to go be a researcher!
 
 <center>
   <img src="https://www.midyorks.nhs.uk/media/images/versions/img94joktmu76384.jpg?bev=5222" alt="NHS Ethics Barrier" width = "400" />
@@ -69,7 +69,7 @@ One last thing for those of you doing NHS ethics applications: **Good luck!**
 
 
 ---
-*Becky Seymour is a 3rd year PhD student studying FGM in the postpartum period. During her breaks she enjoys waking, reading and developing her theory of how ants will one day rule the world.*
+*Becky Seymour is a 3rd year PhD student studying FGM in the postpartum period. During her breaks she enjoys walking, reading and developing her theory of how ants will one day rule the world.*
 
 <center>
   <img src="{{ site.baseurl }}/img/team/Becki-profile.png" alt="Becky Seymour" width = "400" />
