@@ -14,6 +14,31 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 
 
 <center>
+<h1> Updates from 1st November 2018 </h1>
+</center>
+
+
+## Thesis submissions
+* Congratulations to __**Danielle Ladhardt**__ for submitting her thesis!
+* Congratulations to __**Philippa Carr**__ for submitting her thesis!
+* Congratulations to __**Sanne Velthuis**__ for submitting her thesis!
+
+## Conferences
+* __**Angela Hands**__ gave a presentation at the __[International Society for Physical Activity and Health conference](http://www.ispah.org/london-2018/)__. The presentation went really well.
+
+* __**Laura Wilde**__ also presented a poster at the __[International Society for Physical Activity and Health conference](http://www.ispah.org/london-2018)__.
+
+## Public Appearances
+* __**Danielle Labhardt**__ gave a well-attended and great talk at the Coventry __*'Psychologist in the Pub'*__ event, that took place at The Phoenix in October
+* __**Diane Menage**__ spoke at the __*Professional Midwifery Advocates*__ event that took place in October
+* __**Jenny Mackay**__ gave a PsyPAG-funded workshop called ‘Conducting systematic reviews in psychology’ in Coventry
+
+
+## Jobs
+* __**Philippa Carr**__ got a job at Leeds Becket University!
+
+
+<center>
 <h1> Updates from 1st October 2018 </h1>
 </center>
 
