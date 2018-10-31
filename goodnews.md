@@ -19,23 +19,23 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 
 
 ## Thesis submissions
-* Congratulations to __**Danielle Ladhardt**__ for submitting her thesis!
-* Congratulations to __**Philippa Carr**__ for submitting her thesis!
-* Congratulations to __**Sanne Velthuis**__ for submitting her thesis!
+* Congratulations to __Danielle Ladhardt__ for submitting her thesis!
+* Congratulations to __Philippa Carr__ for submitting her thesis!
+* Congratulations to __Sanne Velthuis__ for submitting her thesis!
 
 ## Conferences
-* __**Angela Hands**__ gave a presentation at the __[International Society for Physical Activity and Health conference](http://www.ispah.org/london-2018/)__. The presentation went really well.
+* __Angela Hands__ gave a presentation at the _[International Society for Physical Activity and Health conference](http://www.ispah.org/london-2018/)_. The presentation went really well.
 
-* __**Laura Wilde**__ also presented a poster at the __[International Society for Physical Activity and Health conference](http://www.ispah.org/london-2018)__.
+* __Laura Wilde__ also presented a poster at the _[International Society for Physical Activity and Health conference](http://www.ispah.org/london-2018)_.
 
 ## Public Appearances
-* __**Danielle Labhardt**__ gave a well-attended and great talk at the Coventry __*'Psychologist in the Pub'*__ event, that took place at The Phoenix in October
-* __**Diane Menage**__ spoke at the __*Professional Midwifery Advocates*__ event that took place in October
-* __**Jenny Mackay**__ gave a PsyPAG-funded workshop called ‘Conducting systematic reviews in psychology’ in Coventry
+* __Danielle Labhardt__ gave a well-attended and great talk at the Coventry _'Psychologist in the Pub'_ event, that took place at The Phoenix in October
+* __Diane Menage__ spoke at the _Professional Midwifery Advocates_ event that took place in October
+* __Jenny Mackay__ gave a PsyPAG-funded workshop called ‘Conducting systematic reviews in psychology’ in Coventry
 
 
 ## Jobs
-* __**Philippa Carr**__ got a job at Leeds Becket University!
+* __Philippa Carr__ got a job at Leeds Becket University!
 
 
 <center>
