@@ -9,7 +9,7 @@ subtitle: A 'how-to' guide, and reflection by Becky Seymour
 As research students, we all need to go through ethical approval at the university. However, some students here will also be conducting research that requires NHS ethics approval. There is very little advice out there on how exactly to go about NHS ethics, or what challenges one might expect. As a result, Becky Seymour, a PhD research student in nursing, speaks below both about how to go about getting ethical approval from the NHS, and then follows up by reflecting on her experience.
 
 <center>
-  <img src="https://www.jisc.ac.uk/sites/default/files/padlock-teaser.jpg" alt="NHS Ethics Barrier" width = "200" />
+  <img src="https://www.jisc.ac.uk/sites/default/files/padlock-teaser.jpg" alt="NHS Ethics Barrier" width = "300" />
 </center>
 
 # How To
@@ -49,7 +49,7 @@ It is a good idea to have received Coventry Ethics approval before submitting yo
 arrive early, dress to impress. Preferably go with a supervisor who has been through the process before. They can be large panels and might be intimidating alone. It is also good to have someone else’s perspective on how the panel review went. After the panel review you will have a response within 10 working days. Either a full approval (rare), amendments (most common), or rejection. Amendments can be made and resubmitted to the same panel. Rejections will need to be edited and go through the booking office and review panel again. Along with your IRAS attachments will be two documents about your research schedule and needs from the NHS site. Once the site receives your approval they will ensure they can and are willing to meet your requirements and give site approval. Once you have your research passport, your IRAS and site approval, you are ready to go be a researcher!
 
 <center>
-  <img src="https://www.midyorks.nhs.uk/media/images/versions/img94joktmu76384.jpg?bev=5222" alt="NHS Ethics Barrier" width = "200" />
+  <img src="https://www.midyorks.nhs.uk/media/images/versions/img94joktmu76384.jpg?bev=5222" alt="NHS Ethics Barrier" width = "400" />
 </center>
 
 
