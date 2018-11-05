@@ -13,7 +13,7 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 
 **Venue** - Travelling
 
-**Time**: 11:30am-1:30pm
+**Time**: All day
 
 **Tickets** - You can buy tickets [here](https://www.cusu.org/ents/event/1604/). Prices range from _£39 - £49_.
 
@@ -44,7 +44,7 @@ For more information, contact the PGGuild: [pgguild.su@coventry.ac.uk](mailto:pg
 
 **Tickets** - https://www.cusu.org/events/8766/1882/
 
-Travel to and from The HUBS are included with ticket purchase. 
+Travel to and from The HUBS are included with ticket purchase.
 
 
 ## 14th December 2018 - HLS PGR Xmas Social.
