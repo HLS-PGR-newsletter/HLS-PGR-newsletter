@@ -9,13 +9,49 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 # Upcoming Events:
 
 
-## 3rd October 2018 - LGBTea Social
+## 10th November - Stonehenge and Bath CUSU trip
 
-**Venue** - RCG03
+**Venue** - Travelling
 
-**Time**: 13:30 - 15:00
+**Time**: 11:30am-1:30pm
 
-At this event you will find a place that is welcoming to LGBTQ+ students to help them meet others at the university. Sign up for the event [here](https://www.cusu.org/ents/event/1607/)
+**Tickets** - You can buy tickets [here](https://www.cusu.org/ents/event/1604/). Prices range from _£39 - £49_.
+
+
+
+
+## 16th November 2018 - PG Community: Post-Graduate "Network & Snack" event
+
+**Venue** - Library
+
+**Time**: 11:30am-1:30pm
+
+This is an event for all post-graduate students (taught or research) to meet up for drinks and food, all provided for by the Coventry Students' Union - [Post-Graduate Community](https://www.cusu.org/communities/postgrad/).
+
+For more information, contact the PGGuild: [pgguild.su@coventry.ac.uk](mailto:pgguild.su@coventry.ac.uk)
+
+## 30th November 2018 - HLS PGR Newsletter Coffee/Tea morning Social
+
+**Venue** - TBC
+
+**Time**: AM
+
+## 4th December - PG Community: Post-Graduate Winter Ball.
+
+**Venue** - The Double Tree by Hilton, CV2 2ST.
+
+**Time**: 6:30pm 4th December - 12:30am 5th December.
+
+**Tickets** - https://www.cusu.org/events/8766/1882/
+
+Travel to and from The HUBS are included with ticket purchase. 
+
+
+## 14th December 2018 - HLS PGR Xmas Social.
+
+**Venue** - TBC
+
+**Time**: 3:00pm - 5:00pm, then 5pm-late
 
 
 # Questions
