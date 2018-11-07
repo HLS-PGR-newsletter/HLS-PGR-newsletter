@@ -32,6 +32,18 @@ Student-led journal club for postgraduates looking at all research health and ph
 
 *	*BPS Careers in Psychology* event **[17th November in Newcastle](https://www.bps.org.uk/events/careers-psychology-newcastle-2018)**, and another is also being run on the **[4th December in London](https://www.bps.org.uk/events/careers-psychology-london-2018)**
 
+* *[Cafe Scientifique, Leamington](http://www.cafescientifique.org/index.php?option=com_contentbuilder&title=uk-leamington-spa&controller=details&id=1&record_id=129&Itemid=478&limitstart=40&filter_order=)* St Patrick's Irish Club, 4 Adelaide Rd, Leamington Spa CV31 3PW on **Monday 19th November, &:00 for 7:30pm**.
+
+For more information on this talk:
+
+**Professor Andrew D. McAinsh**, Head of the Biomedical Sciences Division at Warwick University, will lead a discussion he has entitled:
+
+**What the Cell! How do you keep your chromosomes in order?**
+
+He introduces the session thus:
+
+You and I are each built from several trillion cells and, remarkably, all these cells originate from one single cell â?" a fertilised egg. Each cell, including this first one, contains the entire blueprint for a human being. These instructions are encoded in your DNA and organised in packages called chromosomes. Life is only possible if we look after this DNA and ensure all cells contain the right amount. The wrong amount is associated with human diseases, including cancer. This evening we will explore the amazing nanoscale machines that make this possible, and how we may harness this knowledge to improve human health.
+
 <center> <h1> Conferences </h1> </center>
 
 
