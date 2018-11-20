@@ -28,31 +28,42 @@ Student-led journal club for postgraduates looking at all research health and ph
 
 <center> <h1> Events </h1> </center>
 
-* *[European University Institute](https://www.eventbrite.co.uk/e/eui-phd-scholarships-tickets-51014725417)*’s call for PhD Scholarships open from **1st November**. Free webinar to give further information **13th November 10-11am**.
-
-*	*BPS Careers in Psychology* event **[17th November in Newcastle](https://www.bps.org.uk/events/careers-psychology-newcastle-2018)**, and another is also being run on the **[4th December in London](https://www.bps.org.uk/events/careers-psychology-london-2018)**
-
-* *[Cafe Scientifique, Leamington](http://www.cafescientifique.org/index.php?option=com_contentbuilder&title=uk-leamington-spa&controller=details&id=1&record_id=129&Itemid=478&limitstart=40&filter_order=)* St Patrick's Irish Club, 4 Adelaide Rd, Leamington Spa CV31 3PW on **Monday 19th November, &:00 for 7:30pm**.
-
-For more information on this talk:
-
-**Professor Andrew D. McAinsh**, Head of the Biomedical Sciences Division at Warwick University, will lead a discussion he has entitled:
-
-**What the Cell! How do you keep your chromosomes in order?**
-
-He introduces the session thus:
-
-You and I are each built from several trillion cells and, remarkably, all these cells originate from one single cell â?" a fertilised egg. Each cell, including this first one, contains the entire blueprint for a human being. These instructions are encoded in your DNA and organised in packages called chromosomes. Life is only possible if we look after this DNA and ensure all cells contain the right amount. The wrong amount is associated with human diseases, including cancer. This evening we will explore the amazing nanoscale machines that make this possible, and how we may harness this knowledge to improve human health.
+All events in November are now over. December events will be put up shortly.
 
 <center> <h1> Conferences </h1> </center>
+
+* **[4th International Conference on Research in Life-Sciences & Healthcare (ICRLSH)](https://eurasiaresearch.org/conference/london-icrlsh-12-13-apr-2019)**.
+
+  * __Conference Dates:__ *12-13 April 2019*
+
+  * __Conference Venue:__ *Canada Water Theatre and Library, 21 Surrey Quays Road, London, UK*
+
+  * __Deadline for Abstract/Paper Submissions:__ *15 December 2018*
+
+* **[562nd International Conference on Medical and Biosciences (ICMBS)](http://researchworld.org/Conference2019/USA/3/ICMBS/)**
+  * __Conference Dates__: *18th-19th March, 2019*
+  * __Location__: *Los Angeles , United States of America*
+  * __Paper submission deadline__: *10th February, 2019*
+  * __Final date of notification__: *14th February, 2019*
+  * __Last date of registration__: *18th February, 2019*
+
+* **[2019 International Health Congress, Oxford](http://globalhealthcongress.org/)**
+  * __Conference Dates__: *26th - 28th June 2019*
+  * __Conference Venue__: *University of Oxford's St Hugh's College*
+  * __Deadline for submissions__: *15th December, 2018*
+
+* **[7th World Congress on Nursing & Healthcare (WCNH)](https://www.scientificfederation.com/wcnh-2019/)**
+    * __Conference Dates__: *17th - 18th June 2019*
+    * __Conference Venue__: *London, UK*
+    * __Deadline for submissions__: *30th November, 2018*
+    * __Theme__: *Recent innovations for better healthcare & the facets of nursing*
+
 
 
 <center> <h1> Funding/Grants </h1> </center>
 
 
 * The British Psychological Society West Midlands Branch have bursaries available for conferences, workshops or training events. See their [website](https://www1.bps.org.uk/networks-and-communities/member-microsite/west-midlands-branch/awards-and-funding) for more details.
-
-* *[The John Campbell Trust](https://twitter.com/jcampbelltrust?lang=en-gb)* have 2 bursaries available to students, 1 of which is relevant to PGRs: A conference travel bursary of up to **£1,000**. Deadline for application is **2nd November, 2018**
 
 
 <center> <h1> Jobs </h1> </center>
