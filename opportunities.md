@@ -102,11 +102,6 @@ The 2018 workshops will be held on Wednesdays 1pm-2pm
 
 The 2019 workshops will be held on Thursdays 1pm-2pm
 
-* *Avoiding Common Errors in Theses* - Workshop given by Dr Mike Price. **Date**: 8th November 2018, **Location**: RC213
-
-* *Negotiating cultural diversity in the research journey* - Workshop given by Dr Gurnam Singh and Dr Geraldine Brown. **Date**: 15th November 2018, **Location**: RC411
-
-* *Research Student Supervision - What Should a Student & Supervisor Expect* - Workshop given by Prof Rob James. **Date**: 29th November 2018, **Location**: RC411
 
 * *Presenting at an International Conference: Why and How?* - Workshop given by Prof Helen Maddox. **Date**: 6th December 2018, **Location**: RC411
 
