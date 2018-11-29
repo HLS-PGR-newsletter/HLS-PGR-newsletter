@@ -11,9 +11,9 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 
 ## Friday 30th November 2018 - HLS PGR Newsletter Coffee/Tea morning Social
 
-**Venue** - TBC
+**Venue** - The Big Comfy Bookshop, Unit 2F Far Gosford Street
 
-**Time**: AM
+**Time**: 2pm-3pm
 
 ## Tuesday 4th December - PG Community: Post-Graduate Winter Ball.
 
@@ -28,15 +28,17 @@ Travel to and from The HUBS are included with ticket purchase.
 
 ## Friday 14th December 2018 - HLS PGR Xmas Social.
 
-**Venue** -  Room TBC.
+**Venue** -  Refectory, Elm Bank.
 
 Join us for a catch up, some games, and mince pies!
 
 Please let Laura Wilde ([wildel5@uni.coventry.ac.uk](mailto:wildel5@uni.coventry.ac.uk)) know if you are interested and would like to join us for all or to be sent the outlook invite. Further details will be confirmed closer to the time and please feel free to invite others!
 
+Food will be provided, please email to let us know dietary requirements. Vegetarian options will be provided. 
+
 Festive wishes,
 
-**Time**: 4:00pm - 5:00pm, then 5pm-late
+**Time**: 4:00pm - 6:00pm, (then possibly 6pm-late elsewhere, should people want)
 
 
 # Questions
