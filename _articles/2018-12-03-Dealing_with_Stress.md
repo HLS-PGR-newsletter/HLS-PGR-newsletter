@@ -11,11 +11,13 @@ Of course, an MRes comes with different stressors than a PhD. To finish a full r
 If you’re reading this piece, it means you’re a PGR and this is not exactly news to you. However, dealing with stress during your time at CU is vital to both keeping on top of your studies and, more importantly, your own mental health.
 It is so important, in fact, that this is not our first time visiting this topic. In our first issue, released in March earlier this year, we put out a [short piece](https://hls-pgr-newsletter.github.io/HLS-PGR-newsletter.github.io/_health-wellbeing/18-02-23-Dealing_with_Stress.html) with 6 short tips on how to best avoid or deal with some of the stressors that come up during the course of your research degree. Those short tips were useful, but somewhat vague. As a result, we at the PGR Newsletter thought it would be a good idea to cover it in more detail here.
 
+___
 
 <center>
   <img src="https://cdn.pixabay.com/photo/2016/11/18/23/48/stress-1837384_1280.png" alt="Stress and Anxiety" width = "400" />
 </center>
 
+___
 
 ## Why should we deal with Stress?
 Stress is the body’s natural response to novel situations. When we evolved, it was useful to stress about certain things, as stress prompts actions, and short-term, small levels of stress may improve levels of performance in various domains (Yerkes Dodoson, 1908; Hebb, 1955). In the literature, this type of stress is referred to as ‘acute stress’. However, humans did not evolve to live in modern society. As a result, the situations we currently place ourselves in cause us to stress in high levels, for long periods of time, quite routinely. This is called ‘chronic’ stress.
@@ -42,6 +44,16 @@ There is a growing body of research that suggests that mindfulness-based methods
 For many people, listening to music can help reduce stress. (Linnemann, Strahler & Nater, 2017)
 Music does seem to have a positive effect on levels of depression symptoms, (Moradipanah, Mohammadi & Mohammadil, 2009). Castillo-Péretz and colleagues (Castillo-Péretz et al., 2010) found that music therapy had a significantly better rate of improvement than regular psychotherapy, even! This has even been found in randomised control trials (Albornoz, 2011; Erkkilä et al., 2011).
 If you like music, take the time to use free streaming services to listen to it. You can also take the time to visit the [Coventry Music Museum]( http://www.covmm.co.uk/). [Coventry Music Hub](http://www.coventrymusichub.co.uk/groupsandchoirs) also have a list of music groups and choirs that you can join should you want to find groups of friends who perform with you.
+
+___
+
+*Sarah Charles is a 2nd year Psychobiology PhD student who researches the role of certain behaviours and neurochemicals in social bonding. She has a background in research on music therapy. During her free time, she plays guitar, writes music and plays board games.*
+
+<center>
+  <img src="{{ site.baseurl }}/img/team/Sarah-profile.png" alt="Sarah Charles" width = "400" />
+</center>
+
+___
 
 ## References
 
