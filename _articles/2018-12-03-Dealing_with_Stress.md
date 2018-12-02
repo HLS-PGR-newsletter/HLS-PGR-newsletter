@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stress while doing a Research Degree
+title: Stress While Doing a Research Degree
 subtitle: What ways can Coventry University students deal with stress?
 ---
 

@@ -9,12 +9,6 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 # Upcoming Events:
 
 
-## Friday 30th November 2018 - HLS PGR Newsletter Coffee/Tea morning Social
-
-**Venue** - The Big Comfy Bookshop, Unit 2F Far Gosford Street
-
-**Time**: 2pm-3pm
-
 ## Tuesday 4th December - PG Community: Post-Graduate Winter Ball.
 
 **Venue** - The Double Tree by Hilton, CV2 2ST.
@@ -34,7 +28,7 @@ Join us for a catch up, some games, and mince pies!
 
 Please let Laura Wilde ([wildel5@uni.coventry.ac.uk](mailto:wildel5@uni.coventry.ac.uk)) know if you are interested and would like to join us for all or to be sent the outlook invite. Further details will be confirmed closer to the time and please feel free to invite others!
 
-Food will be provided, please email to let us know dietary requirements. Vegetarian options will be provided. 
+Food will be provided, please email to let us know dietary requirements. Vegetarian options will be provided.
 
 Festive wishes,
 
