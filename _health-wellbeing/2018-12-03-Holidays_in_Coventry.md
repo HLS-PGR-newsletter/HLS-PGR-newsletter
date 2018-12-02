@@ -8,9 +8,11 @@ subtitle: The PGR Newsletter team talks about what you can do if you can't go ba
 
 As we in the research community know, there are many PGRs here at Coventry University who are here from all over the world. Be you from another city in the UK or from another continent, there may be some reason that you cannot go back home and see family over the holiday season. This includes some of us at the PGR Newsletter.
 
+
 <center>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Merry_Christmas_my_friends_from_Kiev_Ukraine_%288305920555%29.jpg" alt="Christmas with friends" width = "400" />
 </center>
+
 
 # PGR Meet-Ups Over the Holidays
 We know that this period of time is one where work inevitably slows down due to others going on leave and the university closing between Christmas day and New Year’s Day. With the level of work over this time slowing down, people are likely to want to spend time with others. As a result, the PGR Newsletter are helping to organise ways in which PGRs at Coventry can do so to help keep spirits high over the holidays.
@@ -44,9 +46,11 @@ Kenilworth Talisman Square. Day Trip to Kenilworth? You can now get to Kenilwort
 
 ### Royal Leamington Spa Yuletide Christmas Markets:
 
+
 <center>
   <img src"{{ site.baseurl }}/img/Leamington_Xmas_Market.png" alt="Leamington Christmas Market Flyer" width = "400" />
 </center>
+
 
 ### Birmingham German Christmas Market!
 
