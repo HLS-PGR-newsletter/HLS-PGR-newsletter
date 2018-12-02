@@ -14,7 +14,7 @@ It is so important, in fact, that this is not our first time visiting this topic
 ___
 
 <center>
-  <img src="https://cdn.pixabay.com/photo/2016/11/18/23/48/stress-1837384_1280.png" alt="Stress and Anxiety" width = "400" />
+  <img src="{{ site.baseurl }}/img/Stress.png" alt="Stress and Anxiety" width = "400" />
 </center>
 
 ___

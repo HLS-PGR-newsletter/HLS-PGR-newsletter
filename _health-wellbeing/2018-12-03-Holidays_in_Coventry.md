@@ -48,7 +48,7 @@ Kenilworth Talisman Square. Day Trip to Kenilworth? You can now get to Kenilwort
 
 
 <center>
-  <img src"{{ site.baseurl }}/img/Leamington_Xmas_Market.png" alt="Leamington Christmas Market Flyer" width = "400" />
+  <img src="{{ site.baseurl }}/img/Leamington_Xmas_Market.png" alt="Leamington Christmas Market Flyer" width = "400" />
 </center>
 
 
