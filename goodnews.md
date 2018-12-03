@@ -21,6 +21,7 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 ## Viva passes!
 * Congratulations to __Danielle Ladhardt__ for passing her viva with minor corrections!
 * Congratulations to __Philippa Carr__ for passing her viva with minor corrections!
+* Congratulations to __Anne Turner__ for passing her viva with minor corrections!
 * Congratulations to __Jo Parsons__ for passing her viva with minor corrections!
 * Congratulations to __Nicola Yaylor__ (CIRAL) for passing her MRes!
 
