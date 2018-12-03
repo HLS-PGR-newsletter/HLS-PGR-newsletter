@@ -13,6 +13,23 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
 
+
+<center>
+<h1> Updates from 3rd December 2018 </h1>
+</center>
+
+## Viva passes!
+* Congratulations to __Danielle Ladhardt__ for passing her viva with minor corrections!
+* Congratulations to __Philippa Carr__ for passing her viva with minor corrections!
+* Congratulations to __Jo Parsons__ for passing her viva with minor corrections!
+* Congratulations to __Nicola Yaylor__ (CIRAL) for passing her MRes!
+
+## Publications
+* __James Bartlett__ co-authored a new paper titled "[The roles of altruism, heroism, and physical attractiveness in female mate choice](https://www.sciencedirect.com/science/article/pii/S0191886918304586)". An Open Access version can be found [here](https://osf.io/acwnr/download/).
+
+* __Josh Hurst__ published a paper as a lead author from his PhD. The article is called "[Investigating a dose–response relationship between high-fat diet consumption and the contractile performance of isolated mouse soleus, EDL and diaphragm muscles](https://link.springer.com/article/10.1007/s00421-018-4017-6)".
+
+
 <center>
 <h1> Updates from 1st November 2018 </h1>
 </center>
