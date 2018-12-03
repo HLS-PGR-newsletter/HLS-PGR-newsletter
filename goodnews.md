@@ -21,11 +21,12 @@ Even if you have some non-research based good news (Passed a test? Competed in a
 ## Viva passes!
 * Congratulations to __Danielle Ladhardt__ for passing her viva with minor corrections!
 * Congratulations to __Philippa Carr__ for passing her viva with minor corrections!
+* Congratulations to __Anne Turner__ for passing her viva with minor corrections!
 * Congratulations to __Jo Parsons__ for passing her viva with minor corrections!
 * Congratulations to __Nicola Yaylor__ (CIRAL) for passing her MRes!
 
 ## Publications
-* __James Bartlett__ co-authored a new paper titled "[The roles of altruism, heroism, and physical attractiveness in female mate choice](https://www.sciencedirect.com/science/article/pii/S0191886918304586)". An Open Access version can be found [here](https://osf.io/acwnr/download/).
+* __James Bartlett__ co-authored a new paper titled "[The Influence of Mate Choice Motivation on Non-Financial Altruism](https://link.springer.com/article/10.1007/s12144-018-0070-x)". An Open Access version can be found [here](https://psyarxiv.com/gc8en/).
 
 * __Josh Hurst__ published a paper as a lead author from his PhD. The article is called "[Investigating a dose–response relationship between high-fat diet consumption and the contractile performance of isolated mouse soleus, EDL and diaphragm muscles](https://link.springer.com/article/10.1007/s00421-018-4017-6)".
 
