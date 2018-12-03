@@ -21,7 +21,7 @@ If you would like to hang out with other PG students over the holidays, please g
 Please note: By providing your contact details you are consenting to them being shared with other students who respond to this call  
 
 
- # Christmas Markets:
+# Christmas Markets
 
 As well as helping organise meet-ups with other PGRs, we thought it would be a good idea to provide you with some information about some events that take place over the holiday period in and around Coventry. It's that time of year again and Christmas Markets are opening across the world! Coventry has 4 great Christmas markets within easy travel distance so get a group together and enjoy the festivities of the season.
 
