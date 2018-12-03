@@ -45,9 +45,29 @@ For many people, listening to music can help reduce stress. (Linnemann, Strahler
 Music does seem to have a positive effect on levels of depression symptoms, (Moradipanah, Mohammadi & Mohammadil, 2009). Castillo-Péretz and colleagues (Castillo-Péretz et al., 2010) found that music therapy had a significantly better rate of improvement than regular psychotherapy, even! This has even been found in randomised control trials (Albornoz, 2011; Erkkilä et al., 2011).
 If you like music, take the time to use free streaming services to listen to it. You can also take the time to visit the [Coventry Music Museum]( http://www.covmm.co.uk/). [Coventry Music Hub](http://www.coventrymusichub.co.uk/groupsandchoirs) also have a list of music groups and choirs that you can join should you want to find groups of friends who perform with you.
 
+
+### Sports
+Exercise is well known to give those who take part a 'rush' or sense of euphoria called the "The Runner's High". This "high" is caused by the release endorphins (Boecker et al., 2008), which are a type of opioid your body naturally produces. As it happens, these opioids play a key role in dealing with the stress response in your body. As a result, sports therapy has been recommended for those suffering with stress.
+
+One line of research has shown that exercise in green spaces, such as parks, leads to an even greater lowering of stress (Hansmann, Hug & Seeland, 2007). This is especially the case when those green spaces are used for community events (Fan, Das & Chen, 2011). Around this time, the [ParkRun](http://www.parkrun.org.uk/) community has taken off. In Coventry, there is a ParkRun event that takes place every Saturday morning in the War Memorial park, just to the South West of the city centre. For those who don't live in Coventry, but want to take part, [this site](http://www.parkrun.org.uk/events/events/) shows where all the parkrun events are in the UK. With ones in Cannon Hill Park in Birmingham, Malvern & Brueton Park in Solihull, Leam Valley Nature Reserve in Leamington Spa and Miner's Welfare park in Bedworth, near Nuneaton you should be able to find one that is close by to you if you want to exercise in this way.
+
+### Socialising.
+
+One thing that the research about sports show, is that it works even better when they are group events/team sports. This is because social support provides a HUGE protective effect for those with stress (Lakey & Orehek, 2011, Marroquin, 2011; Zaki & Williams, 2013). For this reason, I cannot recommend enough that you take time out and ensure you maintain your social life during your research degree. It could be taking part in events (like the end of year party taking place on Friday 14th December at Elm Bank) or making time to see friends and family you have outside of university.
+
+House, Landis and Umberson (1988) produced a systematic review that showed a lack of social relationships is likely “a cause or risk factor of mortality, and probably morbidity from a wide range of diseases” (p. 543) and that “the age-adjusted relative risk ratios …are stronger than the relative risks for all-cause mortality reported for cigarette smoking” (p. 543), showing just how important social bonds are to health outcomes. Holt-Lunstad, Smith & Layton, (2010) recently followed up on this with a meta-analysis and found those with low levels of social bonds were 1.5x more likely to have health issues!
+
+Basically, when you are studying, get out there and make some friends! If you already have friends, make sure to meet up regularly to foster these bonds with each other. Even coming into the office on a semi-regular basis to touch base with other students can do wonders for your mental health.
+
+### Counselling.
+
+If you are experiencing levels of stress that you are finding is negatively affecting your mental health, or other aspects of your life, I cannot recommend enough that you get help. Coventry University offers a [counselling service](https://www.coventry.ac.uk/study-at-coventry/student-support/health-and-wellbeing/counselling-and-mental-health-service/) for all students. To access this help, [email](mailto:counsell.ss@coventry.ac.uk) the service at [counsell.ss@coventry.ac.uk](mailto:counsell.ss@coventry.ac.uk).
+
+Once ou contact them, you will be sent a link via University email to complete an online registration form. Once your form has been submitted, a link will be sent to your University email to book an appointment with an appropriate member of the team.
+
 ___
 
-*Sarah Charles is a 2nd year Psychobiology PhD student who researches the role of certain behaviours and neurochemicals in social bonding. She has a background in research on music therapy. During her free time, she plays guitar, writes music and plays board games.*
+*Sarah Charles is a 2nd year Psychobiology PhD student who researches social bonding and the role of behaviours and neurochemicals that help in this. She has a background in research on music therapy. During her free time, she plays guitar, writes music and plays board games.*
 
 <center>
   <img src="{{ site.baseurl }}/img/team/Sarah-profile.png" alt="Sarah Charles" width = "400" />
@@ -58,17 +78,24 @@ ___
 ## References
 
 1.	Albornoz, Y. (2011). The effects of group improvisational music therapy on depression in adolescents and adults with substance abuse: a randomized controlled trial*. Nordic Journal of Music Therapy, 20(3), 208-224.
-2.	Castillo-Pérez, S., Gomez-Perez, V., Velasco, M. C., Pérez-Campos, E., & Mayoral, M. A. (2010). Effects of music therapy on depression compared with psychotherapy. The Arts in Psychotherapy, 37(5), 387-390.
-3.	Erkkilä, J., Punkanen, M., Fachner, J., Ala-Ruona, E., Pontio, I., Tervaniemi, M., ... & Gold, C. (2011). Individual music therapy for depression: randomised controlled trial {. The British Journal of Psychiatry, 199, 132-139.
-4.	Khoury, B., Sharma, M., Rush, S. E., & Fournier, C. (2015). Mindfulness-based stress reduction for healthy individuals: a meta-analysis. Journal of psychosomatic research, 78(6), 519-528.
-5.	Hebb, D. O. (1955). Drives and the CNS (conceptual nervous system). Psychological review, 62(4), 243.
-6.	Hong, S., Zheng, G., & Wiley, J. W. (2015). Epigenetic regulation of genes that modulate chronic stress-induced visceral pain in the peripheral nervous system. Gastroenterology, 148(1), 148-157.
-7.	Howes, O. D., McCutcheon, R., Owen, M. J., & Murray, R. M. (2017). The role of genes, stress, and dopamine in the development of schizophrenia. Biological psychiatry, 81(1), 9-20.
-8.	Linnemann, A., Strahler, J., & Nater, U. (2017). The effects of music listening on stress in everyday life. Psychoneuroendocrinology, 83, 84.
-9.	Martin, L., Oepen, R., Bauer, K., Nottensteiner, A., Mergheim, K., Gruber, H., & Koch, S. (2018). Creative arts interventions for stress management and prevention—a systematic review. Behavioral Sciences, 8(2), 28.
-10.	Moradipanah, F., Mohammadi, E., & Mohammadil, A. Z. (2009). Effect of music on anxiety, stress, and depression levels in patients undergoing coronary angiography.
-11.	Slavich, G. M., & Irwin, M. R. (2014). From stress to inflammation and major depressive disorder: a social signal transduction theory of depression. Psychological bulletin, 140(3), 774.
-12.	Smallwood, M. J., Nissim, A., Knight, A. R., Whiteman, M., Haigh, R., & Winyard, P. G. (2018). Oxidative stress in autoimmune rheumatic diseases. Free Radical Biology and Medicine.
-13.	Tomiyama, A. J. (2018). Stress and Obesity. Annual review of psychology, (0).
-14.	Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of stimulus to rapidity of habit‐formation. Journal of comparative neurology and psychology, 18(5), 459-482.
-15.	Zheng, G., Hong, S., Hayes, J. M., & Wiley, J. W. (2015). Chronic stress and peripheral pain: evidence for distinct, region-specific changes in visceral and somatosensory pain regulatory pathways. Experimental neurology, 273, 301-311.
+2.	Boecker, H., Sprenger, T., Spilker, M. E., Henriksen, G., Koppenhoefer, M., Wagner, K. J., ... & Tolle, T. R. (2008). The runner's high: opioidergic mechanisms in the human brain. Cerebral Cortex, 18(11), 2523-2531.
+3.  Castillo-Pérez, S., Gomez-Perez, V., Velasco, M. C., Pérez-Campos, E., & Mayoral, M. A. (2010). Effects of music therapy on depression compared with psychotherapy. The Arts in Psychotherapy, 37(5), 387-390.
+4.	Erkkilä, J., Punkanen, M., Fachner, J., Ala-Ruona, E., Pontio, I., Tervaniemi, M., ... & Gold, C. (2011). Individual music therapy for depression: randomised controlled trial {. The British Journal of Psychiatry, 199, 132-139.
+5.	Fan, Y., Das, K. V., & Chen, Q. (2011). Neighborhood green, social support, physical activity, and stress: Assessing the cumulative impact. Health & place, 17(6), 1202-1211.
+6.  Khoury, B., Sharma, M., Rush, S. E., & Fournier, C. (2015). Mindfulness-based stress reduction for healthy individuals: a meta-analysis. Journal of psychosomatic research, 78(6), 519-528.
+7.	Hansmann, R., Hug, S. M., & Seeland, K. (2007). Restoration and stress relief through physical activities in forests and parks. Urban forestry & urban greening, 6(4), 213-225.
+8.  Hebb, D. O. (1955). Drives and the CNS (conceptual nervous system). Psychological review, 62(4), 243.
+9.	Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social relationships and mortality risk: a meta-analytic review. PLoS medicine, 7(7), e1000316.
+10.  Hong, S., Zheng, G., & Wiley, J. W. (2015). Epigenetic regulation of genes that modulate chronic stress-induced visceral pain in the peripheral nervous system. Gastroenterology, 148(1), 148-157.
+11.	House, J. S., Landis, K. R., & Umberson, D. (1988). Social relationships and health. Science, 241(4865), 540-545.
+12. Howes, O. D., McCutcheon, R., Owen, M. J., & Murray, R. M. (2017). The role of genes, stress, and dopamine in the development of schizophrenia. Biological psychiatry, 81(1), 9-20.
+13.	Lakey B., Orehek E. (2011). Relational regulation theory: A new approach to explain the link between perceived social support and mental health. Psychological Review, 118, 482-495.
+14. Linnemann, A., Strahler, J., & Nater, U. (2017). The effects of music listening on stress in everyday life. Psychoneuroendocrinology, 83, 84.
+15.	Martin, L., Oepen, R., Bauer, K., Nottensteiner, A., Mergheim, K., Gruber, H., & Koch, S. (2018). Creative arts interventions for stress management and prevention—a systematic review. Behavioral Sciences, 8(2), 28.
+16.	Moradipanah, F., Mohammadi, E., & Mohammadil, A. Z. (2009). Effect of music on anxiety, stress, and depression levels in patients undergoing coronary angiography.
+17.	Slavich, G. M., & Irwin, M. R. (2014). From stress to inflammation and major depressive disorder: a social signal transduction theory of depression. Psychological bulletin, 140(3), 774.
+18.	Smallwood, M. J., Nissim, A., Knight, A. R., Whiteman, M., Haigh, R., & Winyard, P. G. (2018). Oxidative stress in autoimmune rheumatic diseases. Free Radical Biology and Medicine.
+19.	Tomiyama, A. J. (2018). Stress and Obesity. Annual review of psychology, (0).
+20.	Yerkes, R. M., & Dodson, J. D. (1908). The relation of strength of stimulus to rapidity of habit‐formation. Journal of comparative neurology and psychology, 18(5), 459-482.
+21. Zaki, J., & Williams, W. C. (2013). Interpersonal emotion regulation. Emotion (Washington, DC), 13(5), 803-810.
+22. Zheng, G., Hong, S., Hayes, J. M., & Wiley, J. W. (2015). Chronic stress and peripheral pain: evidence for distinct, region-specific changes in visceral and somatosensory pain regulatory pathways. Experimental neurology, 273, 301-311.
