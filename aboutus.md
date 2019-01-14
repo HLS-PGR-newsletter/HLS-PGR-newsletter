@@ -26,9 +26,6 @@ We are always looking for suggestions, advice, or even an extra pairs of hands (
 - Laura Wilde - CIRAL REP, Socials, PhD Office Mum
 - Feb 2018 - Present
 
-<img src="{{ site.baseurl }}/img/team/Jenny-profile.png" alt="Jenny Mackay" width = "150" />
-- Jenny Mackay - Good News and Opportunities, Pack Leader
-- Feb 2018 - Present
 
 <img src="{{ site.baseurl }}/img/team/Becki-profile.png" alt="Becky Seymour" width = "150" />
 - Becky Seymour - Reflections Columnist, Nemesis of Technology
@@ -39,8 +36,16 @@ We are always looking for suggestions, advice, or even an extra pairs of hands (
 - March 2018 - Present
 
 # Past Team Members
-<img src="{{ site.baseurl }}/img/team/Brad-profile.png" alt="Sarah Charles" width = "150" />
-- Brad Salisbury-Finch - Socials organiser. Feb 2018 - March 2018
+
+<img src="{{ site.baseurl }}/img/team/Jenny-profile.png" alt="Jenny Mackay" width = "150" />
+- Jenny Mackay - Good News and Opportunities, Pack Leader
+- Feb 2018 - March 2019
+
 
 <img src="{{ site.baseurl }}/img/team/Rachael-profile.png" alt="Rachael Barker" width = "150" />
-- Rachael Barker - Health & Wellbeing, Feb 2018 - April 2018
+- Rachael Barker - Health & Wellbeing,
+- Feb 2018 - April 2018
+
+<img src="{{ site.baseurl }}/img/team/Brad-profile.png" alt="Sarah Charles" width = "150" />
+- Brad Salisbury-Finch - Socials organiser.
+- Feb 2018 - March 2018
