@@ -12,7 +12,7 @@ In this reflection, Molly Browne will reflect on her experience with doing resea
 
 
 <center>
-  <img src="{{ site.baseurl }}/img/Cross-Faculty.PNG" alt="Cross Faculty Research" width = "300" />
+  <img src="{{ site.baseurl }}/img/Cross-Faculty.PNG" alt="Cross Faculty Research" width = "400" />
 </center>
 
 # Finding Your Place
