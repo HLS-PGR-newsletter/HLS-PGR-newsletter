@@ -32,13 +32,7 @@ All events in November are now over. December events will be put up shortly.
 
 <center> <h1> Conferences </h1> </center>
 
-* **[4th International Conference on Research in Life-Sciences & Healthcare (ICRLSH)](https://eurasiaresearch.org/conference/london-icrlsh-12-13-apr-2019)**.
 
-  * __Conference Dates:__ *12-13 April 2019*
-
-  * __Conference Venue:__ *Canada Water Theatre and Library, 21 Surrey Quays Road, London, UK*
-
-  * __Deadline for Abstract/Paper Submissions:__ *15 December 2018*
 
 * **[562nd International Conference on Medical and Biosciences (ICMBS)](http://researchworld.org/Conference2019/USA/3/ICMBS/)**
   * __Conference Dates__: *18th-19th March, 2019*
@@ -47,16 +41,7 @@ All events in November are now over. December events will be put up shortly.
   * __Final date of notification__: *14th February, 2019*
   * __Last date of registration__: *18th February, 2019*
 
-* **[2019 International Health Congress, Oxford](http://globalhealthcongress.org/)**
-  * __Conference Dates__: *26th - 28th June 2019*
-  * __Conference Venue__: *University of Oxford's St Hugh's College*
-  * __Deadline for submissions__: *15th December, 2018*
 
-* **[7th World Congress on Nursing & Healthcare (WCNH)](https://www.scientificfederation.com/wcnh-2019/)**
-    * __Conference Dates__: *17th - 18th June 2019*
-    * __Conference Venue__: *London, UK*
-    * __Deadline for submissions__: *30th November, 2018*
-    * __Theme__: *Recent innovations for better healthcare & the facets of nursing*
 
 
 
@@ -98,20 +83,8 @@ For further information please contact Sheila Medlock via [Sheila.Medlock@covent
 
 <center> <h2> HLS Bitesize Workshops </h2> </center>
 
-The 2018 workshops will be held on Wednesdays 1pm-2pm
-
 The 2019 workshops will be held on Thursdays 1pm-2pm
 
-
-* *Presenting at an International Conference: Why and How?* - Workshop given by Prof Helen Maddox. **Date**: 6th December 2018, **Location**: RC411
-
-* *Locating Subjectivity in Qualitative Research* - Workshop given by Dr Gurnam Singh. **Date**: 17th December 2018, **Location**: RC411
-
-* *What is the Research Excellence Framework (REF)? Why does it matter?* - Workshop given by Dr Catherine Brown. **Date**: 10th January 2019, **Location**: RC411
-
-* *Writing for publication* - Workshop given by Dr Simon Goodman. **Date**: 17th January 2019, **Location**: RC411
-
-* *The PhD Journey: from developing your thesis to navigating your viva - A personal story* - Workshop given by Dr Kubra Choudhry. **Date**: 30th January 2019, **Location**: RC411
 
 * *Managing your supervisory team* - Workshop given by Prof Mike Duncan. **Date**: 20th February 2019, **Location**: RC411
 
@@ -121,4 +94,8 @@ The 2019 workshops will be held on Thursdays 1pm-2pm
 
 * *Critical thinking* - Workshop given by Dr Doug Thake. **Date**: 13th March 2019, **Location**: RC411
 
+* *Open Science Revolution - What is it, and why do we care?* - Workshop given by Sarah Charles. **Date**: 20th March 2019. **Location**: TBD
+
 * *Surviving and thriving in your viva* - Workshop given by Dr Gurnam Singh. **Date**: 27th March 2019, **Location**: RC411
+
+* *Open Science Revolution - How to get on board* - Workshop Given by Sarah Charles. **Date** 
