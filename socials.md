@@ -9,31 +9,20 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 # Upcoming Events:
 
 
-## Tuesday 4th December - PG Community: Post-Graduate Winter Ball.
+## Wednesday 13th February - Board Games Evening
 
-**Venue** - The Double Tree by Hilton, CV2 2ST.
+**Venue** - Refectory, Elm Bank.
 
-**Time**: 6:30pm 4th December - 12:30am 5th December.
+**Time**: 17:00  - ~20:00 5th December.
 
-**Tickets** - https://www.cusu.org/events/8766/1882/
+This event will have any students who show up play board games. Anyone can come along: from a casual gamer who has only ever played Monopoly or Snakes and Ladders all the way to more regular board gamers.
 
-Travel to and from The HUBS are included with ticket purchase.
+Bring your own games along, and play with others.
 
+Current Games being brought:
 
-## Friday 14th December 2018 - HLS PGR Xmas Social.
-
-**Venue** -  Refectory, Elm Bank.
-
-Join us for a catch up, some games, and mince pies!
-
-Please let Laura Wilde ([wildel5@uni.coventry.ac.uk](mailto:wildel5@uni.coventry.ac.uk)) know if you are interested and would like to join us for all or to be sent the outlook invite. Further details will be confirmed closer to the time and please feel free to invite others!
-
-Food will be provided, please email to let us know dietary requirements. Vegetarian options will be provided.
-
-Festive wishes,
-
-**Time**: 4:00pm - 6:00pm, (then possibly 6pm-late elsewhere, should people want)
-
+* Wibbell++
+* Legendary: Buffy The Vampire Slayer Edition
 
 # Questions
 
