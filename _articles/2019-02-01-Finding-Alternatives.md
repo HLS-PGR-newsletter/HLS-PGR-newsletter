@@ -124,3 +124,7 @@ This piece was longer than I intended it to be, but I think getting this informa
 ___
 
 *[Sarah Charles](https://pureportal.coventry.ac.uk/en/persons/sarah-jane-charles) is a second year psychology PhD student in the [Brain, Belief, and Behaviour Lab](http://www.coventry.ac.uk/research/areas-of-research/advances-in-behavioural-science/brain-belief-and-behaviour-research/). Her research focuses on the neurochemical and behavioural mechanisms associated with social bonding. Sarah is also co-senior Research REP for HLS and editor of the PGR Newsletter. She also is a cofounder of [Coventry University's Development of Open Science](https://www.facebook.com/groups/165435830724121/?ref=br_rs) group.*
+
+<center>
+  <img src="{{ site.baseurl }}/img/team/Sarah-profile.png" alt="Sarah Charles" width = "400" />
+</center>
