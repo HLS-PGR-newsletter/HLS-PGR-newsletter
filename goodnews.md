@@ -12,6 +12,29 @@ On this page we will try and keep an up-to-date list of all the achievements mad
 
 Even if you have some non-research based good news (Passed a test? Competed in a music or sport event?), let us know and people can see what else our post-graduates have been up to! Email [Jenny Mackay](mailto:cov.pgrnewsletter+goodnews@gmail.com) to add any good news to the list.
 
+<center>
+<h1> Updates from 1st February 2019 </h1>
+</center>
+
+# Publications
+
+* __James Bartlett__ co-wrote a chapter for the [PsyPAG Guide](http://www.psypag.co.uk/wp-content/uploads/2019/01/PsyPAG-Guide-2018-WEB.pdf) which was published in January. (Article pages 85-90)
+
+# Awards
+
+* __Laura Wilde__ won 2 awards at the Post-Graduate Winter Ball. Post-Graduate Research Rep of the Year and HLS Faculty Associate Deans' Award.
+* __Sarah Charles__ won the award for Contribution to the Coventry University Research Community
+Jenny Mackay Presented against all other faculties for PGR of the year!
+
+# Thank you
+
+After the release of this month's Newsletter, 2 members of the team will be stepping down. Here we thank you for a great year of helping us found and release the PGR newsletter
+
+__Laura Wilde__ has been our REP and socials organiser for the Newsletter. As well as being a REP (Senior REP 2017-2018; Research REP 2018-2019), she has helped organise the HLS coffee mornings, the PGR Christmas party and the upcoming HLS board games night. Her work and contribution has been invaluable, and she will be missed.
+
+Similarly __Jenny Mackay__ has been our Good News and Opportunities collator for the Newsletter. She has managed to do this while driving up and down the country for her research. Without her the good news that you have been getting each month, and lists of opportunities would not have been made available.
+
+Thank you to both of you from the rest of us at the PGR Newsletter.
 
 
 <center>
