@@ -22,24 +22,23 @@ We are always looking for suggestions, advice, or even an extra pairs of hands (
 - James Bartlett - Website design, Thinkpieces, Cynic
 - Feb 2018 - Present
 
-<img src="{{ site.baseurl }}/img/team/Laura-profile.png" alt="Laura Wilde" width = "150" />
-- Laura Wilde - CIRAL REP, Socials, PhD Office Mum
-- Feb 2018 - Present
-
-
 <img src="{{ site.baseurl }}/img/team/Becki-profile.png" alt="Becky Seymour" width = "150" />
 - Becky Seymour - Reflections Columnist, Nemesis of Technology
 - Feb 2018 - Present
 
-<img src="{{ site.baseurl }}/img/team/Danii-profile.png" alt="Danii Chippet" width = "150" />
+<img src="{{ site.baseurl }}/img/team/Danii-profile.png" alt="Danii Chippett" width = "150" />
 - Danii Chippett - Health & Wellbeing columnist, CSELS & Senior REP: Here to Gin and Bear it
 - March 2018 - Present
 
 # Past Team Members
 
+<img src="{{ site.baseurl }}/img/team/Laura-profile.png" alt="Laura Wilde" width = "150" />
+- Laura Wilde - CIRAL REP, Socials, PhD Office Mum
+- Feb 2018 - February 2019
+
 <img src="{{ site.baseurl }}/img/team/Jenny-profile.png" alt="Jenny Mackay" width = "150" />
 - Jenny Mackay - Good News and Opportunities, Pack Leader
-- Feb 2018 - March 2019
+- Feb 2018 - February 2019
 
 
 <img src="{{ site.baseurl }}/img/team/Rachael-profile.png" alt="Rachael Barker" width = "150" />
