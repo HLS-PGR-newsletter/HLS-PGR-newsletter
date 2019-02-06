@@ -15,11 +15,13 @@ PhD students can fall into the trap of feeling you have work 24/7. However, for 
 
 **Time**: 17:00  - ~20:00.
 
+**Food/Drink**: Small snacks and refreshments made available by RECAP
+
 This event will have any students who show up play board games. Anyone can come along: from a casual gamer who has only ever played Monopoly or Snakes and Ladders all the way to more regular board gamers.
 
 Bring your own games along, and play with others.
 
-Current games we know are being brought:
+**Current games we know are being brought:**
 
 * [Wibbell++](https://boardgamegeek.com/boardgame/180845/wibbell) - A silly set of card games that can be played by 2-15 players. (time per game ~ 10-20 minutes)
 * [Legendary: Buffy The Vampire Slayer Edition](https://boardgamegeek.com/boardgame/210290/legendary-buffy-vampire-slayer) - A co-operative deck-building game where you each take your same starter deck and improve it across the game to help take out a 'Big Bad' (time per game ~ 60-75 minutes)
